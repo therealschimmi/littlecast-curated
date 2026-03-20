@@ -1,0 +1,134 @@
+[
+  {
+    "id": "checkpod",
+    "title": "CheckPod – Der Podcast mit Checker Tobi",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8a/e6/2c/8ae62cb9-09b8-d96b-1fbc-0209f92216ff/mza_5325373565044573997.jpeg/600x600bb.jpg",
+    "language": "de",
+    "ageMin": 6,
+    "ageMax": 12,
+    "avgMinutes": 22
+  },
+  {
+    "id": "diemaus",
+    "title": "Die Sendung mit der Maus – Zum Hören",
+    "publisher": "WDR",
+    "rss": "https://www1.wdr.de/mediathek/audio/diemaus/diemaus-podcast-100~_size-L.rss",
+    "artwork": "https://www1.wdr.de/mediathek/audio/diemaus/diemaus-podcast-100~_size-L.jpg",
+    "language": "de",
+    "ageMin": 4,
+    "ageMax": 10,
+    "avgMinutes": 30
+  },
+  {
+    "id": "kakadu",
+    "title": "Kakadu – Der Kinderpodcast",
+    "publisher": "Deutschlandfunk Kultur",
+    "rss": "https://www.kakadu.de/kakadu-104.xml",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dc/a2/94/dca2948c-01ef-6f85-37a4-01797d2b5cdb/mza_2333181387655719874.jpg/600x600bb.jpg",
+    "language": "de",
+    "ageMin": 6,
+    "ageMax": 12,
+    "avgMinutes": 22
+  },
+  {
+    "id": "pumuckl",
+    "title": "Pumuckl – Der Hörspiel-Klassiker",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/pumuckl/feed.xml",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/d6/45/b4/d645b4d0-d2b1-83af-7f30-77b809554761/mza_5800475025996291533.jpeg/600x600bb.jpg",
+    "language": "de",
+    "ageMin": 5,
+    "ageMax": 12,
+    "avgMinutes": 25
+  },
+  {
+    "id": "anna-tiere",
+    "title": "Anna und die wilden Tiere",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/anna-und-die-wilden-tiere/feed.xml",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/21/22/41/21224107-ab6b-e1ea-96d8-455c6f300799/mza_13470062846631375812.jpeg/600x600bb.jpg",
+    "language": "de",
+    "ageMin": 5,
+    "ageMax": 10,
+    "avgMinutes": 20
+  },
+  {
+    "id": "geolino",
+    "title": "GEOlino Spezial – Der Wissenspodcast",
+    "publisher": "GEOlino / Audio Alliance",
+    "rss": "https://cdn.audiorella.com/podcasts/1688-geolino-spezial-der-wissenspodcast-fur-junge-entdeckerinnen-und-entdecker/feed.rss",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cd/fa/71/cdfa716a-3042-53a0-0ebb-969f4a4269af/mza_7777901430239387806.jpg/600x600bb.jpg",
+    "language": "de",
+    "ageMin": 7,
+    "ageMax": 14,
+    "avgMinutes": 20
+  },
+  {
+    "id": "wasistWas",
+    "title": "WAS IST WAS – Der Podcast",
+    "publisher": "HEAROOZ / Tessloff",
+    "rss": "https://feeds.megaphone.fm/KBBF5520541713",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/52/c3/0452c3a3-9604-df82-88ac-8a856a947a81/mza_13534833654146247977.jpg/600x600bb.jpg",
+    "language": "de",
+    "ageMin": 6,
+    "ageMax": 14,
+    "avgMinutes": 18
+  },
+  {
+    "id": "ohrenbaer",
+    "title": "Ohrenbär",
+    "publisher": "rbb",
+    "rss": "https://www.rbb-online.de/ohrenbear/feed/podcast-ohrenbear.feed.xml",
+    "artwork": "https://www.rbb-online.de/ohrenbear/bilder/ohrenbear-logo.jpg",
+    "language": "de",
+    "ageMin": 4,
+    "ageMax": 8,
+    "avgMinutes": 15
+  },
+  {
+    "id": "brainspump",
+    "title": "Brains On!",
+    "publisher": "American Public Media",
+    "rss": "https://feeds.publicradio.org/public_feeds/brains-on/rss/rss",
+    "artwork": "https://img.apmcdn.org/brains-on-logo.jpg",
+    "language": "en",
+    "ageMin": 6,
+    "ageMax": 12,
+    "avgMinutes": 25
+  },
+  {
+    "id": "wow",
+    "title": "Wow in the World",
+    "publisher": "Tinkercast / NPR",
+    "rss": "https://feeds.npr.org/510321/podcast.xml",
+    "artwork": "https://media.npr.org/assets/img/wow-in-world.jpg",
+    "language": "en",
+    "ageMin": 5,
+    "ageMax": 12,
+    "avgMinutes": 20
+  },
+  {
+    "id": "bedtimestory",
+    "title": "Bedtime History",
+    "publisher": "Bedtime FM",
+    "rss": "https://bedtimehistorypodcast.libsyn.com/rss",
+    "artwork": "https://ssl-static.libsyn.com/p/assets/bedtimehistory.jpg",
+    "language": "en",
+    "ageMin": 5,
+    "ageMax": 12,
+    "avgMinutes": 12
+  },
+  {
+    "id": "storynory",
+    "title": "Storynory – Stories for Kids",
+    "publisher": "Storynory",
+    "rss": "https://www.storynory.com/feed/podcast/",
+    "artwork": "https://www.storynory.com/wp-content/uploads/storynory-logo.jpg",
+    "language": "en",
+    "ageMin": 4,
+    "ageMax": 10,
+    "avgMinutes": 15
+  }
+]
