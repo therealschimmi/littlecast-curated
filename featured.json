@@ -2,81 +2,81 @@
   {
     "id": "checker-tobi",
     "title": "Checker Tobi",
-    "publisher": "Unknown",
+    "publisher": "Bayerischer Rundfunk",
     "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8a/e6/2c/8ae62cb9-09b8-d96b-1fbc-0209f92216ff/mza_5325373565044573997.jpeg/600x600bb.jpg",
+    "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de"
   },
   {
     "id": "die-maus-zum-hoeren",
     "title": "Die Maus zum Hören",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://kinder.wdr.de/radio/diemaus/audio/diemaus-60/diemaus-60-106.podcast",
+    "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-sendereihenbild-podcast-1-100~_v-Podcast.jpg",
     "language": "de"
   },
   {
     "id": "kakadu",
     "title": "Kakadu",
-    "publisher": "Unknown",
+    "publisher": "Deutschlandfunk Kultur",
     "rss": "https://www.kakadu.de/kakadu-104.xml",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dc/a2/94/dca2948c-01ef-6f85-37a4-01797d2b5cdb/mza_2333181387655719874.jpg/600x600bb.jpg",
+    "artwork": "https://bilder.deutschlandfunk.de/FI/LE/_8/69/FILE_869f7ed9b25625bceb9bfe2d15fe6f96/kakadu-podcast-100-1920x1920.jpg",
     "language": "de"
   },
   {
     "id": "anna-und-die-wilden-tiere",
     "title": "Anna und die wilden Tiere",
-    "publisher": "Unknown",
+    "publisher": "Bayerischer Rundfunk",
     "rss": "https://feeds.br.de/anna-und-die-wilden-tiere/feed.xml",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/21/22/41/21224107-ab6b-e1ea-96d8-455c6f300799/mza_13470062846631375812.jpeg/600x600bb.jpg",
+    "artwork": "https://img.br.de/a6ab1d29-858e-42a7-aa0c-4c1a63caeb6a.jpeg?fm=jpg&w=1800",
     "language": "de"
   },
   {
     "id": "geolino",
     "title": "GEOlino",
-    "publisher": "Unknown",
+    "publisher": "GEOlino / Audio Alliance / RTL+",
     "rss": "https://cdn.audiorella.com/podcasts/1688-geolino-spezial-der-wissenspodcast-fur-junge-entdeckerinnen-und-entdecker/feed.rss",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cd/fa/71/cdfa716a-3042-53a0-0ebb-969f4a4269af/mza_7777901430239387806.jpg/600x600bb.jpg",
+    "artwork": "https://cdn.audiorella.com/podcasts/1688-geolino-spezial-der-wissenspodcast-fur-junge-entdeckerinnen-und-entdecker/1688_cover.jpg?v=2",
     "language": "de"
   },
   {
     "id": "was-ist-was",
     "title": "WAS IST WAS",
-    "publisher": "Unknown",
+    "publisher": "HEAROOZ",
     "rss": "https://feeds.megaphone.fm/KBBF5520541713",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/52/c3/0452c3a3-9604-df82-88ac-8a856a947a81/mza_13534833654146247977.jpg/600x600bb.jpg",
+    "artwork": "https://megaphone.imgix.net/podcasts/4c42a5fe-dc47-11ed-88e0-9b2bf663b399/image/bcdeba378a58c43a96d38d115133b466.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de"
   },
   {
     "id": "mira",
     "title": "Mira",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "MIRA",
+    "rss": "https://podcastb11277.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sl9qdJn2jCNruTkdFN5hTIvZnRDyWNW3skJemW2S5-_g=/https://main.podigee-cdn.net/uploads/u52372/0685d99e-a55f-47d4-aa0d-bb48563ccf05.jpg",
     "language": "de"
   },
   {
     "id": "flipsi",
     "title": "Flipsi",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "AOK Rheinland / Hamburg",
+    "rss": "https://flipsi-findets-raus.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sbct0F8sRteFe6kDUru-f0MTJaO4YT1T33zhw-ovVj4c=/https://main.podigee-cdn.net/uploads/u9304/0b34d7ee-1616-4be2-a028-942ecb146d75.jpg",
     "language": "de"
   },
   {
     "id": "storynory",
     "title": "Storynory",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Storynory",
+    "rss": "https://www.storynory.com/feeds/stories",
+    "artwork": "https://static.libsyn.com/p/assets/3/1/6/d/316d1a0b906e67c116c3140a3186d450/storynory-new-id-v2.jpg",
     "language": "en"
   },
   {
     "id": "stories-podcast",
     "title": "Stories Podcast",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Starglow Media",
+    "rss": "https://feeds.megaphone.fm/STM4306131571",
+    "artwork": "https://megaphone.imgix.net/podcasts/ab251c42-5fcb-11ef-a0f6-e7c1506b46d7/image/5fc6f290c925f159c1d8576865d1e96e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
   },
   {
@@ -90,65 +90,65 @@
   {
     "id": "500-words-bedtime-stories",
     "title": "500 Words: Bedtime Stories",
-    "publisher": "BBC",
-    "rss": "",
-    "artwork": "",
+    "publisher": "BBC Radio 2",
+    "rss": "https://podcasts.files.bbci.co.uk/p02tkm27.rss",
+    "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06zkzvv.jpg",
     "language": "en"
   },
   {
     "id": "journey-with-story",
     "title": "Journey with Story",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Kathleen Pelley",
+    "rss": "https://journeywithstory.libsyn.com/rss",
+    "artwork": "https://static.libsyn.com/p/assets/e/1/8/a/e18a071aa5c68960/Journey_With_Story_podcast_cover.png",
     "language": "en"
   },
   {
     "id": "brains-on",
     "title": "Brains On!",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Brains On Universe",
+    "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/20172af1-ae6b-4b68-90d7-b375010d4361/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/image.jpg?t=1760463026&size=Large",
     "language": "en"
   },
   {
     "id": "tumble-science-podcast",
     "title": "Tumble Science Podcast",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Tumble Media",
+    "rss": "http://feeds.sciencepodcastforkids.com/tumblepodcast",
+    "artwork": "https://megaphone.imgix.net/podcasts/26aa508c-d505-11ee-bb02-73230b38f27c/image/1c6523f5717fbcd9f8647bc4c72a3b57.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
   },
   {
     "id": "but-why",
     "title": "But Why: A Podcast for Curious Kids",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Vermont Public",
+    "rss": "https://podcasts.vpr.net/but-why",
+    "artwork": "https://static.feedpress.com/logo/vpr-but-why-62b4d4edadb66.png",
     "language": "en"
   },
   {
     "id": "wow-in-the-world",
     "title": "Wow in the World",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Tinkercast",
+    "rss": "https://rss.art19.com/wow-in-the-world",
+    "artwork": "https://content.production.cdn.art19.com/images/14/d3/c8/dc/14d3c8dc-9cd9-48ea-9a3d-d235825a529a/4bbf0e7addb317eb4e14fcf69fce5edd2f49ad28f14c2aeedbb7793877035bbd9de7a6f013a506a24426e12d4d3ab7dd254c9cea99272b7b9962e9aab283d120.jpeg",
     "language": "en"
   },
   {
     "id": "the-week-junior-show",
     "title": "The Week Junior Show",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/0c388a0d-3e12-4c24-9de8-aa9200bf9219/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/0c388a0d-3e12-4c24-9de8-aa9200bf9219/image.jpg?t=1616416232&size=Large",
     "language": "en"
   },
   {
     "id": "une-histoire-et-oli",
     "title": "Une Histoire Et… Oli",
     "publisher": "France Inter",
-    "rss": "",
-    "artwork": "",
+    "rss": "http://radiofrance-podcast.net/podcast09/rss_19721.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/03/185450b9-904b-4cf2-b3b9-f7a8b065ea47/1400x1400_sc_rf_omm_0000038202_ite.jpg",
     "language": "fr"
   },
   {
@@ -162,65 +162,65 @@
   {
     "id": "pomme-d-api",
     "title": "La Grande Histoire de Pomme d'Api",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "La grande histoire de Pomme d'Api",
+    "rss": "https://feed.ausha.co/B6r8OclKP6gn",
+    "artwork": "https://image.ausha.co/ZvneIxFuuDouEZTgDWn7x0K68CMVNtTEohyQDhTx_1400x1400.jpeg?t=1721231834",
     "language": "fr"
   },
   {
     "id": "salut-l-info",
     "title": "Salut l'info!",
-    "publisher": "Franceinfo",
-    "rss": "",
-    "artwork": "",
+    "publisher": "franceinfo",
+    "rss": "https://radiofrance-podcast.net/podcast09/podcast_9f5486b0-38b5-4544-bf49-e24b18bd022c.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/07/ff2d16ff-1fb5-495d-bef8-23ab2a378fa4/1400x1400_sc_logo-sli-franceinfo-rvb.jpg",
     "language": "fr"
   },
   {
     "id": "1jour1actu",
     "title": "1jour1actu",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Allo, 1jour1actu ?",
+    "rss": "https://feed.ausha.co/brpJqfRDPk1E",
+    "artwork": "https://image.ausha.co/96yzIBRqpSGLam7SNLN6uSnB8vUsq63utrSdx7WE_1400x1400.jpeg?t=1601473285",
     "language": "fr"
   },
   {
     "id": "les-odyssees",
     "title": "Les Odyssées",
     "publisher": "France Inter",
-    "rss": "",
-    "artwork": "",
+    "rss": "http://radiofrance-podcast.net/podcast09/rss_20108.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2019/07/9d4f9d47-679b-4546-8d26-c768ab84dc62/1400x1400_rf_omm_0000022609_ite.jpg",
     "language": "fr"
   },
   {
     "id": "promenades-imaginaires",
     "title": "Promenades Imaginaires",
     "publisher": "Musée d'Orsay",
-    "rss": "",
-    "artwork": "",
+    "rss": "https://feed.pippa.io/public/shows/5d03a2df2ef500851c57fe4d",
+    "artwork": "https://assets.pippa.io/shows/5d03a2df2ef500851c57fe4d/1560757897134-a94bf849545f2a58016119239ac9544b.jpeg",
     "language": "fr"
   },
   {
     "id": "les-zinstrus",
     "title": "Les Zinstrus",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "France Musique",
+    "rss": "https://radiofrance-podcast.net/podcast09/rss_22142.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2023/03/d4b38f10-7585-4f4c-bb17-b7a319c35fbe/1400x1400_sc_rf_omm_0000038203_ite.jpg",
     "language": "fr"
   },
   {
     "id": "favole-per-bambini",
     "title": "Favole per Bambini",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Le Favole di B",
+    "rss": "https://anchor.fm/s/c580a3d4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/33035421/5965e67de67cca41.jpeg",
     "language": "it"
   },
   {
     "id": "storie-della-buonanotte",
     "title": "Storie della Buonanotte",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "FONDAZIONE TRG - POD STORIES",
+    "rss": "https://www.spreaker.com/show/4694234/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f9347e24fe871168652eaa7182658a03.jpg",
     "language": "it"
   },
   {
@@ -234,17 +234,17 @@
   {
     "id": "coccole-sonore",
     "title": "Coccole Sonore",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Daniela Piovini",
+    "rss": "https://www.spreaker.com/show/4697729/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0c011482977104ebd28b67195fe5b671.jpg",
     "language": "it"
   },
   {
     "id": "stories-in-slow-italian",
     "title": "Stories in Slow Italian",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Daily Italian with Elena",
+    "rss": "https://anchor.fm/s/70a3ba18/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18797782/18797782-1634811559165-fa4f0618931f4.jpg",
     "language": "it"
   },
   {
@@ -258,41 +258,41 @@
   {
     "id": "storyglot",
     "title": "Storyglot",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Storyglot",
+    "rss": "https://rss.buzzsprout.com/1907847.rss",
+    "artwork": "https://storage.buzzsprout.com/we7d5xgrprvfcrmeau0p0t1zqp7e?.jpg",
     "language": "pt"
   },
   {
     "id": "mia-esmeriz-academy",
     "title": "Mia Esmeriz Academy",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Mia Esmeriz",
+    "rss": "https://rss.buzzsprout.com/1392994.rss",
+    "artwork": "https://storage.buzzsprout.com/44ht9yr23kqpcpngthm3vobdiqva?.jpg",
     "language": "pt"
   },
   {
     "id": "portuguese-lab-podcast",
     "title": "Portuguese Lab Podcast",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Susana Morais",
+    "rss": "https://www.portugueselab.com/podcast?format=rss",
+    "artwork": "https://images.squarespace-cdn.com/content/v1/58f5eaf9f7e0ab404e112d0d/1714151906920-YL10LLNC0AZAUWLKMOS3/PLP+artwork+2024.jpg?format=1500w",
     "language": "pt"
   },
   {
     "id": "slow-portuguese-maria",
     "title": "Slow Portuguese With Maria",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Maria Amador",
+    "rss": "https://anchor.fm/s/fc478e3c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42225479/42225479-1729240999685-b36473cb7698.jpg",
     "language": "pt"
   },
   {
     "id": "eat-your-spanish",
     "title": "Eat Your Spanish",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Evan and Vanessa",
+    "rss": "https://anchor.fm/s/519ab2c0/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/13590928/13590928-1770606084937-171962f1c33f1.jpg",
     "language": "es"
   },
   {
@@ -314,121 +314,121 @@
   {
     "id": "cuentos-encantados",
     "title": "Cuentos Encantados",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Cartas Encantadas",
+    "rss": "https://feeds.ivoox.com/feed_fg_f1758796_filtro_1.xml",
+    "artwork": "https://static-2.ivoox.com/canales/9/7/5/6/7271567586579_XXL.jpg",
     "language": "es"
   },
   {
     "id": "mamalingua-go",
     "title": "MamaLingua Go!",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Aileen Passariello McAleer",
+    "rss": "https://anchor.fm/s/400a43a4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10644145/10644145-1605743479428-2bd60ace1a41d.jpg",
     "language": "es"
   },
   {
     "id": "tumble-en-espanol",
     "title": "Tumble En Español",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Tumble Media",
+    "rss": "https://feeds.megaphone.fm/ARML4583684969",
+    "artwork": "https://megaphone.imgix.net/podcasts/5c086ba2-f6ba-11ee-9dfb-efdf86fb2ad7/image/7be3718b38ebabcac9ad5f329c41a070.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "es"
   },
   {
     "id": "wetenschapje",
     "title": "Wetenschapje",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Het Geluidshuis",
+    "rss": "https://feeds.acast.com/public/shows/5e74e4bf5f7edb757e1d98f5",
+    "artwork": "https://assets.pippa.io/shows/5e74e4bf5f7edb757e1d98f5/1716797238702-891e72a157e3cb9140807a8f05f8d16c.jpeg",
     "language": "nl"
   },
   {
     "id": "sterrins-animal-encyclopaedia",
     "title": "Sterrin's Animal Encyclopaedia",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Sterrin Smalbrugge / Corti media",
+    "rss": "https://www.omnycontent.com/d/playlist/0d263664-472e-44a0-9a9b-b3ae007b5300/36d2c63d-82b4-48a5-bde4-b3d000ec4378/9420eb28-f9b7-4458-9587-b3d000ec4385/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/playlist/0d263664-472e-44a0-9a9b-b3ae007b5300/36d2c63d-82b4-48a5-bde4-b3d000ec4378/9420eb28-f9b7-4458-9587-b3d000ec4385/image.jpg?t=1768227615&size=Large",
     "language": "nl"
   },
   {
     "id": "mission-feeler",
     "title": "Mission Feeler (Missie Voelspriet)",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "NPO Zappelin / KRO-NCRV",
+    "rss": "https://podcast.npo.nl/feed/missie-voelspriet.xml",
+    "artwork": "https://podcast.npo.nl/data/thumb/missie-voelspriet.1400.af9ec760fd10c3b20d071217dce405cd.jpg",
     "language": "nl"
   },
   {
     "id": "waarom-daarom",
     "title": "Waarom? Daarom!",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Lievelings met Jordy / Geuren & Kleuren Media",
+    "rss": "https://feeds.acast.com/public/shows/68ecc311f513ad2b812f8c9b",
+    "artwork": "https://assets.pippa.io/shows/cover/1760346845937-89e89863-6e87-4191-acc1-ecd57bb137d1.jpeg",
     "language": "nl"
   },
   {
     "id": "nos-jeugdjournaal",
     "title": "NOS Jeugdjournaal",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "NPO Zapp / NOS",
+    "rss": "https://podcast.npo.nl/feed/nos-jeugdjournaal.xml",
+    "artwork": "https://podcast.npo.nl/data/thumb/nos-jeugdjournaal.1400.16675417c0f7d0cac7a52844a0707171.jpg",
     "language": "nl"
   },
   {
     "id": "het-klokhuis",
     "title": "Het Klokhuis",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "NPO Zapp / NTR",
+    "rss": "https://podcast.npo.nl/feed/het-klokhuis.xml",
+    "artwork": "https://podcast.npo.nl/data/thumb/het-klokhuis.1400.e97a0996321857a38a22e9dbae7d6ff3.jpg",
     "language": "nl"
   },
   {
     "id": "stokstaartjes",
     "title": "Stokstaartjes",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Stokstaartjes Podcast",
+    "rss": "https://feeds.soundcloud.com/users/soundcloud:users:1081901803/sounds.rss",
+    "artwork": "https://i1.sndcdn.com/avatars-KhWtDzgzion4HkT4-lbty2Q-original.jpg",
     "language": "nl"
   },
   {
     "id": "bedtijdverhalen-rebelse-meisjes",
     "title": "Bedtijdverhalen voor Rebelse Meisjes",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Abel Studios",
+    "rss": "https://anchor.fm/s/e9f37674/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39150469/39150469-1696337992808-e5dedd08242b5.jpg",
     "language": "nl"
   },
   {
     "id": "de-boekenparade",
     "title": "De Boekenparade",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Forum Groningen",
+    "rss": "https://anchor.fm/s/249fe86c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6044595/6044595-1643280400973-070f4761689d7.jpg",
     "language": "nl"
   },
   {
     "id": "abel-bedtijdverhalen",
     "title": "Abel Bedtijdverhalen",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Abel Studios",
+    "rss": "https://anchor.fm/s/10e319bec/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45230995/45230995-1770282163052-8bcb27e4d34aa.jpg",
     "language": "nl"
   },
   {
     "id": "worming-up",
     "title": "Worming Up",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "Oorzaken Festival",
+    "rss": "https://feeds.transistor.fm/worming-up",
+    "artwork": "https://img.transistor.fm/XC4PWBxdgZ1TKAr2HF4JFoJIYH5RGOehduMl5-6sd3w/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzIyNTA3LzE2MjU0/NzM4MDktYXJ0d29y/ay5qcGc.jpg",
     "language": "nl"
   },
   {
     "id": "doe-mee-met-aimy",
     "title": "Doe mee met Aimy!",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
+    "publisher": "1004 Podcasting",
+    "rss": "https://feeds.acast.com/public/shows/6079a27e77978d4bc09c2f9b",
+    "artwork": "https://assets.pippa.io/shows/6079a27e77978d4bc09c2f9b/1621540751901-efea9d0c24952873727a6637c3d6d779.jpeg",
     "language": "nl"
   }
 ]
