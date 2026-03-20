@@ -80,7 +80,7 @@
     "id": "ohrenbaer",
     "title": "Ohrenbär",
     "publisher": "rbb",
-    "rss": "https://www.ohrenbaer.de/podcast/podcast.html",
+    "rss": "https://www.ohrenbaer.de/podcast/podcast.feed.podcast.xml",
     "artwork": "https://www.rbb-online.de/ohrenbear/bilder/ohrenbear-logo.jpg",
     "language": "de",
     "ageMin": 4,
