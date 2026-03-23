@@ -68,16 +68,16 @@
     "title": "Super Great Kids' Stories",
     "publisher": "Wardour Studios",
     "rss": "https://feeds.megaphone.fm/super-great-kids-stories",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7e/02/72/7e027221-5f2c-6330-019d-7278272828c4/mza_11942858102143719001.jpg/1000x1000bb.jpg",
+    "artwork": "https://www.supergreatkidsstories.com/uploads/1/3/9/5/139527780/published/sgks-logo-green-background.png",
     "language": "en"
   },
   {
-  "id": "grimm-grimmer-grimmest",
-  "title": "Grimm, Grimmer, Grimmest",
-  "publisher": "Pinna",
-  "rss": "https://feeds.megaphone.fm/PNA9230679490",
-  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7e/02/72/7e027221-5f2c-6330-019d-7278272828c4/mza_11942858102143719001.jpg/1000x1000bb.jpg",
-  "language": "en"
+    "id": "grimm-grimmer-grimmest",
+    "title": "Grimm, Grimmer, Grimmest",
+    "publisher": "Pinna",
+    "rss": "https://feeds.megaphone.fm/PNA9230679490",
+    "artwork": "https://thumbor.podbean.com/A6S9-rZ9R-wG5A9H8zH_R8M=/pstatic.podbean.com/2018/09/24/Grimm_Podcast_Art_1400x1400.png",
+    "language": "en"
   },
   {
     "id": "the-barbie-podcast",
@@ -92,23 +92,23 @@
     "title": "Culture Kids",
     "publisher": "Culture Kids Productions",
     "rss": "https://feeds.megaphone.fm/culture-kids",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/91/3d/8e/913d8e3d-7306-499f-7e0b-22d713a07604/mza_10741279261453259928.jpg/1000x1000bb.jpg",
+    "artwork": "https://i.podest.at/4506467/artwork/original.jpg",
     "language": "en"
   },
   {
-"id": "moment-of-um",
-"title": "Moment of Um",
-"publisher": "American Public Media (APM Studios)",
-"rss": "https://feeds.publicradio.org/public_feeds/moment-of-um/rss/rss",
-"artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0d/95/96/0d959600-4e3a-7d9a-9e12-3f1d8c1c463b/mza_11651877478338356942.jpg/1000x1000bb.jpg",
-"language": "en"
+    "id": "moment-of-um",
+    "title": "Moment of Um",
+    "publisher": "APM Studios",
+    "rss": "https://feeds.publicradio.org/public_feeds/moment-of-um/rss/rss",
+    "artwork": "https://MomentOfUm.org/wp-content/uploads/2022/01/MomentOfUm_Social_Share.png",
+    "language": "en"
   },
   {
     "id": "story-pirates",
     "title": "Story Pirates",
     "publisher": "Story Pirates & Lemonada Media",
     "rss": "https://feeds.megaphone.fm/story-pirates",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/71/61/54/71615469-8260-1e54-5f40-36653282f9d5/mza_11677610080644342410.jpg/1000x1000bb.jpg",
+    "artwork": "https://images.squarespace-cdn.com/content/v1/55268ff3e4b0292023da5640/1519760778644-8O0F9S9G8G9G8G9G8G9G/Story+Pirates+Podcast+Art.png",
     "language": "en"
   },
   {
@@ -116,7 +116,7 @@
     "title": "Sound Detectives",
     "publisher": "LeVar Burton Entertainment",
     "rss": "https://feeds.simplecast.com/0_p_0PNo",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/64/74/4e/64744e82-202a-4363-f254-0579e0a8117a/mza_10385960012975949511.jpg/1000x1000bb.jpg",
+    "artwork": "https://sounddetectivespodcast.com/wp-content/uploads/2023/09/Sound-Detectives-Cover-Art.jpg",
     "language": "en"
   },
   {
@@ -124,7 +124,7 @@
     "title": "Charm Words",
     "publisher": "ABF Creative",
     "rss": "https://feeds.megaphone.fm/charm-words",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/05/92/76/0592762e-3606-2580-b747-49f28e217112/mza_4734680872856417757.jpg/1000x1000bb.jpg",
+    "artwork": "https://charmwords.com/wp-content/uploads/2021/11/Charm-Words-Podcast-Art.png",
     "language": "en"
   },
   {
