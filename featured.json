@@ -68,7 +68,7 @@
     "title": "Super Great Kids' Stories",
     "publisher": "Wardour Studios",
     "rss": "https://feeds.megaphone.fm/super-great-kids-stories",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7e/02/72/7e027221-5f2c-6330-019d-7278272828c4/mza_11942858102143719001.jpg/1400x1400bb.jpg",
+    "artwork": "https://megaphone.imgix.net/podcasts/1b733bb6-a532-11ec-844f-233e5c8f3533/image/show-cover.jpg",
     "language": "en"
   },
   {
@@ -84,15 +84,15 @@
     "title": "The Barbie Podcast",
     "publisher": "Mattel & Sony Music Entertainment",
     "rss": "https://rss.art19.com/the-barbie-podcast",
-    "artwork": "https://content.production.cdn.art19.com/images/30/92/47/31/30924731-096d-495f-9e32-05459345277f/817296062f83737a0641b072836269931362e5977999818b5779032483832d2e1457225c56c68a44f479708977c7c0067645f0967396a92849e75143a41b80c3.jpeg",
+    "artwork": "https://content.production.cdn.art19.com/images/bf/0e/14/b7/bf0e14b7-3798-41b5-876a-1412eaefa6af/82b93703c12079f47e125855149ffa44d4fafb01605b05f153953985e8ee08f894d285bc10858326cde1ba6cc1a7884c149ad4d9043a5b11e9525d3201d9162d.jpeg",
     "language": "en"
   },
   {
     "id": "culture-kids",
     "title": "Culture Kids",
     "publisher": "Culture Kids Productions",
-    "rss": "https://feeds.megaphone.fm/culture-kids",
-    "artwork": "https://megaphone.imgix.net/podcasts/7a7f45b0-681c-11eb-8965-0376d5402685/image/Culture_Kids_Final_Logo_sq.jpg",
+    "rss": "https://feeds.megaphone.fm/ARML8941299326",
+    "artwork": "https://megaphone.imgix.net/podcasts/23550d2c-0685-11ee-be68-03a4dfbd38a9/image/c8d26ee2f293c0045998fc0f5dd4979a.png",
     "language": "en"
   },
   {
@@ -100,31 +100,31 @@
     "title": "Moment of Um",
     "publisher": "APM Studios",
     "rss": "https://feeds.publicradio.org/public_feeds/moment-of-um/rss/rss",
-    "artwork": "https://files.panteon.hr/p/moment-of-um.jpg",
+    "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/a18e28c2-acee-4306-b1cd-b37501214ce9/image.jpg?t=1760463292&size=Large",
     "language": "en"
   },
   {
     "id": "story-pirates",
     "title": "Story Pirates",
     "publisher": "Story Pirates & Lemonada Media",
-    "rss": "https://www.omnycontent.com/d/playlist/e73c998d-6e60-4327-bcde-a7ba00bc440d/9564177d-7883-4919-813c-ac7100344d2d/08197177-d7d8-490b-9302-ac7100344d3e/podcast.rss",
-    "artwork": "https://www.omnycontent.com/d/programs/e73c998d-6e60-4327-bcde-a7ba00bc440d/9564177d-7883-4919-813c-ac7100344d2d/image.jpg?t=1658428178&size=Large",
+    "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6600fba2-3fbd-41c4-9aea-b36f01332b48/b3c09fe0-4939-4d3b-b095-b36f01332b52/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/6600fba2-3fbd-41c4-9aea-b36f01332b48/image.jpg?t=1759872340&size=Large",
     "language": "en"
   },
   {
     "id": "sound-detectives",
     "title": "Sound Detectives",
     "publisher": "LeVar Burton Entertainment",
-    "rss": "https://feeds.simplecast.com/0_p_0PNo",
-    "artwork": "https://image.simplecastcdn.com/images/735076ec-f628-4441-949e-73602f37803e/e291669e-5614-469b-9877-380d603a119f/1400x1400-600x600.jpg",
+    "rss": "https://feeds.simplecast.com/jrxi_2W2",
+    "artwork": "https://image.simplecastcdn.com/images/00c81e60-45f9-4643-9fed-2184b2b6a3d3/839b8350-9f80-473a-b2c8-b2cb77f8c636/3000x3000/stitcher-cover-sound-detectives-1080x1080-final.jpg?aid=rss_feed",
     "language": "en"
   },
   {
     "id": "charm-words",
     "title": "Charm Words",
     "publisher": "ABF Creative",
-    "rss": "https://feeds.megaphone.fm/charm-words",
-    "artwork": "https://megaphone.imgix.net/podcasts/b7012570-369b-11eb-8789-7756e013a52d/image/Charm_Words_1400x1400_logo.png",
+    "rss": "https://feeds.megaphone.fm/charmwords",
+    "artwork": "https://megaphone.imgix.net/podcasts/371ec132-1f0a-11f0-916a-5fd9b9d2dcfd/image/f6845b3377d11b829f04f6686df4b624.jpg",
     "language": "en"
   },
   {
