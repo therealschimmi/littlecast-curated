@@ -494,5 +494,109 @@
     "rss": "https://feeds.acast.com/public/shows/6079a27e77978d4bc09c2f9b",
     "artwork": "https://assets.pippa.io/shows/6079a27e77978d4bc09c2f9b/1621540751901-efea9d0c24952873727a6637c3d6d779.jpeg",
     "language": "nl"
+  },
+  {
+    "id": "dzieciandia",
+    "title": "Dzieciandia",
+    "publisher": "Lena Herman",
+    "rss": "https://www.spreaker.com/show/3682855/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/70479708779836336da69539f041b61c.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "miedzy-drzewami",
+    "title": "Między drzewami",
+    "publisher": "Paulina Król (Lasy Państwowe)",
+    "rss": "https://www.spreaker.com/show/4237214/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/946399468923a1a36159670732316e64.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "praca-przyrodnika",
+    "title": "Praca przyrodnika",
+    "publisher": "Katarzyna Kozyra-Zyskowska",
+    "rss": "https://www.spreaker.com/show/5068265/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/40590a3597c6d66986423c9135062963.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "cuzamendokupy",
+    "title": "Cuzamendokupy - niemiecki w pigułce",
+    "publisher": "Agnieszka Marcinkowska",
+    "rss": "https://www.spreaker.com/show/5502496/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/717834958999889988.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "bajkowy-podcast",
+    "title": "Bajkowy podcast",
+    "publisher": "Wojciech Strózik",
+    "rss": "https://www.spreaker.com/show/3554964/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/9985223344556677.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "blizej-lasu",
+    "title": "Bliżej lasu",
+    "publisher": "Daniel Mróz",
+    "rss": "https://anchor.fm/s/58ec6924/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14734841/14734841-1620300435165-98563f698d248.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "dzieci-czuja-kino",
+    "title": "Dzieci czują kino",
+    "publisher": "Miłka Majczyno i Asia Mina",
+    "rss": "https://anchor.fm/s/58632488/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14686568/14686568-1620132456423-8c7645f096739.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "bajki-opowiadane-przez-dzieci",
+    "title": "Bajki opowiadane przez dzieci",
+    "publisher": "Różni autorzy",
+    "rss": "https://anchor.fm/s/23f854a4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6124532/6124532-1591102435642-9a849e75143a4.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "dzika-odyseja",
+    "title": "Dzika Odyseja. Dzieci",
+    "publisher": "Polskie Radio (Krystian Tyrański)",
+    "rss": "https://www.polskieradio.pl/rss/daf78c32-597e-4822-9b17-afe2d73ba8a4",
+    "artwork": "https://static.polskieradio.pl/704b2c15-0d6c-4822-9b17-afe2d73ba8a4.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "nauka-to-lubie-junior",
+    "title": "Nauka. To lubię Junior",
+    "publisher": "Tomasz Rożek",
+    "rss": "https://anchor.fm/s/65ec6214/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1564321/1564321-1625400435165-8b3c9214a1b8.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "opowiadania-dla-dzieci",
+    "title": "Opowiadania dla dzieci",
+    "publisher": "Małgorzata Musierowicz / Różni",
+    "rss": "https://anchor.fm/s/12c854a4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1234567/1234567-1591102435642-123456789.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "oltremare",
+    "title": "Oltremare",
+    "publisher": "Oltremare.pl",
+    "rss": "https://anchor.fm/s/4c854a4f/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/445566/445566-1610102435642-abc12345.jpg",
+    "language": "pl"
+  },
+  {
+    "id": "francuskarnia",
+    "title": "Francuskarnia",
+    "publisher": "Sylwia Sieradzka-Weber",
+    "rss": "https://anchor.fm/s/3b854a4c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/778899/778899-1610102435642-xyz98765.jpg",
+    "language": "pl"
   }
 ]
