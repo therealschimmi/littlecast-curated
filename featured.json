@@ -63,12 +63,14 @@
     "artwork": "https://images.podigee-cdn.net/0x,sbct0F8sRteFe6kDUru-f0MTJaO4YT1T33zhw-ovVj4c=/https://main.podigee-cdn.net/uploads/u9304/0b34d7ee-1616-4be2-a028-942ecb146d75.jpg",
     "language": "de"
   },
+JSON
+[
   {
     "id": "super-great-kids-stories",
     "title": "Super Great Kids' Stories",
     "publisher": "Wardour Studios",
     "rss": "https://feeds.megaphone.fm/super-great-kids-stories",
-    "artwork": "https://i.podest.at/4506467/artwork/original.jpg",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7e/02/72/7e027221-5f2c-6330-019d-7278272828c4/mza_11942858102143719001.jpg/1400x1400bb.jpg",
     "language": "en"
   },
   {
@@ -92,7 +94,7 @@
     "title": "Culture Kids",
     "publisher": "Culture Kids Productions",
     "rss": "https://feeds.megaphone.fm/culture-kids",
-    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/11696434/Culture_Kids_Final_Logo_sq.jpg",
+    "artwork": "https://megaphone.imgix.net/podcasts/7a7f45b0-681c-11eb-8965-0376d5402685/image/Culture_Kids_Final_Logo_sq.jpg",
     "language": "en"
   },
   {
@@ -100,15 +102,15 @@
     "title": "Moment of Um",
     "publisher": "APM Studios",
     "rss": "https://feeds.publicradio.org/public_feeds/moment-of-um/rss/rss",
-    "artwork": "https://m.media-amazon.com/images/I/514qR-BAnPL.jpg",
+    "artwork": "https://files.panteon.hr/p/moment-of-um.jpg",
     "language": "en"
   },
   {
     "id": "story-pirates",
     "title": "Story Pirates",
     "publisher": "Story Pirates & Lemonada Media",
-    "rss": "https://feeds.megaphone.fm/story-pirates",
-    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/2250284/StoryPirates_CoverArt_1400x1400.jpg",
+    "rss": "https://www.omnycontent.com/d/playlist/e73c998d-6e60-4327-bcde-a7ba00bc440d/9564177d-7883-4919-813c-ac7100344d2d/08197177-d7d8-490b-9302-ac7100344d3e/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/e73c998d-6e60-4327-bcde-a7ba00bc440d/9564177d-7883-4919-813c-ac7100344d2d/image.jpg?t=1658428178&size=Large",
     "language": "en"
   },
   {
@@ -124,7 +126,7 @@
     "title": "Charm Words",
     "publisher": "ABF Creative",
     "rss": "https://feeds.megaphone.fm/charm-words",
-    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/11181816/Charm_Words_1400x1400_logo.png",
+    "artwork": "https://megaphone.imgix.net/podcasts/b7012570-369b-11eb-8789-7756e013a52d/image/Charm_Words_1400x1400_logo.png",
     "language": "en"
   },
   {
