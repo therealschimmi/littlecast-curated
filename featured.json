@@ -212,7 +212,7 @@
     "title": "La grande histoire de Pomme d'Api",
     "publisher": "Bayard Jeunesse",
     "rss": "https://feed.ausha.co/k1ahGXm6",
-    "artwork": "https://image.ausha.co/k1ahGXm6/custom/1615456232-large.jpg",
+    "artwork": "https://image.ausha.co/ZvneIxFuuDouEZTgDWn7x0K68CMVNtTEohyQDhTx_1400x1400.jpeg?t=1721231834",
     "language": "fr"
   },
   {
@@ -240,14 +240,6 @@
     "language": "fr"
   },
   {
-    "id": "les-odyssees-france-inter",
-    "title": "Les Odyssées",
-    "publisher": "France Inter",
-    "rss": "https://radiofrance-podcast.net/podcast09/rss_19721.xml",
-    "artwork": "https://www.radiofrance.fr/s3/atlas/podcasts/les-odyssees/cover.jpg",
-    "language": "fr"
-  },
-  {
     "id": "nutshimit-un-bain-de-foret",
     "title": "Nutshimit : Un bain de forêt",
     "publisher": "Melissa Mollen Dupuis / Radio-Canada",
@@ -261,14 +253,6 @@
     "publisher": "Unknown",
     "rss": "",
     "artwork": "",
-    "language": "fr"
-  },
-  {
-    "id": "pomme-d-api",
-    "title": "La Grande Histoire de Pomme d'Api",
-    "publisher": "La grande histoire de Pomme d'Api",
-    "rss": "https://feed.ausha.co/B6r8OclKP6gn",
-    "artwork": "https://image.ausha.co/ZvneIxFuuDouEZTgDWn7x0K68CMVNtTEohyQDhTx_1400x1400.jpeg?t=1721231834",
     "language": "fr"
   },
   {
