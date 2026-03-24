@@ -216,6 +216,54 @@
     "language": "fr"
   },
   {
+    "id": "la-grande-histoire-de-pomme-d-api",
+    "title": "La grande histoire de Pomme d'Api",
+    "publisher": "Bayard Jeunesse",
+    "rss": "https://feed.ausha.co/k1ahGXm6",
+    "artwork": "https://image.ausha.co/k1ahGXm6/custom/1615456232-large.jpg",
+    "language": "fr"
+  },
+  {
+    "id": "histoires-pour-les-oreilles",
+    "title": "Histoires pour les oreilles",
+    "publisher": "Histoires pour les Oreilles",
+    "rss": "https://feeds.soundcloud.com/users/soundcloud:users:812354746/sounds.rss",
+    "artwork": "https://i1.sndcdn.com/avatars-000814524316-5l2m2a-t500x500.jpg",
+    "language": "fr"
+  },
+  {
+    "id": "kidstory-fr",
+    "title": "Kidstory",
+    "publisher": "Kidstory",
+    "rss": "https://feed.ausha.co/b9y1Gxe7",
+    "artwork": "https://image.ausha.co/b9y1Gxe7/custom/default-large.jpg",
+    "language": "fr"
+  },
+  {
+    "id": "des-histoires-en-musique",
+    "title": "Des histoires en musique par Radio Classique",
+    "publisher": "Radio Classique",
+    "rss": "https://feeds.audiomeans.fr/feed/5d52fef9-05e5-583f-acec-1b8b8ed5a8bb.xml",
+    "artwork": "https://media.audiomeans.fr/images/5d52fef9-05e5-583f-acec-1b8b8ed5a8bb/logo.png",
+    "language": "fr"
+  },
+  {
+    "id": "les-odyssees-france-inter",
+    "title": "Les Odyssées",
+    "publisher": "France Inter",
+    "rss": "https://radiofrance-podcast.net/podcast09/rss_19721.xml",
+    "artwork": "https://www.radiofrance.fr/s3/atlas/podcasts/les-odyssees/cover.jpg",
+    "language": "fr"
+  },
+  {
+    "id": "nutshimit-un-bain-de-foret",
+    "title": "Nutshimit : Un bain de forêt",
+    "publisher": "Melissa Mollen Dupuis / Radio-Canada",
+    "rss": "https://ici.radio-canada.ca/rss/podcast/nutshimit.xml",
+    "artwork": "https://images.radio-canada.ca/v1/podcasts/1x1/nutshimit-un-bain-de-foret.jpg",
+    "language": "fr"
+  }
+  {
     "id": "daisy-french-stories",
     "title": "Daisy French Stories for Kids",
     "publisher": "Unknown",
