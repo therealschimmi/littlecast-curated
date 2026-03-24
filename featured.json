@@ -302,48 +302,64 @@
     "id": "historias-de-embalar",
     "title": "Histórias de Embalar",
     "publisher": "Ângela Ribeiro",
-    "rss": "https://anchor.fm/s/13f03400/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3793731/3793731-1582212345678-abcd.jpg",
+    "rss": "https://rfm.pt/podcast_itunes.aspx?fid=76",
+    "artwork": "https://images.rfm.pt/so_grandes_historias_embalar_podcast_itunes18808217.png",
     "language": "pt"
   },
   {
     "id": "imagina-so",
     "title": "Imagina Só - Histórias para crianças",
     "publisher": "Superplayer & Co",
-    "rss": "https://anchor.fm/s/12693000/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3214567/3214567-1581234567890-efgh.jpg",
+    "rss": "https://rss.buzzsprout.com/2003728.rss",
+    "artwork": "https://storage.buzzsprout.com/lolgp5gcrcutc1sd7ca8cpjfv21p?.jpg",
     "language": "pt"
   },
   {
     "id": "era-uma-vez-um-podcast",
     "title": "Era Uma Vez Um Podcast",
     "publisher": "Carol Camanho",
-    "rss": "https://anchor.fm/s/951c570/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1841234/1841234-1551234567890-ijkl.jpg",
+    "rss": "https://anchor.fm/s/8097948/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1248386/1248386-1544077859813-a139ece488ef3.jpg",
     "language": "pt"
   },
   {
     "id": "conta-me-uma-historia",
     "title": "Conta-me uma história",
     "publisher": "Plano Nacional de Leitura 2027",
-    "rss": "https://anchor.fm/s/21c5f3a0/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/5678901/5678901-1591234567890-mnop.jpg",
+    "rss": "https://anchor.fm/s/3ebe795c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10426703/10426703-1627245921637-34fd6e643c3de.jpg",
     "language": "pt"
   },
   {
-    "id": "calcinha-cor-de-rosa",
-    "title": "Calcinha Cor-de-Rosa",
+    "id": "Um-Minuto",
+    "title": "Um Minuto de Ciência por dia não sabes o bem que te fazia",
     "publisher": "Rádio Zig Zag (RTP)",
-    "rss": "https://media.rtp.pt/zigzag/podcast/calcinha-cor-de-rosa/feed/",
-    "artwork": "https://media.rtp.pt/zigzag/wp-content/uploads/sites/94/2016/10/calcinha-cor-de-rosa-logo.png",
+    "rss": "https://www.omnycontent.com/d/playlist/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/2f4afe5b-d8b4-4492-8b97-b40300f6abb2/4a467b7b-bae9-4cb8-96b4-b40300f6abb8/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/playlist/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/2f4afe5b-d8b4-4492-8b97-b40300f6abb2/4a467b7b-bae9-4cb8-96b4-b40300f6abb8/image.jpg?t=1772636287&size=Large",
+    "language": "pt"
+  },  
+  {
+    "id": "receitas-zigzag",
+    "title": "Receitas ZigZag",
+    "publisher": "Rádio Zig Zag (RTP)",
+    "rss": "https://www.rtp.pt//play/itunes/2721",
+    "artwork": "http://img0.rtp.pt/EPG/radio/imagens/PO6511_152_40799.jpg",
+    "language": "pt"
+  },
+  {
+    "id": "Toca-a-Todos",
+    "title": "Toca a Todos",
+    "publisher": "Rádio Zig Zag (RTP)",
+    "rss": "https://www.rtp.pt//play/itunes/2743",
+    "artwork": "https://cdn-images.rtp.pt/EPG/radio/imagens/PO6534_171_30050.jpg",
     "language": "pt"
   },
   {
     "id": "coisa-de-crianca",
     "title": "Coisa de Criança",
-    "publisher": "B9",
-    "rss": "https://feeds.simplecast.com/8_Xm6q_S",
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/9a/0a/6a/9a0a6a2b-1234-5678-abcd-1234567890ab/mza_1400.jpg",
+    "publisher": "By: Thiago Queiroz",
+    "rss": "https://anchor.fm/s/f2e64748/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40651778/4e318b40ffb2aad8.jpg",
     "language": "pt"
   },
   {
