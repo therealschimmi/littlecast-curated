@@ -203,7 +203,7 @@
     "id": "une-histoire-et-oli",
     "title": "Une Histoire Et… Oli",
     "publisher": "France Inter",
-    "rss": "http://radiofrance-podcast.net/podcast09/rss_19721.xml",
+    "rss": "http://radiofrance-podcast.net/podcast09/podcast_d555ed4e-dbe5-4908-912e-b3169f9ceede.xml",
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/03/185450b9-904b-4cf2-b3b9-f7a8b065ea47/1400x1400_sc_rf_omm_0000038202_ite.jpg",
     "language": "fr"
   },
@@ -211,7 +211,7 @@
     "id": "la-grande-histoire-de-pomme-d-api",
     "title": "La grande histoire de Pomme d'Api",
     "publisher": "Bayard Jeunesse",
-    "rss": "https://feed.ausha.co/k1ahGXm6",
+    "rss": "https://feed.ausha.co/B6r8OclKP6gn",
     "artwork": "https://image.ausha.co/ZvneIxFuuDouEZTgDWn7x0K68CMVNtTEohyQDhTx_1400x1400.jpeg?t=1721231834",
     "language": "fr"
   },
@@ -219,42 +219,19 @@
     "id": "histoires-pour-les-oreilles",
     "title": "Histoires pour les oreilles",
     "publisher": "Histoires pour les Oreilles",
-    "rss": "https://feeds.soundcloud.com/users/soundcloud:users:812354746/sounds.rss",
-    "artwork": "https://i1.sndcdn.com/avatars-000814524316-5l2m2a-t500x500.jpg",
+    "rss": "https://feeds.soundcloud.com/users/soundcloud:users:520257816/sounds.rss",
+    "artwork": "https://i1.sndcdn.com/avatars-Ae5BFb6ItHcjaiMP-5OXafg-original.jpg",
     "language": "fr"
   },
   {
     "id": "kidstory-fr",
     "title": "Kidstory",
     "publisher": "Kidstory",
-    "rss": "https://feed.ausha.co/b9y1Gxe7",
-    "artwork": "https://image.ausha.co/b9y1Gxe7/custom/default-large.jpg",
+    "rss": "https://feeds.360.audion.fm/AxB4wjUv_HWoti_EgDOZG",
+    "artwork": "https://artworks.360.audion.fm/aeb15efe-cfef-4128-a9c7-97de0373d0ac.jpg?width=3000&height=3000",
     "language": "fr"
   },
-  {
-    "id": "des-histoires-en-musique",
-    "title": "Des histoires en musique par Radio Classique",
-    "publisher": "Radio Classique",
-    "rss": "https://feeds.audiomeans.fr/feed/5d52fef9-05e5-583f-acec-1b8b8ed5a8bb.xml",
-    "artwork": "https://media.audiomeans.fr/images/5d52fef9-05e5-583f-acec-1b8b8ed5a8bb/logo.png",
-    "language": "fr"
-  },
-  {
-    "id": "nutshimit-un-bain-de-foret",
-    "title": "Nutshimit : Un bain de forêt",
-    "publisher": "Melissa Mollen Dupuis / Radio-Canada",
-    "rss": "https://ici.radio-canada.ca/rss/podcast/nutshimit.xml",
-    "artwork": "https://images.radio-canada.ca/v1/podcasts/1x1/nutshimit-un-bain-de-foret.jpg",
-    "language": "fr"
-  },
-{
-    "id": "daisy-french-stories",
-    "title": "Daisy French Stories for Kids",
-    "publisher": "Unknown",
-    "rss": "",
-    "artwork": "",
-    "language": "fr"
-  },
+
   {
     "id": "salut-l-info",
     "title": "Salut l'info!",
