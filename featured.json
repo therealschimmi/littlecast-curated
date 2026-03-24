@@ -175,6 +175,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/26aa508c-d505-11ee-bb02-73230b38f27c/image/1c6523f5717fbcd9f8647bc4c72a3b57.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
   },
+   {
+    "id": "the-nurdle-control",
+    "title": "The Nurdle Patrol Special Agent Training Course",
+    "publisher": "Tumble Media",
+    "rss": "https://anchor.fm/s/105cee93c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43824135/43824135-1749127279438-95e82c32ee7be.jpg",
+    "language": "en"
+  },
   {
     "id": "but-why",
     "title": "But Why: A Podcast for Curious Kids",
