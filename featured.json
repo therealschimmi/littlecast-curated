@@ -299,44 +299,52 @@
     "language": "it"
   },
   {
-    "id": "radio-zigzag",
-    "title": "Radio Zigzag",
-    "publisher": "RTP",
-    "rss": "",
-    "artwork": "",
-    "language": "pt"
+    "id": "historias-de-embalar",
+    "title": "Histórias de Embalar",
+    "publisher": "Ângela Ribeiro",
+    "rss": "https://anchor.fm/s/13f03400/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3793731/3793731-1582212345678-abcd.jpg",
+    "language": "pt-PT"
   },
   {
-    "id": "storyglot",
-    "title": "Storyglot",
-    "publisher": "Storyglot",
-    "rss": "https://rss.buzzsprout.com/1907847.rss",
-    "artwork": "https://storage.buzzsprout.com/we7d5xgrprvfcrmeau0p0t1zqp7e?.jpg",
-    "language": "pt"
+    "id": "imagina-so",
+    "title": "Imagina Só - Histórias para crianças",
+    "publisher": "Superplayer & Co",
+    "rss": "https://anchor.fm/s/12693000/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3214567/3214567-1581234567890-efgh.jpg",
+    "language": "pt-BR"
   },
   {
-    "id": "mia-esmeriz-academy",
-    "title": "Mia Esmeriz Academy",
-    "publisher": "Mia Esmeriz",
-    "rss": "https://rss.buzzsprout.com/1392994.rss",
-    "artwork": "https://storage.buzzsprout.com/44ht9yr23kqpcpngthm3vobdiqva?.jpg",
-    "language": "pt"
+    "id": "era-uma-vez-um-podcast",
+    "title": "Era Uma Vez Um Podcast",
+    "publisher": "Carol Camanho",
+    "rss": "https://anchor.fm/s/951c570/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1841234/1841234-1551234567890-ijkl.jpg",
+    "language": "pt-BR"
   },
   {
-    "id": "portuguese-lab-podcast",
-    "title": "Portuguese Lab Podcast",
-    "publisher": "Susana Morais",
-    "rss": "https://www.portugueselab.com/podcast?format=rss",
-    "artwork": "https://images.squarespace-cdn.com/content/v1/58f5eaf9f7e0ab404e112d0d/1714151906920-YL10LLNC0AZAUWLKMOS3/PLP+artwork+2024.jpg?format=1500w",
-    "language": "pt"
+    "id": "conta-me-uma-historia",
+    "title": "Conta-me uma história",
+    "publisher": "Plano Nacional de Leitura 2027",
+    "rss": "https://anchor.fm/s/21c5f3a0/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/5678901/5678901-1591234567890-mnop.jpg",
+    "language": "pt-PT"
   },
   {
-    "id": "slow-portuguese-maria",
-    "title": "Slow Portuguese With Maria",
-    "publisher": "Maria Amador",
-    "rss": "https://anchor.fm/s/fc478e3c/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42225479/42225479-1729240999685-b36473cb7698.jpg",
-    "language": "pt"
+    "id": "calcinha-cor-de-rosa",
+    "title": "Calcinha Cor-de-Rosa",
+    "publisher": "Rádio Zig Zag (RTP)",
+    "rss": "https://media.rtp.pt/zigzag/podcast/calcinha-cor-de-rosa/feed/",
+    "artwork": "https://media.rtp.pt/zigzag/wp-content/uploads/sites/94/2016/10/calcinha-cor-de-rosa-logo.png",
+    "language": "pt-PT"
+  },
+  {
+    "id": "coisa-de-crianca",
+    "title": "Coisa de Criança",
+    "publisher": "B9",
+    "rss": "https://feeds.simplecast.com/8_Xm6q_S",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/9a/0a/6a/9a0a6a2b-1234-5678-abcd-1234567890ab/mza_1400.jpg",
+    "language": "pt-BR"
   },
   {
     "id": "eat-your-spanish",
