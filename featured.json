@@ -280,12 +280,12 @@
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2023/03/d4b38f10-7585-4f4c-bb17-b7a319c35fbe/1400x1400_sc_rf_omm_0000038203_ite.jpg",
     "language": "fr"
   },
-  {
-    "id": "favole-per-bambini",
-    "title": "Favole per Bambini",
-    "publisher": "Le Favole di B",
-    "rss": "https://anchor.fm/s/c580a3d4/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/33035421/5965e67de67cca41.jpeg",
+{
+    "id": "dinokids-italiano",
+    "title": "DinoKids: Impara l'Italiano",
+    "publisher": "Dinolingo",
+    "rss": "https://www.spreaker.com/show/5623831/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/8da8b88f6c5849887752495333f3e1b7.jpg",
     "language": "it"
   },
   {
@@ -297,11 +297,19 @@
     "language": "it"
   },
   {
-    "id": "italian-kids-podcast",
-    "title": "Italian Kids Podcast",
-    "publisher": "Dinolingo",
-    "rss": "",
-    "artwork": "",
+    "id": "favole-per-bambini",
+    "title": "Favole per Bambini",
+    "publisher": "Le Favole di B",
+    "rss": "https://anchor.fm/s/c580a3d4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/33035421/5965e67de67cca41.jpeg",
+    "language": "it"
+  },
+  {
+    "id": "stories-in-slow-italian",
+    "title": "Stories in Slow Italian",
+    "publisher": "Daily Italian with Elena",
+    "rss": "https://anchor.fm/s/70a3ba18/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18797782/18797782-1634811559165-fa4f0618931f4.jpg",
     "language": "it"
   },
   {
@@ -313,11 +321,35 @@
     "language": "it"
   },
   {
-    "id": "stories-in-slow-italian",
-    "title": "Stories in Slow Italian",
-    "publisher": "Daily Italian with Elena",
-    "rss": "https://anchor.fm/s/70a3ba18/podcast/rss",
-    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18797782/18797782-1634811559165-fa4f0618931f4.jpg",
+    "id": "the-italian-experiment",
+    "title": "The Italian Experiment",
+    "publisher": "The Italian Experiment",
+    "rss": "https://www.theitalianexperiment.com/stories.xml",
+    "artwork": "https://www.theitalianexperiment.com/images/share-image.png",
+    "language": "it"
+  },
+  {
+    "id": "italiano-on-air",
+    "title": "Italiano ON-Air",
+    "publisher": "Scuola Leonardo da Vinci",
+    "rss": "https://scuolaleonardo.libsyn.com/rss",
+    "artwork": "https://ssl-static.libsyn.com/p/assets/2/7/b/c/27bc89d2345e569c/Italiano_On_Air_Logo.png",
+    "language": "it"
+  },
+  {
+    "id": "coffee-break-italian",
+    "title": "Coffee Break Italian",
+    "publisher": "Radio Lingua Network",
+    "rss": "https://feeds.content.libsyn.com/112316/rss",
+    "artwork": "https://ssl-static.libsyn.com/p/assets/d/2/0/3/d2035e5d123e4567/CBI_Artwork.png",
+    "language": "it"
+  },
+  {
+    "id": "fiabe-italiane",
+    "title": "Fiabe Italiane (Storie per bambini)",
+    "publisher": "FilaFiaba",
+    "rss": "https://anchor.fm/s/1e9d4d8c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/4982312/4982312-1588674921312-32b123a123.jpg",
     "language": "it"
   },
   {
