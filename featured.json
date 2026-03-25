@@ -766,5 +766,13 @@
     "rss": "https://feed.podbean.com/themusicpodcastforkids/feed.xml",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/5528328/Podcast_Thumb_ryzhqt.jpg",
     "language": "en"
+  },
+  {
+    "id": "storie-per-bambini-italian",
+    "title": "Storie per bambini Italian",
+    "publisher": "kiskeya life",
+    "rss": "https://www.spreaker.com/show/5033761/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1a692f66aec280c4581562bc12994d87.jpg",
+    "language": "it"
   }
 ]
