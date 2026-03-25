@@ -782,5 +782,13 @@
     "rss": "https://www.spreaker.com/show/4775020/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8bb6715280925aca0973723aff62c8d4.jpg",
     "language": "it"
+  },
+  {
+    "id": "racconti-per-bambini-liberi",
+    "title": "Racconti per bambini liberi",
+    "publisher": "Racconti per bambini liberi",
+    "rss": "https://www.spreaker.com/show/4772255/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a9ed2cea202754fe23313382391f275e.jpg",
+    "language": "it"
   }
 ]
