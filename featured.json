@@ -23,6 +23,38 @@
     "artwork": "https://planetariumberlin.podcaster.de/abgespaced/logos/1400x1400_SPB_Kinderpodcast_Keyvisual_RZ(1).jpg",
     "language": "de"
   },
+   {
+    "id": "taxi-ins-mich",
+    "title": "Taxi ins Mich",
+    "publisher": "medizini & gesundheit-hören",
+    "rss": "https://taxi-ins-mich.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sK79JP6ad3-_bOHB5fXVyFwryVlL_I-DyLZ1rBsZRHO4=/https://main.podigee-cdn.net/uploads/u37428/0b74b74d-a5b0-47b4-ae69-de7f38dfbdd2.jpg",
+    "language": "de"
+  },
+   {
+    "id": "lachlabor",
+    "title": "Lachlabor",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/lachlabor/feed.xml",
+    "artwork": "https://img.br.de/7e53aa42-7757-418a-b5e2-7f8b1783e4ed.jpeg?fm=jpg",
+    "language": "de"
+  },
+   {
+    "id": "klugschnabeln",
+    "title": "Klugschnabeln",
+    "publisher": "Sailer Verlag & dpa",
+    "rss": "https://klugschnabeln.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,shwD0aFgVrc1SDtkxEqLqitKJibL-BaD08GtnJQ704H0=/https://main.podigee-cdn.net/uploads/u76778/d320f5d0-897f-449e-9026-bdeb82a38ca6.jpg",
+    "language": "de"
+  },
+   {
+    "id": "weisst-dus-schon",
+    "title": "Weißt du's schon? - Das Quiz für Kids",
+    "publisher": "Christian Conradi",
+    "rss": "https://weisstdusschon.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,smVupfyh1E-WIMuLYra_m41O5slD-YuZxdE4eRBMXjqg=/https://main.podigee-cdn.net/uploads/u45107/1eac144d-8c1d-4a30-b2b0-dbfe4c6140e1.jpg",
+    "language": "de"
+  },
   {
     "id": "kakadu",
     "title": "Kakadu",
