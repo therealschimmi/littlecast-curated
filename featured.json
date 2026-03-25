@@ -710,5 +710,13 @@
     "rss": "https://feeds.megaphone.fm/STHZE6949032016",
     "artwork": "https://megaphone.imgix.net/podcasts/3dc5c38a-3562-11ed-88d0-4b1ef2874dc8/image/aa61bc-show-cover.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "what-if-world-stories-for-kids",
+    "title": "What If World - Stories for Kids",
+    "publisher": "Eric O'Keeffe / Starglow Media",
+    "rss": "https://feeds.megaphone.fm/whatifworld",
+    "artwork": "https://megaphone.imgix.net/podcasts/d7cf57c4-cd0b-11ee-9c6f-0bb9a74fe30b/image/ae36da22a1aa2b96442898e329a8b9a8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
