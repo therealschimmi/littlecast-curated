@@ -758,5 +758,13 @@
     "rss": "https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/d4aac6b4-08ca-4a8d-be5f-ae8a0051cdab/e4d26527-d5d0-4421-8d2c-afd600162e95/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/d4aac6b4-08ca-4a8d-be5f-ae8a0051cdab/e4d26527-d5d0-4421-8d2c-afd600162e95/image.jpg?t=1680581414&size=Large",
     "language": "en-US"
+  },
+  {
+    "id": "the-music-podcast-for-kids",
+    "title": "The Music Podcast for Kids!",
+    "publisher": "The Music Podcast for Kids!",
+    "rss": "https://feed.podbean.com/themusicpodcastforkids/feed.xml",
+    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/5528328/Podcast_Thumb_ryzhqt.jpg",
+    "language": "en"
   }
 ]
