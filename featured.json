@@ -638,5 +638,13 @@
     "rss": "https://api-audiodata.babybus.com/Rss/all/74566.xml",
     "artwork": "https://paudiopic-baidu.babybus.com/BabyAudio/AudioIco/20251202/e3433e43518b4a559c7f9e2042fb14e3.jpg",
     "language": "en"
+  },
+  {
+    "id": "figarinos-fahrradladen-der-mdr-tweens-horspiel-podcast-fur-kinder",
+    "title": "Figarinos Fahrradladen - Der MDR Tweens Hörspiel-Podcast für Kinder",
+    "publisher": "Mitteldeutscher Rundfunk",
+    "rss": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen102-podcast.xml",
+    "artwork": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen102-podcastLogo_i-itunes_version-18683_zc-a6cdab34.jpg",
+    "language": "de-de"
   }
 ]
