@@ -654,5 +654,13 @@
     "rss": "https://www.srf.ch/feed/podcast/sd/88072903-e34f-4f51-a9b9-052562d049c2.xml",
     "artwork": "https://download-media.srf.ch/world/image/audio/2023/04/987a01e371154a5d8f5e0afda6736d01.png",
     "language": "de"
+  },
+  {
+    "id": "hanna-fragt-papa-der-podcast-fur-neugierige-kinder-und-eltern",
+    "title": "Hanna fragt Papa - Der Podcast für neugierige Kinder und Eltern",
+    "publisher": "Hanna und Thomas Schamberger",
+    "rss": "https://hannafragtpapa.libsyn.com/rss",
+    "artwork": "https://static.libsyn.com/p/assets/4/a/d/3/4ad316f76b76a80616c3140a3186d450/Hanna_fragt_Papa_2025_2048_x_2048_px.jpg",
+    "language": "de-at"
   }
 ]
