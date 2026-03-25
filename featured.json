@@ -718,5 +718,13 @@
     "rss": "https://feeds.megaphone.fm/whatifworld",
     "artwork": "https://megaphone.imgix.net/podcasts/d7cf57c4-cd0b-11ee-9c6f-0bb9a74fe30b/image/ae36da22a1aa2b96442898e329a8b9a8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "smash-boom-best-a-funny-smart-debate-show-for-kids-and-family",
+    "title": "Smash Boom Best: A funny, smart debate show for kids and family",
+    "publisher": "Brains On Universe",
+    "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/5d004b0f-42f1-42a8-b8d3-b375015c4b2b/703c9d15-2448-4ec6-8572-b375015c4b3f/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/5d004b0f-42f1-42a8-b8d3-b375015c4b2b/image.jpg?t=1760464660&size=Large",
+    "language": "en"
   }
 ]
