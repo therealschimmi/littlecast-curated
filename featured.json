@@ -774,5 +774,13 @@
     "rss": "https://www.spreaker.com/show/5033761/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1a692f66aec280c4581562bc12994d87.jpg",
     "language": "it"
+  },
+  {
+    "id": "fiabe-per-bambini-audio-storie",
+    "title": "Fiabe per bambini - Audio storie",
+    "publisher": "Artisti Fuori Posto",
+    "rss": "https://www.spreaker.com/show/4775020/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8bb6715280925aca0973723aff62c8d4.jpg",
+    "language": "it"
   }
 ]
