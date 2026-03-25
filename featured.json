@@ -7,7 +7,7 @@
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de"
   },
-   {
+  {
     "id": "ordentlich-durcheinander",
     "title": "ORDENTLICH DURCHEINANDER",
     "publisher": "Deine Freunde",
@@ -23,7 +23,7 @@
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-sendereihenbild-podcast-1-100~_v-Podcast.jpg",
     "language": "de"
   },
-   {
+  {
     "id": "abgespaced",
     "title": "Abgespaced – Weltraumschlau in 15 Minuten",
     "publisher": "Stiftung Planetarium Berlin",
@@ -31,7 +31,7 @@
     "artwork": "https://planetariumberlin.podcaster.de/abgespaced/logos/1400x1400_SPB_Kinderpodcast_Keyvisual_RZ(1).jpg",
     "language": "de"
   },
-   {
+  {
     "id": "taxi-ins-mich",
     "title": "Taxi ins Mich",
     "publisher": "medizini & gesundheit-hören",
@@ -39,7 +39,7 @@
     "artwork": "https://images.podigee-cdn.net/0x,sK79JP6ad3-_bOHB5fXVyFwryVlL_I-DyLZ1rBsZRHO4=/https://main.podigee-cdn.net/uploads/u37428/0b74b74d-a5b0-47b4-ae69-de7f38dfbdd2.jpg",
     "language": "de"
   },
-   {
+  {
     "id": "lachlabor",
     "title": "Lachlabor",
     "publisher": "Bayerischer Rundfunk",
@@ -47,7 +47,7 @@
     "artwork": "https://img.br.de/7e53aa42-7757-418a-b5e2-7f8b1783e4ed.jpeg?fm=jpg",
     "language": "de"
   },
-     {
+  {
     "id": "kinder-wollens-wissen",
     "title": "Kinder wollen's wissen",
     "publisher": "Haus der Wissenschaft Braunschweig",
@@ -55,7 +55,7 @@
     "artwork": "https://images.podigee-cdn.net/0x,sbjgIk8pzWv2znohEbaoXTURlO0hchp5Ep-gNLeTdYhk=/https://main.podigee-cdn.net/uploads/u36141/ff243dbc-e614-4cca-a578-f29d123969fb.jpg",
     "language": "de"
   },
-   {
+  {
     "id": "klugschnabeln",
     "title": "Klugschnabeln",
     "publisher": "Sailer Verlag & dpa",
@@ -63,7 +63,7 @@
     "artwork": "https://images.podigee-cdn.net/0x,shwD0aFgVrc1SDtkxEqLqitKJibL-BaD08GtnJQ704H0=/https://main.podigee-cdn.net/uploads/u76778/d320f5d0-897f-449e-9026-bdeb82a38ca6.jpg",
     "language": "de"
   },
-   {
+  {
     "id": "weisst-dus-schon",
     "title": "Weißt du's schon? - Das Quiz für Kids",
     "publisher": "Christian Conradi",
@@ -231,7 +231,7 @@
     "artwork": "https://megaphone.imgix.net/podcasts/26aa508c-d505-11ee-bb02-73230b38f27c/image/1c6523f5717fbcd9f8647bc4c72a3b57.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
   },
-   {
+  {
     "id": "the-nurdle-control",
     "title": "The Nurdle Patrol Special Agent Training Course",
     "publisher": "Tumble Media",
@@ -295,7 +295,6 @@
     "artwork": "https://artworks.360.audion.fm/aeb15efe-cfef-4128-a9c7-97de0373d0ac.jpg?width=3000&height=3000",
     "language": "fr"
   },
-
   {
     "id": "salut-l-info",
     "title": "Salut l'info!",
@@ -336,7 +335,6 @@
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2023/03/d4b38f10-7585-4f4c-bb17-b7a319c35fbe/1400x1400_sc_rf_omm_0000038203_ite.jpg",
     "language": "fr"
   },
-
   {
     "id": "favole-per-bambini",
     "title": "Favole per Bambini",
@@ -345,7 +343,6 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/33035421/5965e67de67cca41.jpeg",
     "language": "it"
   },
-
   {
     "id": "coccole-sonore",
     "title": "Coccole Sonore",
@@ -393,7 +390,7 @@
     "rss": "https://www.omnycontent.com/d/playlist/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/2f4afe5b-d8b4-4492-8b97-b40300f6abb2/4a467b7b-bae9-4cb8-96b4-b40300f6abb8/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/2f4afe5b-d8b4-4492-8b97-b40300f6abb2/4a467b7b-bae9-4cb8-96b4-b40300f6abb8/image.jpg?t=1772636287&size=Large",
     "language": "pt"
-  },  
+  },
   {
     "id": "receitas-zigzag",
     "title": "Receitas ZigZag",
@@ -593,5 +590,13 @@
     "rss": "https://anchor.fm/s/f386814/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2453549/2453549-1571843067682-65ddf23dc760a.jpg",
     "language": "pl"
+  },
+  {
+    "id": "occult-disney-exploring-the-hidden-mysteries-behind-mickey",
+    "title": "Occult Disney: Exploring the Hidden Mysteries Behind Mickey",
+    "publisher": "Thomas Gorence and Matt Comegys",
+    "rss": "https://feeds.transistor.fm/occult-disney-exploring-the-hidden-mysteries-behind-mickey",
+    "artwork": "https://img.transistorcdn.com/Ytbaie3JqLSEbeDhDTCdoutYJ00JfSY2Chde9UiHdIU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzM2NzY5LzE2Njk5/MDQzMTQtYXJ0d29y/ay5qcGc.jpg",
+    "language": "en"
   }
 ]
