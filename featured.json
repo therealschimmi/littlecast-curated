@@ -15,6 +15,14 @@
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-sendereihenbild-podcast-1-100~_v-Podcast.jpg",
     "language": "de"
   },
+   {
+    "id": "abgespaced",
+    "title": "Abgespaced – Weltraumschlau in 15 Minuten",
+    "publisher": "Stiftung Planetarium Berlin",
+    "rss": "https://planetariumberlin.podcaster.de/abgespaced.rss",
+    "artwork": "https://planetariumberlin.podcaster.de/abgespaced/logos/1400x1400_SPB_Kinderpodcast_Keyvisual_RZ(1).jpg",
+    "language": "de"
+  },
   {
     "id": "kakadu",
     "title": "Kakadu",
