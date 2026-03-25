@@ -39,6 +39,14 @@
     "artwork": "https://img.br.de/7e53aa42-7757-418a-b5e2-7f8b1783e4ed.jpeg?fm=jpg",
     "language": "de"
   },
+     {
+    "id": "kinder-wollens-wissen",
+    "title": "Kinder wollen's wissen",
+    "publisher": "Haus der Wissenschaft Braunschweig",
+    "rss": "https://kinder-wollens-wissen.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sbjgIk8pzWv2znohEbaoXTURlO0hchp5Ep-gNLeTdYhk=/https://main.podigee-cdn.net/uploads/u36141/ff243dbc-e614-4cca-a578-f29d123969fb.jpg",
+    "language": "de"
+  },
    {
     "id": "klugschnabeln",
     "title": "Klugschnabeln",
