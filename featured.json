@@ -614,5 +614,13 @@
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/37b81d29-f765-456d-8d36-abc900f24178/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/image.jpg?t=1766153425&size=Large",
     "language": "en-GB"
+  },
+  {
+    "id": "the-reading-bug-podcast-original-adventures-bedtime-stories-and-music-for-kids",
+    "title": "The Reading Bug Podcast - Original Adventures, Bedtime Stories and Music for Kids",
+    "publisher": "The Reading Bug",
+    "rss": "https://feeds.megaphone.fm/ARML4367050167",
+    "artwork": "https://megaphone.imgix.net/podcasts/eafbefea-648f-11ee-a501-67c7bb4c65b5/image/a48e79e8a3810af6bb02c02632558e9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
