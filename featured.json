@@ -694,5 +694,13 @@
     "rss": "https://anchor.fm/s/298ba17c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6870167/6870167-1594629966064-673b796ae73ae.jpg",
     "language": "de"
+  },
+  {
+    "id": "sleep-tight-science-a-bedtime-science-show-for-kids",
+    "title": "Sleep Tight Science - A Bedtime Science Show For Kids",
+    "publisher": "Sleep Tight Media | Bedtime Science Show for Kids & Starglow Media",
+    "rss": "https://feeds.megaphone.fm/STM6538419032",
+    "artwork": "https://megaphone.imgix.net/podcasts/f15b3c10-fb6a-11ef-b358-1b56299932ee/image/b429db6da04181e3bd21d5890bb925af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
