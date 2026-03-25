@@ -806,5 +806,13 @@
     "rss": "https://www.spreaker.com/show/5788469/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aea294a7686d2ded20478311cfc82a90.jpg",
     "language": "it"
+  },
+  {
+    "id": "le-avventure-di-emma-viaggi-scoperte-e-culture-del-mondo-per-bambini",
+    "title": "Le avventure di Emma - Viaggi, scoperte e culture del mondo per bambini",
+    "publisher": "AUDIO360",
+    "rss": "https://feeds.audiomeans.fr/feed/beff09a1-d3d6-4cbf-a768-74ec1ce22b1e.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/44883f23-c0f5-471d-8bc3-84719f8bb834.jpg",
+    "language": "it"
   }
 ]
