@@ -630,5 +630,13 @@
     "rss": "https://feeds.megaphone.fm/CBS1942619353",
     "artwork": "https://megaphone.imgix.net/podcasts/466c3e84-da7d-11ef-a369-f3bd372f047f/image/5f1d263f4d55a23e1cfdb6168b0e82d6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "the-enchanted-paws-family-mia-s-magical-stories-family-adventures",
+    "title": "The Enchanted Paws Family: Mia’s Magical Stories丨Family Adventures",
+    "publisher": "BabyBus",
+    "rss": "https://api-audiodata.babybus.com/Rss/all/74566.xml",
+    "artwork": "https://paudiopic-baidu.babybus.com/BabyAudio/AudioIco/20251202/e3433e43518b4a559c7f9e2042fb14e3.jpg",
+    "language": "en"
   }
 ]
