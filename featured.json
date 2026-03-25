@@ -686,5 +686,13 @@
     "rss": "https://feeds.br.de/geschichten-fuer-kinder/feed.xml",
     "artwork": "https://img.br.de/dd422cf1-8ade-49d4-99f8-dbdfa4c040db.jpeg?fm=jpg",
     "language": "de-DE"
+  },
+  {
+    "id": "geschichten-fur-kinder-von-2-7-jahren-by-sigikid-first-class-for-kids",
+    "title": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+    "publisher": "sigikid",
+    "rss": "https://anchor.fm/s/298ba17c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6870167/6870167-1594629966064-673b796ae73ae.jpg",
+    "language": "de"
   }
 ]
