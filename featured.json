@@ -734,5 +734,13 @@
     "rss": "https://feeds.megaphone.fm/SBMM3380444788",
     "artwork": "https://megaphone.imgix.net/podcasts/a400aa6e-fd79-11ec-9877-7f2cf189aa55/image/The_Ten_News_podcast_FINAL.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "sleep-tight-relax-calming-bedtime-stories-and-meditations",
+    "title": "Sleep Tight Relax - Calming Bedtime Stories and Meditations",
+    "publisher": "Sleep Tight Media | Calming Bedtime Podcasts for Kids & Starglow Media",
+    "rss": "https://feeds.megaphone.fm/STM2497856452",
+    "artwork": "https://megaphone.imgix.net/podcasts/0c1eccec-fb6b-11ef-9229-fb4981235f5a/image/f96f1a13b707d6d96a5864c276a9bf89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
