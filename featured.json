@@ -7,6 +7,14 @@
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de"
   },
+   {
+    "id": "ordentlich-durcheinander",
+    "title": "ORDENTLICH DURCHEINANDER",
+    "publisher": "Deine Freunde",
+    "rss": "https://ordentlich-durcheinander.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,syb3PTAu9NDOFnLxGogwf-A_UKvNmYcbVVPasyEzXKoY=/https://main.podigee-cdn.net/uploads/u59832/96c84ea9-78b5-4ace-92ff-755d5f2adb3e.jpg",
+    "language": "de"
+  },
   {
     "id": "die-maus-zum-hoeren",
     "title": "Die Maus zum Hören",
