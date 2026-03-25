@@ -622,5 +622,13 @@
     "rss": "https://feeds.megaphone.fm/ARML4367050167",
     "artwork": "https://megaphone.imgix.net/podcasts/eafbefea-648f-11ee-a501-67c7bb4c65b5/image/a48e79e8a3810af6bb02c02632558e9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "sleep-tight-stories-bedtime-stories-for-kids",
+    "title": "Sleep Tight Stories - Bedtime Stories for Kids",
+    "publisher": "Sleep Tight Media | Calming Bedtime Stories for Kids & Starglow Media",
+    "rss": "https://feeds.megaphone.fm/STM6807571366",
+    "artwork": "https://megaphone.imgix.net/podcasts/9c70880e-fb6a-11ef-9ef5-333af435d0aa/image/1468e8f7d63d565b85295148cad20a29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
