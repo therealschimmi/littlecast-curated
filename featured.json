@@ -646,5 +646,13 @@
     "rss": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen102-podcast.xml",
     "artwork": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen102-podcastLogo_i-itunes_version-18683_zc-a6cdab34.jpg",
     "language": "de-de"
+  },
+  {
+    "id": "srf-kids-horspiele-geschichten-fur-kinder",
+    "title": "SRF Kids Hörspiele – Geschichten für Kinder",
+    "publisher": "Schweizer Radio und Fernsehen (SRF)",
+    "rss": "https://www.srf.ch/feed/podcast/sd/88072903-e34f-4f51-a9b9-052562d049c2.xml",
+    "artwork": "https://download-media.srf.ch/world/image/audio/2023/04/987a01e371154a5d8f5e0afda6736d01.png",
+    "language": "de"
   }
 ]
