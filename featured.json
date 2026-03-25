@@ -662,5 +662,13 @@
     "rss": "https://hannafragtpapa.libsyn.com/rss",
     "artwork": "https://static.libsyn.com/p/assets/4/a/d/3/4ad316f76b76a80616c3140a3186d450/Hanna_fragt_Papa_2025_2048_x_2048_px.jpg",
     "language": "de-at"
+  },
+  {
+    "id": "magisches-mikro-der-zeithupf-podcast-fur-kinder",
+    "title": "Magisches Mikro - Der Zeithüpf-Podcast für Kinder",
+    "publisher": "Mitteldeutscher Rundfunk",
+    "rss": "https://www.mdr.de/tweens/podcast/magisches-mikro/magisches-mikro-der-powerfrauen-podcast-100-podcast.xml",
+    "artwork": "https://cdn.mdr.de/tweens/podcast/magisches-mikro/magisches-mikro-der-powerfrauen-podcast-100-podcastLogo_i-itunes_version-57461_zc-35181b8d.jpg",
+    "language": "de-de"
   }
 ]
