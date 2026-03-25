@@ -606,5 +606,13 @@
     "rss": "https://feeds.megaphone.fm/TSF5284421093",
     "artwork": "https://megaphone.imgix.net/podcasts/e7b51dba-7eab-11f0-965b-4b7e0c23e724/image/97fb52bbfb75b9bfe288f94fd89febca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en-US"
+  },
+  {
+    "id": "story-quest-stories-for-kids",
+    "title": "Story Quest – Stories for Kids",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/37b81d29-f765-456d-8d36-abc900f24178/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/image.jpg?t=1766153425&size=Large",
+    "language": "en-GB"
   }
 ]
