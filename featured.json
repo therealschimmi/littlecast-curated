@@ -622,5 +622,13 @@
     "rss": "https://feeds.megaphone.fm/STM6807571366",
     "artwork": "https://megaphone.imgix.net/podcasts/9c70880e-fb6a-11ef-9ef5-333af435d0aa/image/1468e8f7d63d565b85295148cad20a29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "paw-patrol-eye-spy-a-rescue",
+    "title": "PAW Patrol: Eye-Spy a Rescue",
+    "publisher": "Nickelodeon",
+    "rss": "https://feeds.megaphone.fm/CBS1942619353",
+    "artwork": "https://megaphone.imgix.net/podcasts/466c3e84-da7d-11ef-a369-f3bd372f047f/image/5f1d263f4d55a23e1cfdb6168b0e82d6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
