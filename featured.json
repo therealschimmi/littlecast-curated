@@ -814,5 +814,13 @@
     "rss": "https://feeds.audiomeans.fr/feed/beff09a1-d3d6-4cbf-a768-74ec1ce22b1e.xml",
     "artwork": "https://static.audiomeans.fr/img/podcast/44883f23-c0f5-471d-8bc3-84719f8bb834.jpg",
     "language": "it"
+  },
+  {
+    "id": "maushorspiel-kurz",
+    "title": "MausHörspiel kurz",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://kinder.wdr.de/radio/diemaus/audio/maushoerspiel/maushoerspiel-100.podcast",
+    "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maushoerspiel-kurz-podcast-100~_v-Podcast.jpg",
+    "language": "de"
   }
 ]
