@@ -830,5 +830,13 @@
     "rss": "https://www1.wdr.de/mediathek/audio/wdr5/kinderhoerspiel/kinderhoerspiel-podcast-108.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maushoerspiel-lang-podcast-100~_v-Podcast.jpg",
     "language": "de"
+  },
+  {
+    "id": "mauszoom-kindernachrichten",
+    "title": "MausZoom – Kindernachrichten",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://kinder.wdr.de/radio/diemaus/audio/maus-zoom/maus-zoom-106.podcast",
+    "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-zoom-116~_v-Podcast.jpg",
+    "language": "de"
   }
 ]
