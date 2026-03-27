@@ -894,5 +894,13 @@
     "rss": "https://feeds.audiomeans.fr/feed/f5ad6b82-cb05-478c-b441-388df1d9665a.xml",
     "artwork": "https://static.audiomeans.fr/img/podcast/27db64b5-bd68-4a9b-a4c9-94f053b8aca6.jpg",
     "language": "de"
+  },
+  {
+    "id": "hafengefluster-entspannung-fur-kinder",
+    "title": "Hafengeflüster - Entspannung für Kinder",
+    "publisher": "Anna Anker, Kristin Baumgartl",
+    "rss": "https://hafengefluester.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sFjJCrGe0EO8578nCCmVSNvFq1Eauo472DDztvPspc2M=/https://main.podigee-cdn.net/uploads/u9520/0027ca70-fe27-43be-9d83-43e6e0fd2172.jpg",
+    "language": "de"
   }
 ]
