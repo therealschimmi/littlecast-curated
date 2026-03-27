@@ -902,5 +902,13 @@
     "rss": "https://hafengefluester.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sFjJCrGe0EO8578nCCmVSNvFq1Eauo472DDztvPspc2M=/https://main.podigee-cdn.net/uploads/u9520/0027ca70-fe27-43be-9d83-43e6e0fd2172.jpg",
     "language": "de"
+  },
+  {
+    "id": "kinderhorspiel-das-detektivburo-frederick-der-kinder-podcast-mit-geschichten-fur-kinder",
+    "title": "Kinderhörspiel - Das Detektivbüro Frederick (Der Kinder-Podcast mit Geschichten für Kinder)",
+    "publisher": "Mario & Frederick",
+    "rss": "https://letscast.fm/podcasts/kinderhoerspiel-das-detektivbuero-frederick-der-kinderpodcast-mit-geschichten-fuer-kinder-7fbb789a/feed",
+    "artwork": "https://lcdn.letscast.fm/media/podcast/7fbb789a/artwork-3000x3000.jpg?t=1603070840",
+    "language": "de"
   }
 ]
