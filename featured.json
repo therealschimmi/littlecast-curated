@@ -878,5 +878,13 @@
     "rss": "https://doppeldecker-crew.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sWlWpCPdclAZJ4HHyPlMygPFzpoqtU3wpagIO9aa5KdQ=/https://main.podigee-cdn.net/uploads/u62739/f8233963-b9f2-4782-b0be-b7006e30437b.jpg",
     "language": "de"
+  },
+  {
+    "id": "die-abenteuer-im-blauen-haus",
+    "title": "Die Abenteuer im blauen Haus",
+    "publisher": "Hörspiele für Kinder von Uli & Theo mit Froschi, Molly und Lilli",
+    "rss": "https://9l3yun.podcaster.de/die-abenteuer-im-blauen-haus.rss",
+    "artwork": "https://9l3yun.podcaster.de/die-abenteuer-im-blauen-haus/logos/Blaues_Haus_logo_-_fuer_PODCAST.jpg",
+    "language": "de"
   }
 ]
