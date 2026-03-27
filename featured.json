@@ -822,5 +822,13 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/maushoerspiel/maushoerspiel-100.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maushoerspiel-kurz-podcast-100~_v-Podcast.jpg",
     "language": "de"
+  },
+  {
+    "id": "maushorspiel-lang",
+    "title": "MausHörspiel lang",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://www1.wdr.de/mediathek/audio/wdr5/kinderhoerspiel/kinderhoerspiel-podcast-108.podcast",
+    "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maushoerspiel-lang-podcast-100~_v-Podcast.jpg",
+    "language": "de"
   }
 ]
