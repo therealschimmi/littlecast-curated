@@ -1,8 +1,6 @@
 {
   "episode": {
     "min_duration_seconds": 90,
-    "rss_overlap_window_seconds": 300,
-    "episodes_per_feed_background_sync": 20,
     "recent_episodes_rss_limit": 10,
     "max_episodes_on_feed_add": 200
   },
