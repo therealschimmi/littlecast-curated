@@ -846,5 +846,13 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/gute-nacht-mit-der-maus/diemaus-gute-nacht-104.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus_gute-nacht-sendereihenbild_podcast-1-100~_v-Podcast.jpg",
     "language": "de"
+  },
+  {
+    "id": "die-mumins-horspiel-serie-nach-dem-kinderbuch-klassiker-wdr",
+    "title": "Die Mumins - Hörspiel-Serie nach dem Kinderbuch-Klassiker | WDR",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://www1.wdr.de/mediathek/audio/wdr/mumins/mumins-hoerspiel-100.podcast",
+    "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/mumins-podcastcover-100~_v-Podcast.jpg",
+    "language": "de"
   }
 ]
