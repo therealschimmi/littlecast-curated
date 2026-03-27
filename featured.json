@@ -870,5 +870,13 @@
     "rss": "https://www.antennebrandenburg.de/programm/hoeren/podcasts/Zappelduster_Podcast/podcast.feed.podcast.xml",
     "artwork": "https://www.rbb-online.de/content/dam/rbb/ant/unser_sandmaennchen/Header_Sandm-nnchen_Audio_ARD_16x9.png.png/rendition=Header_Sandmnnchen_Audio_ARD_1x1.png.png",
     "language": "de"
+  },
+  {
+    "id": "die-doppeldecker-crew-horspiel-fur-kinder-horbuch",
+    "title": "Die Doppeldecker Crew | Hörspiel für Kinder (Hörbuch)",
+    "publisher": "doppeldecker-crew.de",
+    "rss": "https://doppeldecker-crew.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sWlWpCPdclAZJ4HHyPlMygPFzpoqtU3wpagIO9aa5KdQ=/https://main.podigee-cdn.net/uploads/u62739/f8233963-b9f2-4782-b0be-b7006e30437b.jpg",
+    "language": "de"
   }
 ]
