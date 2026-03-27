@@ -886,5 +886,13 @@
     "rss": "https://9l3yun.podcaster.de/die-abenteuer-im-blauen-haus.rss",
     "artwork": "https://9l3yun.podcaster.de/die-abenteuer-im-blauen-haus/logos/Blaues_Haus_logo_-_fuer_PODCAST.jpg",
     "language": "de"
+  },
+  {
+    "id": "die-abenteuer-von-emma-reisen-entdeckungen-und-weltkulturen-fur-kinder",
+    "title": "Die Abenteuer von Emma - Reisen, Entdeckungen und Weltkulturen für Kinder",
+    "publisher": "AUDIO360",
+    "rss": "https://feeds.audiomeans.fr/feed/f5ad6b82-cb05-478c-b441-388df1d9665a.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/27db64b5-bd68-4a9b-a4c9-94f053b8aca6.jpg",
+    "language": "de"
   }
 ]
