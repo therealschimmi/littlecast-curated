@@ -838,5 +838,13 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/maus-zoom/maus-zoom-106.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-zoom-116~_v-Podcast.jpg",
     "language": "de"
+  },
+  {
+    "id": "gute-nacht-mit-der-maus",
+    "title": "Gute Nacht mit der Maus",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://kinder.wdr.de/radio/diemaus/audio/gute-nacht-mit-der-maus/diemaus-gute-nacht-104.podcast",
+    "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus_gute-nacht-sendereihenbild_podcast-1-100~_v-Podcast.jpg",
+    "language": "de"
   }
 ]
