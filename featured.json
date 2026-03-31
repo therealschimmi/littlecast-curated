@@ -1030,5 +1030,13 @@
     "rss": "https://media.rss.com/magicosmundos/feed.xml",
     "artwork": "https://media.rss.com/magicosmundos/20250817_080808_d5ca5b104423fdaad789bde4715add5a.jpg",
     "language": "es-mx"
+  },
+  {
+    "id": "cuentos-con-moraleja",
+    "title": "Cuentos con moraleja",
+    "publisher": "Borja Girón",
+    "rss": "https://www.spreaker.com/show/5722699/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/36a6daf665283f8dcbe5e76365d4d262.jpg",
+    "language": "es"
   }
 ]
