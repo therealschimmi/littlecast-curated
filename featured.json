@@ -910,5 +910,13 @@
     "rss": "https://letscast.fm/podcasts/kinderhoerspiel-das-detektivbuero-frederick-der-kinderpodcast-mit-geschichten-fuer-kinder-7fbb789a/feed",
     "artwork": "https://lcdn.letscast.fm/media/podcast/7fbb789a/artwork-3000x3000.jpg?t=1603070840",
     "language": "de"
+  },
+  {
+    "id": "keyshawn-solves-it",
+    "title": "Keyshawn Solves It",
+    "publisher": "GBH & PBS Kids",
+    "rss": "https://feeds.wgbh.org/3822/feed-rss.xml",
+    "artwork": "https://f.prxu.org/3822/images/ccdfd73b-bca3-4523-92c2-a8984229657a/Keyshawn3000x3000_PBS.jpg",
+    "language": "en"
   }
 ]
