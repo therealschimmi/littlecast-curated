@@ -950,5 +950,13 @@
     "rss": "https://feeds.wgbh.org/2469/feed-rss.xml",
     "artwork": "https://f.prxu.org/2469/images/2e100eb8-7c08-40b0-92db-6dbdc4fd7a5a/Arthur_Podcast_Logo_Corrected_09162022_FINAL_1_.jpg",
     "language": "en"
+  },
+  {
+    "id": "jamming-on-the-job",
+    "title": "Jamming on the Job",
+    "publisher": "PBS KIDS",
+    "rss": "https://publicfeeds.net/f/4515/feed-rss.xml",
+    "artwork": "https://f.prxu.org/4515/images/6a0d7cc6-82f0-4679-accf-501e3d2d500e/cover_art_jamming.jpg",
+    "language": "en"
   }
 ]
