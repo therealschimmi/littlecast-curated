@@ -1014,5 +1014,13 @@
     "rss": "https://anchor.fm/s/3439e688/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8662098/8662098-1599980670585-5514acf128985.jpg",
     "language": "en"
+  },
+  {
+    "id": "cuentos-de-buenas-noches-para-ninas-rebeldes",
+    "title": "Cuentos de Buenas Noches para Niñas Rebeldes",
+    "publisher": "Adonde Media",
+    "rss": "https://feeds.megaphone.fm/ninas-rebeldes",
+    "artwork": "https://megaphone.imgix.net/podcasts/1ef6fbde-2e07-11ed-9796-df59481a12b6/image/RG_PodcastCover.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "es"
   }
 ]
