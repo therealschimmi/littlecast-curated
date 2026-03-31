@@ -918,5 +918,13 @@
     "rss": "https://feeds.wgbh.org/3822/feed-rss.xml",
     "artwork": "https://f.prxu.org/3822/images/ccdfd73b-bca3-4523-92c2-a8984229657a/Keyshawn3000x3000_PBS.jpg",
     "language": "en"
+  },
+  {
+    "id": "work-it-out-wombats-podcast",
+    "title": "Work It Out Wombats! Podcast",
+    "publisher": "GBH & PBS Kids",
+    "rss": "https://feeds.wgbh.org/5538/feed-rss.xml",
+    "artwork": "https://f.prxu.org/5538/images/836ec94b-54ec-404b-b94f-075336d20319/WIOWPOD_S2_Channel_Square_REV_FINAL_04-03-25.jpg",
+    "language": "en-us"
   }
 ]
