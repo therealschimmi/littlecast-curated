@@ -974,5 +974,13 @@
     "rss": "https://anchor.fm/s/7d6c8b1c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/20942655/20942655-1642059638892-4069f7a884782.jpg",
     "language": "es"
+  },
+  {
+    "id": "cuentos-increibles",
+    "title": "Cuentos Increíbles",
+    "publisher": "Sonoro",
+    "rss": "https://feeds.simplecast.com/u8akwBSW",
+    "artwork": "https://image.simplecastcdn.com/images/044597a5-9a22-4453-a111-b0dd46774ede/45a54912-1ec9-4c56-a4d9-acd1d5a2d406/3000x3000/image.jpg?aid=rss_feed",
+    "language": "es"
   }
 ]
