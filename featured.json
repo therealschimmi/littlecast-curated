@@ -926,5 +926,13 @@
     "rss": "https://feeds.wgbh.org/5538/feed-rss.xml",
     "artwork": "https://f.prxu.org/5538/images/836ec94b-54ec-404b-b94f-075336d20319/WIOWPOD_S2_Channel_Square_REV_FINAL_04-03-25.jpg",
     "language": "en-us"
+  },
+  {
+    "id": "pinkalicious-peterrific",
+    "title": "Pinkalicious & Peterrific",
+    "publisher": "GBH & PBS Kids",
+    "rss": "https://feeds.wgbh.org/337/feed-rss.xml",
+    "artwork": "https://f.prxu.org/337/images/5b409aab-b095-41cd-9eb7-8215c0f0da10/PinkPodcast_updatedBadge.png",
+    "language": "en"
   }
 ]
