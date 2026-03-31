@@ -990,5 +990,13 @@
     "rss": "https://feeds.acast.com/public/shows/6446e30da189ca00112be9de",
     "artwork": "https://assets.pippa.io/shows/6446e30da189ca00112be9de/1682367837917-af991daacef7786275da7416b6e7a2a5.jpeg",
     "language": "es"
+  },
+  {
+    "id": "cuentos-feroces",
+    "title": "Cuentos Feroces",
+    "publisher": "Shumi Gauto - Joaco Bachrach - Rodri Menéndez",
+    "rss": "https://anchor.fm/s/25bc18c4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/6230841/6230841-1745343435635-d23311f24e7c.jpg",
+    "language": "es-ar"
   }
 ]
