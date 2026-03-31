@@ -1022,5 +1022,13 @@
     "rss": "https://feeds.megaphone.fm/ninas-rebeldes",
     "artwork": "https://megaphone.imgix.net/podcasts/1ef6fbde-2e07-11ed-9796-df59481a12b6/image/RG_PodcastCover.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "es"
+  },
+  {
+    "id": "magicos-mundos-cuentos-infantiles",
+    "title": "Mágicos Mundos | Cuentos Infantiles",
+    "publisher": "Mágicos Mundos",
+    "rss": "https://media.rss.com/magicosmundos/feed.xml",
+    "artwork": "https://media.rss.com/magicosmundos/20250817_080808_d5ca5b104423fdaad789bde4715add5a.jpg",
+    "language": "es-mx"
   }
 ]
