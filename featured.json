@@ -1006,5 +1006,13 @@
     "rss": "https://anchor.fm/s/87a3aee4/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22656513/22656513-1648745609637-0e812f8e5d3a5.jpg",
     "language": "es"
+  },
+  {
+    "id": "cuentos-for-kiddos-a-bilingual-storytelling-podcast",
+    "title": "Cuentos for Kiddos! - A Bilingual Storytelling Podcast",
+    "publisher": "Fergie Sato",
+    "rss": "https://anchor.fm/s/3439e688/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8662098/8662098-1599980670585-5514acf128985.jpg",
+    "language": "en"
   }
 ]
