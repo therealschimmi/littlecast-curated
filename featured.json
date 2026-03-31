@@ -966,5 +966,13 @@
     "rss": "https://media.rss.com/bedtimehistory/feed.xml",
     "artwork": "https://media.rss.com/bedtimehistory/20210513_184826_ae34b46bd5fd0bad59dc996505d97029.jpg",
     "language": "es"
+  },
+  {
+    "id": "los-ninos-que-cocinan-comen-mejor-el-podcast-de-la-red-de-escuelas-de-cocina-de-kitchen-academy",
+    "title": "Los Niños Que Cocinan Comen Mejor, el podcast de la red de escuelas de cocina de Kitchen Academy",
+    "publisher": "Kitchen Academy",
+    "rss": "https://anchor.fm/s/7d6c8b1c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/20942655/20942655-1642059638892-4069f7a884782.jpg",
+    "language": "es"
   }
 ]
