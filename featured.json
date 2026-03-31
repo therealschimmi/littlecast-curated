@@ -942,5 +942,13 @@
     "rss": "https://feeds.wgbh.org/193/feed-rss.xml",
     "artwork": "https://f.prxu.org/193/images/be884874-4f7a-417a-ac6b-ffbbed9761cd/MoD_podcast_logo_UpdatedBadge_1400x1400.png",
     "language": "en"
+  },
+  {
+    "id": "the-arthur-podcast",
+    "title": "The Arthur Podcast",
+    "publisher": "GBH & PBS Kids",
+    "rss": "https://feeds.wgbh.org/2469/feed-rss.xml",
+    "artwork": "https://f.prxu.org/2469/images/2e100eb8-7c08-40b0-92db-6dbdc4fd7a5a/Arthur_Podcast_Logo_Corrected_09162022_FINAL_1_.jpg",
+    "language": "en"
   }
 ]
