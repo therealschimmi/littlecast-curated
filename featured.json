@@ -1038,5 +1038,13 @@
     "rss": "https://www.spreaker.com/show/5722699/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/36a6daf665283f8dcbe5e76365d4d262.jpg",
     "language": "es"
+  },
+  {
+    "id": "die-meyers-vom-mars",
+    "title": "Die Meyers vom Mars",
+    "publisher": "NDR",
+    "rss": "https://www.ndr.de/podcast/podcast-324.xml",
+    "artwork": "https://images.ndr.de/image/eb99c578-df9e-40d2-bd90-6b052ae3f269/AAABnJlLpM4/AAABnSStX0g/1x1-big/audiothek-sendereihe-5167-104.jpg?width=3000",
+    "language": "de"
   }
 ]
