@@ -1046,5 +1046,13 @@
     "rss": "https://www.ndr.de/podcast/podcast-324.xml",
     "artwork": "https://images.ndr.de/image/eb99c578-df9e-40d2-bd90-6b052ae3f269/AAABnJlLpM4/AAABnSStX0g/1x1-big/audiothek-sendereihe-5167-104.jpg?width=3000",
     "language": "de"
+  },
+  {
+    "id": "schlaue-pause-kinderpodcast",
+    "title": "SCHLAUE PAUSE Kinderpodcast",
+    "publisher": "Anna Winter",
+    "rss": "https://schlauepause.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sOMCt2GwNg1cWl-LGPd6XQLYzolYUj-tQQ5AGh09iYXM=/https://main.podigee-cdn.net/uploads/u66884/2507ff1d-09ca-4291-9f38-36cf5ecd4a9c.png",
+    "language": "de"
   }
 ]
