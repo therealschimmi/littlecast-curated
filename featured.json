@@ -1054,5 +1054,13 @@
     "rss": "https://schlauepause.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sOMCt2GwNg1cWl-LGPd6XQLYzolYUj-tQQ5AGh09iYXM=/https://main.podigee-cdn.net/uploads/u66884/2507ff1d-09ca-4291-9f38-36cf5ecd4a9c.png",
     "language": "de"
+  },
+  {
+    "id": "schlau-wow-der-podcast-fur-kids",
+    "title": "Schlau & Wow- der Podcast für Kids",
+    "publisher": "Schlau & Wow",
+    "rss": "https://anchor.fm/s/ff5b7048/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42741826/42741826-1766998375926-64df983eb43b4.jpg",
+    "language": "de"
   }
 ]
