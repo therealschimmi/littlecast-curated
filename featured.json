@@ -1062,5 +1062,13 @@
     "rss": "https://anchor.fm/s/ff5b7048/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42741826/42741826-1766998375926-64df983eb43b4.jpg",
     "language": "de"
+  },
+  {
+    "id": "wunder-dich-schlau",
+    "title": "Wunder dich schlau",
+    "publisher": "Universum® Bremen",
+    "rss": "https://aenx0a.podcaster.de/wunderdichschlau.rss",
+    "artwork": "https://files.pdcstrcdn.de/u/aenx0a/i/1194614/f/Postcast-Icon-Wunder_dich_schlau.jpg",
+    "language": "de"
   }
 ]
