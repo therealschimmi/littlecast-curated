@@ -856,14 +856,6 @@
     "language": "de"
   },
   {
-    "id": "ohrenbar-podcast",
-    "title": "Ohrenbär Podcast",
-    "publisher": "ARD",
-    "rss": "https://www.ohrenbaer.de/podcast/podcast.feed.podcast.xml",
-    "artwork": "https://www.rbb-online.de/content/dam/rbb/ohr/bilder/2026/ARD_Ohrenbaer_PodcastCover_16_9.png.png/rendition=1400x1400.png/size=1400x1400.png",
-    "language": "de"
-  },
-  {
     "id": "unser-sandmannchen",
     "title": "Unser Sandmännchen",
     "publisher": "Antenne Brandenburg (rbb)",
