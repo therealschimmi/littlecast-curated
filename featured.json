@@ -1158,5 +1158,13 @@
     "rss": "https://feeds.redcircle.com/9567fb37-8753-417b-9460-fc2619f2c64f",
     "artwork": "https://media.redcircle.com/images/2025/1/26/18/a803262a-7685-460d-9682-3cb73e8f2e28_2c-b760-43a5-b33f-2c139e7bfc47_favicon-32x32-1.jpg",
     "language": "en-US"
+  },
+  {
+    "id": "maddie-s-sound-explorers",
+    "title": "Maddie's Sound Explorers",
+    "publisher": "Magic Star",
+    "rss": "https://feeds.megaphone.fm/soundexplorers",
+    "artwork": "https://megaphone.imgix.net/podcasts/08a87864-c2a0-11ea-828a-7fe2b2f1a68b/image/Magic_20Star_20-_20Sound_20Explorers_20win_SQ_02_20copy.jpg-2021-07-23_16_12_10.615000.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
