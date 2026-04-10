@@ -1393,5 +1393,14 @@
     "artwork": "https://media.rss.com/build-the-change-planet-people-podcast/20240620_030624_e425003348a2b6bcf6bc0d39816051cf.jpg",
     "language": "en",
     "added_at": "2026-04-10T19:40:36Z"
+  },
+  {
+    "id": "ninja-talk-der-lego-ninjago-fan-podcast",
+    "title": "Ninja Talk - Der LEGO® Ninjago® Fan-Podcast",
+    "publisher": "Philipp Sperl und Justin Görgen",
+    "rss": "https://ninja-talk-promobricks.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sZG8Co0TYs102IwzisCHO93r4AfL33vxa69LjxOOxtdE=/https://main.podigee-cdn.net/uploads/u74370/304486d2-0975-498d-a2b6-b7b7853f227a.png",
+    "language": "de",
+    "added_at": "2026-04-10T19:40:26Z"
   }
 ]
