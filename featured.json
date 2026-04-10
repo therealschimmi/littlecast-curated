@@ -1166,5 +1166,13 @@
     "rss": "https://feeds.megaphone.fm/soundexplorers",
     "artwork": "https://megaphone.imgix.net/podcasts/08a87864-c2a0-11ea-828a-7fe2b2f1a68b/image/Magic_20Star_20-_20Sound_20Explorers_20win_SQ_02_20copy.jpg-2021-07-23_16_12_10.615000.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "greeking-out-from-national-geographic-kids",
+    "title": "Greeking Out from National Geographic Kids",
+    "publisher": "National Geographic Kids",
+    "rss": "https://feeds.megaphone.fm/ESP4751925729",
+    "artwork": "https://megaphone.imgix.net/podcasts/9c266f68-7e69-11ea-97e1-1bd3af9fcebe/image/7186b9fc58c1149164773ef0c498a748.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en-us"
   }
 ]
