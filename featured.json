@@ -1070,5 +1070,13 @@
     "rss": "https://www.antennebrandenburg.de/programm/hoeren/podcasts/Zappelduster_Podcast/podcast.feed.podcast.xml",
     "artwork": "https://www.rbb-online.de/content/dam/rbb/ant/unser_sandmaennchen/Header_Sandm-nnchen_Audio_ARD_16x9.png.png/rendition=Header_Sandmnnchen_Audio_ARD_1x1.png.png",
     "language": "de"
+  },
+  {
+    "id": "cereal",
+    "title": "Cereal",
+    "publisher": "RTÉjr",
+    "rss": "https://www.rte.ie/radio1/podcast/podcast_cereal.xml",
+    "artwork": "https://img.rasset.ie/002099d5-3000.jpg",
+    "language": "en-ie"
   }
 ]
