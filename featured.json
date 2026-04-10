@@ -1174,5 +1174,13 @@
     "rss": "https://feeds.megaphone.fm/ESP4751925729",
     "artwork": "https://megaphone.imgix.net/podcasts/9c266f68-7e69-11ea-97e1-1bd3af9fcebe/image/7186b9fc58c1149164773ef0c498a748.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en-us"
+  },
+  {
+    "id": "the-cat-in-the-hat-cast",
+    "title": "The Cat In The Hat Cast",
+    "publisher": "Audible",
+    "rss": "https://rss.art19.com/cat-in-the-hat-cast",
+    "artwork": "https://content.production.cdn.art19.com/images/27/63/a1/bf/2763a1bf-74f2-40f0-ba55-55a744cf50af/09a00b6ceef7586acc8d0c26a769da175d13e7f3980b36c3745c87a3f142ba1512b2ffe8e698c28fc59903fa0139a5c71f4bbbef58951b04d22ddfc429d794a3.jpeg",
+    "language": "en"
   }
 ]
