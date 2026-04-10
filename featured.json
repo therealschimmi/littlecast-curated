@@ -1384,5 +1384,14 @@
     "artwork": "https://object.littlestoriestinypeople.com/lstp/img/2025_podcast_banner.jpg",
     "language": "en-us",
     "added_at": "2026-04-10T19:09:44Z"
+  },
+  {
+    "id": "build-the-change-planet-people-podcast",
+    "title": "Build the Change Planet People Podcast",
+    "publisher": "The LEGO Group and The Day",
+    "rss": "https://media.rss.com/build-the-change-planet-people-podcast/feed.xml",
+    "artwork": "https://media.rss.com/build-the-change-planet-people-podcast/20240620_030624_e425003348a2b6bcf6bc0d39816051cf.jpg",
+    "language": "en",
+    "added_at": "2026-04-10T19:40:36Z"
   }
 ]
