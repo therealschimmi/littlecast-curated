@@ -1182,5 +1182,13 @@
     "rss": "https://rss.art19.com/cat-in-the-hat-cast",
     "artwork": "https://content.production.cdn.art19.com/images/27/63/a1/bf/2763a1bf-74f2-40f0-ba55-55a744cf50af/09a00b6ceef7586acc8d0c26a769da175d13e7f3980b36c3745c87a3f142ba1512b2ffe8e698c28fc59903fa0139a5c71f4bbbef58951b04d22ddfc429d794a3.jpeg",
     "language": "en"
+  },
+  {
+    "id": "football-for-kids",
+    "title": "Football For Kids",
+    "publisher": "Darren Rees",
+    "rss": "https://feeds.megaphone.fm/COMG1916011883",
+    "artwork": "https://megaphone.imgix.net/podcasts/36e23bd6-b15f-11ef-ab72-eb2ca2b8efdb/image/7185cf5695974fe791a07aca0e524118.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   }
 ]
