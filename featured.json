@@ -1110,5 +1110,13 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/outreach/english_rss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/eng_ep13.jpg",
     "language": "en-us"
+  },
+  {
+    "id": "las-aventuras-de-gastar-ahorrar-y-compartir-de-elmo",
+    "title": "Las aventuras de gastar, ahorrar y compartir de Elmo",
+    "publisher": "Sesame Street",
+    "rss": "http://downloads.cdn.sesame.org/podcast/outreach/spanish_rss.xml",
+    "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/sp_ep13.jpg",
+    "language": "es-us"
   }
 ]
