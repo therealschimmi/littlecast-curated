@@ -1086,5 +1086,13 @@
     "rss": "https://feeds.megaphone.fm/ADL7382912950",
     "artwork": "https://megaphone.imgix.net/podcasts/152d06b8-50aa-11ee-b9e8-c30035ef8876/image/show-cover-goodnight-world.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "sesame-street-ready-for-school-challenge",
+    "title": "Sesame Street Ready for School Challenge",
+    "publisher": "Sesame Street",
+    "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSCrss.xml",
+    "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_ENG_50.jpg",
+    "language": "en-us"
   }
 ]
