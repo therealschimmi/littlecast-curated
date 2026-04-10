@@ -1198,5 +1198,13 @@
     "rss": "https://media.rss.com/extinction/feed.xml",
     "artwork": "https://media.rss.com/extinction/20260209_080218_98614a822f91d3f5d8a348004687c79a.jpg",
     "language": "en"
+  },
+  {
+    "id": "wealthy-reader-s-club-the-cat-in-the-hat",
+    "title": "Wealthy Reader's Club -The Cat In The Hat",
+    "publisher": "Wealthykids Radio",
+    "rss": "https://www.spreaker.com/show/4350484/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5d1a569b67b13fe94e492d816d069663.jpg",
+    "language": "en"
   }
 ]
