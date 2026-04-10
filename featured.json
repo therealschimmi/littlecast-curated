@@ -1142,5 +1142,13 @@
     "rss": "https://feeds.simplecast.com/W1sKGuT8",
     "artwork": "https://image.simplecastcdn.com/images/6215cda8-011d-4ccd-9fe8-c389912a62af/f7a9eb50-defe-4c86-b036-1ed53506db56/3000x3000/klap-ckp-logo.jpg?aid=rss_feed",
     "language": "en-us"
+  },
+  {
+    "id": "carpooling-with-jesus-bible-stories-for-kids-devotionals-daily-devotional-for-kids-daily-christian-kids-devotional",
+    "title": "Carpooling with Jesus | Bible Stories for Kids Devotionals Daily Devotional for Kids Daily Christian Kids Devotional",
+    "publisher": "Pastor Justin – Christian Kids Podcast Host & Pastor",
+    "rss": "https://feed.podbean.com/carpoolingwithjesus/feed.xml",
+    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/19628023/Updated_Podcast_Craphics_2_ahvus.jpg",
+    "language": "en"
   }
 ]
