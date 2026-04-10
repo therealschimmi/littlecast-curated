@@ -1102,5 +1102,13 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSC_SPANrss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_SP50.jpg",
     "language": "ES"
+  },
+  {
+    "id": "elmo-s-adventures-in-spending-saving-and-sharing",
+    "title": "Elmo's Adventures in Spending, Saving, and Sharing",
+    "publisher": "Sesame Street",
+    "rss": "http://downloads.cdn.sesame.org/podcast/outreach/english_rss.xml",
+    "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/eng_ep13.jpg",
+    "language": "en-us"
   }
 ]
