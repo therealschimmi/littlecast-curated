@@ -1126,5 +1126,13 @@
     "rss": "https://anchor.fm/s/109bb2664/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44482273/44482273-1761070264609-2ec59aae74c5f.jpg",
     "language": "en"
+  },
+  {
+    "id": "curious-kids-every-day-a-daily-educational-podcast",
+    "title": "Curious Kids Every Day: A Daily Educational Podcast",
+    "publisher": "Curious Kids Every Day",
+    "rss": "https://feeds.libsyn.com/576495/rss",
+    "artwork": "https://static.libsyn.com/p/assets/2/1/c/8/21c8ef7c2d2e3557d959afa2a1bf1c87/Curious_Kids_Everyday_Logo.jpg",
+    "language": "en"
   }
 ]
