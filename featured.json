@@ -1190,5 +1190,13 @@
     "rss": "https://feeds.megaphone.fm/COMG1916011883",
     "artwork": "https://megaphone.imgix.net/podcasts/36e23bd6-b15f-11ef-ab72-eb2ca2b8efdb/image/7185cf5695974fe791a07aca0e524118.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en"
+  },
+  {
+    "id": "tales-of-extinction",
+    "title": "Tales of Extinction",
+    "publisher": "Seanosaurus",
+    "rss": "https://media.rss.com/extinction/feed.xml",
+    "artwork": "https://media.rss.com/extinction/20260209_080218_98614a822f91d3f5d8a348004687c79a.jpg",
+    "language": "en"
   }
 ]
