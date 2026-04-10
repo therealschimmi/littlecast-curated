@@ -1094,5 +1094,13 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSCrss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_ENG_50.jpg",
     "language": "en-us"
+  },
+  {
+    "id": "sesame-street-listos-para-la-escuela",
+    "title": "Sesame Street Listos para la escuela",
+    "publisher": "Sesame Street",
+    "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSC_SPANrss.xml",
+    "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_SP50.jpg",
+    "language": "ES"
   }
 ]
