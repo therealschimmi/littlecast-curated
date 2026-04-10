@@ -1118,5 +1118,13 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/outreach/spanish_rss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/sp_ep13.jpg",
     "language": "es-us"
+  },
+  {
+    "id": "the-bedtime-scientist-calm-science-for-sleepy-kids",
+    "title": "The Bedtime Scientist: Calm Science for Sleepy Kids",
+    "publisher": "Josh Fleishman",
+    "rss": "https://anchor.fm/s/109bb2664/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44482273/44482273-1761070264609-2ec59aae74c5f.jpg",
+    "language": "en"
   }
 ]
