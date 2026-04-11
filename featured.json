@@ -1591,5 +1591,14 @@
     "artwork": "https://media.rss.com/quatschmonster/20240411_070435_7301eb1a50169b7fc22780251965393a.png",
     "language": "en-us",
     "added_at": "2026-04-11T05:56:57Z"
+  },
+  {
+    "id": "kindernachrichten",
+    "title": "Kindernachrichten",
+    "publisher": "NDR Nachrichtenzentrum",
+    "rss": "https://www.ndr.de/podcast/podcast4096.xml",
+    "artwork": "https://images.ndr.de/image/75c996a1-00c4-4a9e-a113-b1b76e514ee3/AAABltYfFbI/AAABnSStX0g/1x1-big/mediathekbild296.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "language": "de",
+    "added_at": "2026-04-11T05:58:12Z"
   }
 ]
