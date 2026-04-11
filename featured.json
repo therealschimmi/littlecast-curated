@@ -1456,5 +1456,14 @@
     "artwork": "https://assets.pippa.io/shows/65255acb8b63100012501ee8/show-cover.png",
     "language": "de",
     "added_at": "2026-04-11T04:41:53Z"
+  },
+  {
+    "id": "tigerenten-club-die-hor-spiel-show",
+    "title": "Tigerenten Club – Die Hör-Spiel-Show",
+    "publisher": "Tigerenten Club",
+    "rss": "https://www.kindernetz.de/~podcast/sendungen/hoerspielshow/podcast-hoerspielshow-100.xml",
+    "artwork": "https://www.kindernetz.de/sendungen/hoerspielshow/1766404380577%2Ctigerenten-club-die-hoer-spiel-show-cover-100~_v-1x1@2dXL_-1f32c27c4978132dd0854e53b5ed30e10facc189.jpg",
+    "language": "de",
+    "added_at": "2026-04-11T04:42:27Z"
   }
 ]
