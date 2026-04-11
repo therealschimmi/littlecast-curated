@@ -1528,5 +1528,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39637769/a4598307c6189135.jpeg",
     "language": "de-de",
     "added_at": "2026-04-11T04:50:05Z"
+  },
+  {
+    "id": "gleisdreieck-der-bvg-horspiel-podcast-fur-kinder",
+    "title": "Gleisdreieck – Der BVG Hörspiel-Podcast für Kinder",
+    "publisher": "BVG, Podstars by OMR",
+    "rss": "https://gleisdreieck.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,s6JgGnk2LsB8F7zhffVBIzZO7lORWhTOTxqCXyOOCDI0=/https://main.podigee-cdn.net/uploads/u5851/80210b9e-3e64-4a3c-9434-4665e61cc1cc.jpg",
+    "language": "de",
+    "added_at": "2026-04-11T04:50:06Z"
   }
 ]
