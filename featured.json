@@ -1573,5 +1573,14 @@
     "artwork": "https://bilder.deutschlandfunk.de/FI/LE/_9/ac/FILE_9ac926df16c242d33aa4876fd8be2676/kakadu-kinderhoerspiel-104-1920x1920.jpg",
     "language": "de-DE",
     "added_at": "2026-04-11T05:55:15Z"
+  },
+  {
+    "id": "quatsch-weisheit-kinder-reden-uber-die-welt-und-uberhaupt",
+    "title": "Quatsch & Weisheit: Kinder reden. Über die Welt. Und überhaupt",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/quatsch-weisheit-kinder-reden-ueber-die-welt-und-ueberhaupt/feed.xml",
+    "artwork": "https://img.br.de/343cc999-3240-4bb1-b8f1-82193dd9396f.jpeg?fm=jpg",
+    "language": "de-DE",
+    "added_at": "2026-04-11T05:56:54Z"
   }
 ]
