@@ -1555,5 +1555,14 @@
     "artwork": "https://www.ndr.de/mediathek/media/podcastbild690_v-quadratxl.jpg",
     "language": "de",
     "added_at": "2026-04-11T04:49:57Z"
+  },
+  {
+    "id": "die-sachsen-detektive",
+    "title": "Die Sachsen-Detektive",
+    "publisher": "© Tourismus Marketing Gesellschaft Sachsen mbH",
+    "rss": "https://feeds.megaphone.fm/KBBF8366637711",
+    "artwork": "https://megaphone.imgix.net/podcasts/ad537dfc-cb80-11f0-81f4-2b178144889d/image/bafc1d4bb982f74af300067f8015b911.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "de",
+    "added_at": "2026-04-11T05:53:37Z"
   }
 ]
