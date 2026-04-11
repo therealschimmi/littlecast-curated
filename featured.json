@@ -1510,5 +1510,14 @@
     "artwork": "https://images.ndr.de/image/21a8d989-a79f-41d2-8d98-cee993b5c2aa/AAABlPOlDAU/AAABnSStX0g/1x1-big/podcast5570.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "language": "de",
     "added_at": "2026-04-11T04:49:27Z"
+  },
+  {
+    "id": "wer-wie-buzz",
+    "title": "Wer? Wie? BUZZ!",
+    "publisher": "DER SPIEGEL",
+    "rss": "https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/68eddd8b-e022-41ab-9717-ad3c00e86bd4/a83c89ab-82f4-4329-a4af-ae5100e70c3b/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/68eddd8b-e022-41ab-9717-ad3c00e86bd4/image.jpg?t=1714998228&size=Large",
+    "language": "de",
+    "added_at": "2026-04-11T04:47:46Z"
   }
 ]
