@@ -1582,5 +1582,14 @@
     "artwork": "https://img.br.de/343cc999-3240-4bb1-b8f1-82193dd9396f.jpeg?fm=jpg",
     "language": "de-DE",
     "added_at": "2026-04-11T05:56:54Z"
+  },
+  {
+    "id": "tilda-and-quatsch-monster",
+    "title": "Tilda and Quatsch Monster",
+    "publisher": "Matt Wilson",
+    "rss": "https://media.rss.com/quatschmonster/feed.xml",
+    "artwork": "https://media.rss.com/quatschmonster/20240411_070435_7301eb1a50169b7fc22780251965393a.png",
+    "language": "en-us",
+    "added_at": "2026-04-11T05:56:57Z"
   }
 ]
