@@ -1474,5 +1474,14 @@
     "artwork": "https://img.br.de/d3118196-d8c7-4c23-bb26-6cf45baa5c66.jpeg?fm=jpg",
     "language": "de-DE",
     "added_at": "2026-04-11T04:43:06Z"
+  },
+  {
+    "id": "haschimitenfurst-der-bobcast",
+    "title": "Haschimitenfürst – Der Bobcast",
+    "publisher": "Die drei ???",
+    "rss": "https://cdn.julephosting.de/podcasts/1120-haschimitenfurst-der-bobcast/feed.rss",
+    "artwork": "https://cdn.julephosting.de/podcasts/1120-haschimitenfurst-der-bobcast/1120_cover.jpg?v=3",
+    "language": "de",
+    "added_at": "2026-04-11T04:43:33Z"
   }
 ]
