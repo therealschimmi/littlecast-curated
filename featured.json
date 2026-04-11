@@ -1546,5 +1546,14 @@
     "artwork": "https://images.ndr.de/image/c93a2af5-4f43-4a27-a4d8-459e1ed182d5/AAABlPQXVQk/AAABkZLotXc/1x1-big/podcastbild380.jpg?width=3000",
     "language": "de",
     "added_at": "2026-04-11T04:50:07Z"
+  },
+  {
+    "id": "die-pfefferkorner-die-falle-als-horspiel",
+    "title": "Die Pfefferkörner - Die Fälle als Hörspiel",
+    "publisher": "Norddeutscher Rundfunk",
+    "rss": "https://www.ndr.de/mediathek/media/podcast5994.xml",
+    "artwork": "https://www.ndr.de/mediathek/media/podcastbild690_v-quadratxl.jpg",
+    "language": "de",
+    "added_at": "2026-04-11T04:49:57Z"
   }
 ]
