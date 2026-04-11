@@ -1483,5 +1483,14 @@
     "artwork": "https://cdn.julephosting.de/podcasts/1120-haschimitenfurst-der-bobcast/1120_cover.jpg?v=3",
     "language": "de",
     "added_at": "2026-04-11T04:43:33Z"
+  },
+  {
+    "id": "toggo-gg-der-podcast",
+    "title": "TOGGO GG - der Podcast",
+    "publisher": "RTL+ / Toggo",
+    "rss": "https://cdn.audiorella.com/podcasts/1672-toggo-gg-der-podcast/feed.rss",
+    "artwork": "https://cdn.audiorella.com/podcasts/1672-toggo-gg-der-podcast/1672_cover.jpg?v=2",
+    "language": "de",
+    "added_at": "2026-04-11T04:45:04Z"
   }
 ]
