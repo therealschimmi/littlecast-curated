@@ -1447,5 +1447,14 @@
     "artwork": "https://img.br.de/e9ae87d5-1153-4fb6-a20e-91076325cf26.jpeg?fm=jpg",
     "language": "de-DE",
     "added_at": "2026-04-11T04:41:38Z"
+  },
+  {
+    "id": "einschlafen-mit-hogwarts",
+    "title": "Einschlafen mit Hogwarts",
+    "publisher": "Schønlein Media",
+    "rss": "https://feeds.acast.com/public/shows/65255acb8b63100012501ee8",
+    "artwork": "https://assets.pippa.io/shows/65255acb8b63100012501ee8/show-cover.png",
+    "language": "de",
+    "added_at": "2026-04-11T04:41:53Z"
   }
 ]
