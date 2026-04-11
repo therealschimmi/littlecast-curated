@@ -1537,5 +1537,14 @@
     "artwork": "https://images.podigee-cdn.net/0x,s6JgGnk2LsB8F7zhffVBIzZO7lORWhTOTxqCXyOOCDI0=/https://main.podigee-cdn.net/uploads/u5851/80210b9e-3e64-4a3c-9434-4665e61cc1cc.jpg",
     "language": "de",
     "added_at": "2026-04-11T04:50:06Z"
+  },
+  {
+    "id": "die-villa-im-wald-ein-interaktives-kinder-abenteuer-horspiel",
+    "title": "Die Villa im Wald. Ein interaktives Kinder-Abenteuer-Hörspiel",
+    "publisher": "NDR",
+    "rss": "https://www.ndr.de/podcast/podcast5824.xml",
+    "artwork": "https://images.ndr.de/image/c93a2af5-4f43-4a27-a4d8-459e1ed182d5/AAABlPQXVQk/AAABkZLotXc/1x1-big/podcastbild380.jpg?width=3000",
+    "language": "de",
+    "added_at": "2026-04-11T04:50:07Z"
   }
 ]
