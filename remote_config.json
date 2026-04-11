@@ -1,8 +1,8 @@
 {
   "episode": {
     "min_duration_seconds": 90,
-    "recent_episodes_rss_limit": 10,
-    "max_episodes_on_feed_add": 200
+    "recent_episodes_rss_limit": 20,
+    "max_episodes_on_feed_add": 500
   },
   "surprise_me": {
     "lookback_days": 30,
