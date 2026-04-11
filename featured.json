@@ -1465,5 +1465,14 @@
     "artwork": "https://www.kindernetz.de/sendungen/hoerspielshow/1766404380577%2Ctigerenten-club-die-hoer-spiel-show-cover-100~_v-1x1@2dXL_-1f32c27c4978132dd0854e53b5ed30e10facc189.jpg",
     "language": "de",
     "added_at": "2026-04-11T04:42:27Z"
+  },
+  {
+    "id": "alle-gegen-nico-zockt-um-die-quizkrone",
+    "title": "Alle gegen Nico - Zockt um die Quizkrone!",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/alle-gegen-nico-zockt-um-die-quizkrone/feed.xml",
+    "artwork": "https://img.br.de/d3118196-d8c7-4c23-bb26-6cf45baa5c66.jpeg?fm=jpg",
+    "language": "de-DE",
+    "added_at": "2026-04-11T04:43:06Z"
   }
 ]
