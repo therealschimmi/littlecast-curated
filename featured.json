@@ -1438,5 +1438,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16177507/16177507-1624393312503-9cb0f5b39033b.jpg",
     "language": "pl",
     "added_at": "2026-04-10T20:05:07Z"
+  },
+  {
+    "id": "pumuckl-der-horspiel-klassiker",
+    "title": "Pumuckl - Der Hörspiel-Klassiker",
+    "publisher": "Bayerischer Rundfunk",
+    "rss": "https://feeds.br.de/pumuckl/feed.xml",
+    "artwork": "https://img.br.de/e9ae87d5-1153-4fb6-a20e-91076325cf26.jpeg?fm=jpg",
+    "language": "de-DE",
+    "added_at": "2026-04-11T04:41:38Z"
   }
 ]
