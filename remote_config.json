@@ -9,7 +9,7 @@
     "fill_ratio": 0.85
   },
   "storage": {
-    "safety_buffer": 0.90
+    "safety_buffer": 0.98
   },
   "search": {
     "max_results": 1000,
