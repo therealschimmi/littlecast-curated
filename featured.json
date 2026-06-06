@@ -1600,5 +1600,14 @@
     "artwork": "https://images.ndr.de/image/75c996a1-00c4-4a9e-a113-b1b76e514ee3/AAABltYfFbI/AAABnSStX0g/1x1-big/mediathekbild296.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "language": "de",
     "added_at": "2026-04-11T05:58:12Z"
+  },
+  {
+    "id": "national-park-scouts",
+    "title": "National Park Scouts",
+    "publisher": "National Park Scouts",
+    "rss": "https://rss.buzzsprout.com/2609592.rss",
+    "artwork": "https://storage.buzzsprout.com/x5fa5ltvyo4o84gcxllcy130i5qb?.jpg",
+    "language": "en-us",
+    "added_at": "2026-06-06T21:49:40Z"
   }
 ]
