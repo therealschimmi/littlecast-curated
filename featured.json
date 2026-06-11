@@ -1636,5 +1636,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/59b585a2-ebaf-11ea-bfc7-e3c989c566f8/image/fb5163f4eb3fd823ca5ac9450d193479.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
     "added_at": "2026-06-11T17:41:23Z"
+  },
+  {
+    "id": "rebel-girls-growing-up-powerful",
+    "title": "Rebel Girls: Growing Up Powerful",
+    "publisher": "Rebel Girls",
+    "rss": "https://feeds.megaphone.fm/RGS9752377438",
+    "artwork": "https://megaphone.imgix.net/podcasts/77088fba-e615-11ed-bfa7-d3d586410ab2/image/c893701811a2f0773a69e13c36d734f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-06-11T17:41:26Z"
   }
 ]
