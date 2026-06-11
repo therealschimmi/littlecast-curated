@@ -1654,5 +1654,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/7e7a113e-8304-11ed-8d05-431bf106f43b/image/Rebel_Girls_Dream_On.jpg?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
     "added_at": "2026-06-11T17:41:28Z"
+  },
+  {
+    "id": "who-smarted-educational-podcast-for-kids",
+    "title": "Who Smarted? - Educational Podcast for Kids",
+    "publisher": "Atomic Entertainment / Starglow Media",
+    "rss": "https://feeds.megaphone.fm/GLSS8637059451",
+    "artwork": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/ae3ede221b212f7930106c84b7b4fc75.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-06-11T17:41:44Z"
   }
 ]
