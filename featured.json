@@ -1672,5 +1672,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41256796/41256796-1721717334536-57fe05c3aa95d.jpg",
     "language": "de",
     "added_at": "2026-06-11T17:48:41Z"
+  },
+  {
+    "id": "wirklich-wahr-wissen-fur-kinder",
+    "title": "Wirklich wahr! - Wissen für Kinder",
+    "publisher": "KB&B - Family Marketing Experts",
+    "rss": "https://feeds.megaphone.fm/KBBF5446120190",
+    "artwork": "https://megaphone.imgix.net/podcasts/2ab280a2-46f3-11f1-b88a-fb5728ec8504/image/60c7b5c77ed329d0544f10aa0b2fa1bd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "de",
+    "added_at": "2026-06-11T17:48:50Z"
   }
 ]
