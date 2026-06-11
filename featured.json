@@ -1681,5 +1681,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/2ab280a2-46f3-11f1-b88a-fb5728ec8504/image/60c7b5c77ed329d0544f10aa0b2fa1bd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
     "added_at": "2026-06-11T17:48:50Z"
+  },
+  {
+    "id": "pieper-und-paulus-geschichten-fur-kinder-von-5-bis-10",
+    "title": "Pieper und Paulus - Geschichten für Kinder von 5 bis 10",
+    "publisher": "Jan Rimpl",
+    "rss": "https://srodu1.podcaster.de/pieper-und-paulus.rss",
+    "artwork": "https://files.pdcstrcdn.de/u/srodu1/i/875880/f/PIEPER_VOR_ROT_FOTO_NEU.jpg",
+    "language": "de",
+    "added_at": "2026-06-11T17:48:54Z"
   }
 ]
