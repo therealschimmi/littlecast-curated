@@ -1663,5 +1663,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/ae3ede221b212f7930106c84b7b4fc75.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
     "added_at": "2026-06-11T17:41:44Z"
+  },
+  {
+    "id": "lyrus-strafraum-der-fussball-podcast-fur-kinder-und-coole-erwachsene",
+    "title": "LYRUS' STRAFRAUM - Der Fußball-Podcast für Kinder und coole Erwachsene",
+    "publisher": "LYRUS",
+    "rss": "https://anchor.fm/s/f6817670/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41256796/41256796-1721717334536-57fe05c3aa95d.jpg",
+    "language": "de",
+    "added_at": "2026-06-11T17:48:41Z"
   }
 ]
