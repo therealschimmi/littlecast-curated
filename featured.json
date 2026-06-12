@@ -6,7 +6,9 @@
     "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "6-10"
   },
   {
     "id": "ordentlich-durcheinander",
@@ -15,7 +17,9 @@
     "rss": "https://ordentlich-durcheinander.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,syb3PTAu9NDOFnLxGogwf-A_UKvNmYcbVVPasyEzXKoY=/https://main.podigee-cdn.net/uploads/u59832/96c84ea9-78b5-4ace-92ff-755d5f2adb3e.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 35,
+    "ageRange": "4-10"
   },
   {
     "id": "die-maus-zum-hoeren",
@@ -24,7 +28,9 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/diemaus-60/diemaus-60-106.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-sendereihenbild-podcast-1-100~_v-Podcast.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-8"
   },
   {
     "id": "abgespaced",
@@ -33,7 +39,9 @@
     "rss": "https://planetariumberlin.podcaster.de/abgespaced.rss",
     "artwork": "https://planetariumberlin.podcaster.de/abgespaced/logos/1400x1400_SPB_Kinderpodcast_Keyvisual_RZ(1).jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "8-12"
   },
   {
     "id": "taxi-ins-mich",
@@ -42,7 +50,9 @@
     "rss": "https://taxi-ins-mich.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sK79JP6ad3-_bOHB5fXVyFwryVlL_I-DyLZ1rBsZRHO4=/https://main.podigee-cdn.net/uploads/u37428/0b74b74d-a5b0-47b4-ae69-de7f38dfbdd2.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "lachlabor",
@@ -51,7 +61,9 @@
     "rss": "https://feeds.br.de/lachlabor/feed.xml",
     "artwork": "https://img.br.de/7e53aa42-7757-418a-b5e2-7f8b1783e4ed.jpeg?fm=jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "6-12"
   },
   {
     "id": "kinder-wollens-wissen",
@@ -60,7 +72,9 @@
     "rss": "https://kinder-wollens-wissen.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sbjgIk8pzWv2znohEbaoXTURlO0hchp5Ep-gNLeTdYhk=/https://main.podigee-cdn.net/uploads/u36141/ff243dbc-e614-4cca-a578-f29d123969fb.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "klugschnabeln",
@@ -69,7 +83,9 @@
     "rss": "https://klugschnabeln.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,shwD0aFgVrc1SDtkxEqLqitKJibL-BaD08GtnJQ704H0=/https://main.podigee-cdn.net/uploads/u76778/d320f5d0-897f-449e-9026-bdeb82a38ca6.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-12"
   },
   {
     "id": "weisst-dus-schon",
@@ -78,7 +94,9 @@
     "rss": "https://weisstdusschon.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,smVupfyh1E-WIMuLYra_m41O5slD-YuZxdE4eRBMXjqg=/https://main.podigee-cdn.net/uploads/u45107/1eac144d-8c1d-4a30-b2b0-dbfe4c6140e1.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "6-12"
   },
   {
     "id": "kakadu",
@@ -87,7 +105,9 @@
     "rss": "https://www.kakadu.de/kakadu-104.xml",
     "artwork": "https://bilder.deutschlandfunk.de/FI/LE/_8/69/FILE_869f7ed9b25625bceb9bfe2d15fe6f96/kakadu-podcast-100-1920x1920.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 45,
+    "ageRange": "6-12"
   },
   {
     "id": "anna-und-die-wilden-tiere",
@@ -96,7 +116,9 @@
     "rss": "https://feeds.br.de/anna-und-die-wilden-tiere/feed.xml",
     "artwork": "https://img.br.de/a6ab1d29-858e-42a7-aa0c-4c1a63caeb6a.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "6-10"
   },
   {
     "id": "geolino",
@@ -105,7 +127,9 @@
     "rss": "https://cdn.audiorella.com/podcasts/1688-geolino-spezial-der-wissenspodcast-fur-junge-entdeckerinnen-und-entdecker/feed.rss",
     "artwork": "https://cdn.audiorella.com/podcasts/1688-geolino-spezial-der-wissenspodcast-fur-junge-entdeckerinnen-und-entdecker/1688_cover.jpg?v=2",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-13"
   },
   {
     "id": "was-ist-was",
@@ -114,7 +138,9 @@
     "rss": "https://feeds.megaphone.fm/KBBF5520541713",
     "artwork": "https://megaphone.imgix.net/podcasts/4c42a5fe-dc47-11ed-88e0-9b2bf663b399/image/bcdeba378a58c43a96d38d115133b466.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-12"
   },
   {
     "id": "mira",
@@ -123,7 +149,9 @@
     "rss": "https://podcastb11277.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sl9qdJn2jCNruTkdFN5hTIvZnRDyWNW3skJemW2S5-_g=/https://main.podigee-cdn.net/uploads/u52372/0685d99e-a55f-47d4-aa0d-bb48563ccf05.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "flipsi",
@@ -132,7 +160,9 @@
     "rss": "https://flipsi-findets-raus.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sbct0F8sRteFe6kDUru-f0MTJaO4YT1T33zhw-ovVj4c=/https://main.podigee-cdn.net/uploads/u9304/0b34d7ee-1616-4be2-a028-942ecb146d75.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "6-12"
   },
   {
     "id": "super-great-kids-stories",
@@ -141,7 +171,9 @@
     "rss": "https://feeds.megaphone.fm/super-great-kids-stories",
     "artwork": "https://megaphone.imgix.net/podcasts/1b733bb6-a532-11ec-844f-233e5c8f3533/image/show-cover.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8"
   },
   {
     "id": "grimm-grimmer-grimmest",
@@ -150,7 +182,9 @@
     "rss": "https://feeds.megaphone.fm/PNA9230679490",
     "artwork": "https://megaphone.imgix.net/podcasts/a36c3f8e-ba87-11e8-8dda-9fdb6a010c85/image/34915c492b6cafb3fefa2421aeb11447.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-10"
   },
   {
     "id": "the-barbie-podcast",
@@ -159,7 +193,9 @@
     "rss": "https://rss.art19.com/the-barbie-podcast",
     "artwork": "https://content.production.cdn.art19.com/images/bf/0e/14/b7/bf0e14b7-3798-41b5-876a-1412eaefa6af/82b93703c12079f47e125855149ffa44d4fafb01605b05f153953985e8ee08f894d285bc10858326cde1ba6cc1a7884c149ad4d9043a5b11e9525d3201d9162d.jpeg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "culture-kids",
@@ -168,7 +204,9 @@
     "rss": "https://feeds.megaphone.fm/ARML8941299326",
     "artwork": "https://megaphone.imgix.net/podcasts/23550d2c-0685-11ee-be68-03a4dfbd38a9/image/c8d26ee2f293c0045998fc0f5dd4979a.png",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "moment-of-um",
@@ -177,7 +215,9 @@
     "rss": "https://feeds.publicradio.org/public_feeds/moment-of-um/rss/rss",
     "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/a18e28c2-acee-4306-b1cd-b37501214ce9/image.jpg?t=1760463292&size=Large",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 8,
+    "ageRange": "5-10"
   },
   {
     "id": "story-pirates",
@@ -186,7 +226,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6600fba2-3fbd-41c4-9aea-b36f01332b48/b3c09fe0-4939-4d3b-b095-b36f01332b52/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/6600fba2-3fbd-41c4-9aea-b36f01332b48/image.jpg?t=1759872340&size=Large",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 35,
+    "ageRange": "4-10"
   },
   {
     "id": "sound-detectives",
@@ -195,7 +237,9 @@
     "rss": "https://feeds.simplecast.com/jrxi_2W2",
     "artwork": "https://image.simplecastcdn.com/images/00c81e60-45f9-4643-9fed-2184b2b6a3d3/839b8350-9f80-473a-b2c8-b2cb77f8c636/3000x3000/stitcher-cover-sound-detectives-1080x1080-final.jpg?aid=rss_feed",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "charm-words",
@@ -204,7 +248,9 @@
     "rss": "https://feeds.megaphone.fm/charmwords",
     "artwork": "https://megaphone.imgix.net/podcasts/371ec132-1f0a-11f0-916a-5fd9b9d2dcfd/image/f6845b3377d11b829f04f6686df4b624.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8"
   },
   {
     "id": "storynory",
@@ -213,7 +259,9 @@
     "rss": "https://www.storynory.com/feeds/stories",
     "artwork": "https://static.libsyn.com/p/assets/3/1/6/d/316d1a0b906e67c116c3140a3186d450/storynory-new-id-v2.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "stories-podcast",
@@ -222,7 +270,9 @@
     "rss": "https://feeds.megaphone.fm/STM4306131571",
     "artwork": "https://megaphone.imgix.net/podcasts/ab251c42-5fcb-11ef-a0f6-e7c1506b46d7/image/5fc6f290c925f159c1d8576865d1e96e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "4-10"
   },
   {
     "id": "500-words-bedtime-stories",
@@ -231,7 +281,9 @@
     "rss": "https://podcasts.files.bbci.co.uk/p02tkm27.rss",
     "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06zkzvv.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 7,
+    "ageRange": "4-10"
   },
   {
     "id": "journey-with-story",
@@ -240,7 +292,9 @@
     "rss": "https://journeywithstory.libsyn.com/rss",
     "artwork": "https://static.libsyn.com/p/assets/e/1/8/a/e18a071aa5c68960/Journey_With_Story_podcast_cover.png",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 18,
+    "ageRange": "3-8"
   },
   {
     "id": "brains-on",
@@ -249,7 +303,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/20172af1-ae6b-4b68-90d7-b375010d4361/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/image.jpg?t=1760463026&size=Large",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "7-12"
   },
   {
     "id": "tumble-science-podcast",
@@ -258,7 +314,9 @@
     "rss": "http://feeds.sciencepodcastforkids.com/tumblepodcast",
     "artwork": "https://megaphone.imgix.net/podcasts/26aa508c-d505-11ee-bb02-73230b38f27c/image/1c6523f5717fbcd9f8647bc4c72a3b57.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "7-12"
   },
   {
     "id": "the-nurdle-control",
@@ -267,7 +325,9 @@
     "rss": "https://anchor.fm/s/105cee93c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43824135/43824135-1749127279438-95e82c32ee7be.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "6-12"
   },
   {
     "id": "but-why",
@@ -276,7 +336,9 @@
     "rss": "https://podcasts.vpr.net/but-why",
     "artwork": "https://static.feedpress.com/logo/vpr-but-why-62b4d4edadb66.png",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "5-12"
   },
   {
     "id": "wow-in-the-world",
@@ -285,7 +347,9 @@
     "rss": "https://rss.art19.com/wow-in-the-world",
     "artwork": "https://content.production.cdn.art19.com/images/14/d3/c8/dc/14d3c8dc-9cd9-48ea-9a3d-d235825a529a/4bbf0e7addb317eb4e14fcf69fce5edd2f49ad28f14c2aeedbb7793877035bbd9de7a6f013a506a24426e12d4d3ab7dd254c9cea99272b7b9962e9aab283d120.jpeg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "5-12"
   },
   {
     "id": "the-week-junior-show",
@@ -294,7 +358,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/0c388a0d-3e12-4c24-9de8-aa9200bf9219/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e0fbfba9-7a9d-4ef8-ae28-aa9200be73bf/0c388a0d-3e12-4c24-9de8-aa9200bf9219/image.jpg?t=1616416232&size=Large",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "une-histoire-et-oli",
@@ -303,7 +369,9 @@
     "rss": "http://radiofrance-podcast.net/podcast09/podcast_d555ed4e-dbe5-4908-912e-b3169f9ceede.xml",
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/03/185450b9-904b-4cf2-b3b9-f7a8b065ea47/1400x1400_sc_rf_omm_0000038202_ite.jpg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "3-8"
   },
   {
     "id": "la-grande-histoire-de-pomme-d-api",
@@ -312,7 +380,9 @@
     "rss": "https://feed.ausha.co/B6r8OclKP6gn",
     "artwork": "https://image.ausha.co/ZvneIxFuuDouEZTgDWn7x0K68CMVNtTEohyQDhTx_1400x1400.jpeg?t=1721231834",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "histoires-pour-les-oreilles",
@@ -321,7 +391,9 @@
     "rss": "https://feeds.soundcloud.com/users/soundcloud:users:520257816/sounds.rss",
     "artwork": "https://i1.sndcdn.com/avatars-Ae5BFb6ItHcjaiMP-5OXafg-original.jpg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "kidstory-fr",
@@ -330,7 +402,9 @@
     "rss": "https://feeds.360.audion.fm/AxB4wjUv_HWoti_EgDOZG",
     "artwork": "https://artworks.360.audion.fm/aeb15efe-cfef-4128-a9c7-97de0373d0ac.jpg?width=3000&height=3000",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-10"
   },
   {
     "id": "salut-l-info",
@@ -339,7 +413,9 @@
     "rss": "https://radiofrance-podcast.net/podcast09/podcast_9f5486b0-38b5-4544-bf49-e24b18bd022c.xml",
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/07/ff2d16ff-1fb5-495d-bef8-23ab2a378fa4/1400x1400_sc_logo-sli-franceinfo-rvb.jpg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 5,
+    "ageRange": "7-13"
   },
   {
     "id": "1jour1actu",
@@ -348,7 +424,9 @@
     "rss": "https://feed.ausha.co/brpJqfRDPk1E",
     "artwork": "https://image.ausha.co/96yzIBRqpSGLam7SNLN6uSnB8vUsq63utrSdx7WE_1400x1400.jpeg?t=1601473285",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 5,
+    "ageRange": "7-13"
   },
   {
     "id": "les-odyssees",
@@ -357,7 +435,9 @@
     "rss": "http://radiofrance-podcast.net/podcast09/rss_20108.xml",
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2019/07/9d4f9d47-679b-4546-8d26-c768ab84dc62/1400x1400_rf_omm_0000022609_ite.jpg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "8-14"
   },
   {
     "id": "promenades-imaginaires",
@@ -366,7 +446,9 @@
     "rss": "https://feed.pippa.io/public/shows/5d03a2df2ef500851c57fe4d",
     "artwork": "https://assets.pippa.io/shows/5d03a2df2ef500851c57fe4d/1560757897134-a94bf849545f2a58016119239ac9544b.jpeg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-14"
   },
   {
     "id": "les-zinstrus",
@@ -375,7 +457,9 @@
     "rss": "https://radiofrance-podcast.net/podcast09/rss_22142.xml",
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2023/03/d4b38f10-7585-4f4c-bb17-b7a319c35fbe/1400x1400_sc_rf_omm_0000038203_ite.jpg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-12"
   },
   {
     "id": "favole-per-bambini",
@@ -384,7 +468,9 @@
     "rss": "https://anchor.fm/s/c580a3d4/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/33035421/5965e67de67cca41.jpeg",
     "language": "it",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "coccole-sonore",
@@ -393,7 +479,9 @@
     "rss": "https://www.spreaker.com/show/4697729/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0c011482977104ebd28b67195fe5b671.jpg",
     "language": "it",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "2-7"
   },
   {
     "id": "historias-de-embalar",
@@ -402,7 +490,9 @@
     "rss": "https://rfm.pt/podcast_itunes.aspx?fid=76",
     "artwork": "https://images.rfm.pt/so_grandes_historias_embalar_podcast_itunes18808217.png",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "imagina-so",
@@ -411,7 +501,9 @@
     "rss": "https://rss.buzzsprout.com/2003728.rss",
     "artwork": "https://storage.buzzsprout.com/lolgp5gcrcutc1sd7ca8cpjfv21p?.jpg",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "era-uma-vez-um-podcast",
@@ -420,7 +512,9 @@
     "rss": "https://anchor.fm/s/8097948/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1248386/1248386-1544077859813-a139ece488ef3.jpg",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "conta-me-uma-historia",
@@ -429,7 +523,9 @@
     "rss": "https://anchor.fm/s/3ebe795c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10426703/10426703-1627245921637-34fd6e643c3de.jpg",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "Um-Minuto",
@@ -438,7 +534,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/2f4afe5b-d8b4-4492-8b97-b40300f6abb2/4a467b7b-bae9-4cb8-96b4-b40300f6abb8/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/2f4afe5b-d8b4-4492-8b97-b40300f6abb2/4a467b7b-bae9-4cb8-96b4-b40300f6abb8/image.jpg?t=1772636287&size=Large",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 2,
+    "ageRange": "6-12"
   },
   {
     "id": "receitas-zigzag",
@@ -447,7 +545,9 @@
     "rss": "https://www.rtp.pt//play/itunes/2721",
     "artwork": "http://img0.rtp.pt/EPG/radio/imagens/PO6511_152_40799.jpg",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-12"
   },
   {
     "id": "Toca-a-Todos",
@@ -456,7 +556,9 @@
     "rss": "https://www.rtp.pt//play/itunes/2743",
     "artwork": "https://cdn-images.rtp.pt/EPG/radio/imagens/PO6534_171_30050.jpg",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "coisa-de-crianca",
@@ -465,7 +567,9 @@
     "rss": "https://anchor.fm/s/f2e64748/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40651778/4e318b40ffb2aad8.jpg",
     "language": "pt",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "eat-your-spanish",
@@ -474,7 +578,9 @@
     "rss": "https://anchor.fm/s/519ab2c0/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/13590928/13590928-1770606084937-171962f1c33f1.jpg",
     "language": "es",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-10"
   },
   {
     "id": "cuentos-encantados",
@@ -483,7 +589,9 @@
     "rss": "https://feeds.ivoox.com/feed_fg_f1758796_filtro_1.xml",
     "artwork": "https://static-2.ivoox.com/canales/9/7/5/6/7271567586579_XXL.jpg",
     "language": "es",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "mamalingua-go",
@@ -492,7 +600,9 @@
     "rss": "https://anchor.fm/s/400a43a4/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10644145/10644145-1605743479428-2bd60ace1a41d.jpg",
     "language": "es",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "tumble-en-espanol",
@@ -501,7 +611,9 @@
     "rss": "https://feeds.megaphone.fm/ARML4583684969",
     "artwork": "https://megaphone.imgix.net/podcasts/5c086ba2-f6ba-11ee-9dfb-efdf86fb2ad7/image/7be3718b38ebabcac9ad5f329c41a070.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "es",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "7-12"
   },
   {
     "id": "wetenschapje",
@@ -510,7 +622,9 @@
     "rss": "https://feeds.acast.com/public/shows/5e74e4bf5f7edb757e1d98f5",
     "artwork": "https://assets.pippa.io/shows/5e74e4bf5f7edb757e1d98f5/1716797238702-891e72a157e3cb9140807a8f05f8d16c.jpeg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "7-12"
   },
   {
     "id": "sterrins-animal-encyclopaedia",
@@ -519,7 +633,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/0d263664-472e-44a0-9a9b-b3ae007b5300/36d2c63d-82b4-48a5-bde4-b3d000ec4378/9420eb28-f9b7-4458-9587-b3d000ec4385/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/0d263664-472e-44a0-9a9b-b3ae007b5300/36d2c63d-82b4-48a5-bde4-b3d000ec4378/9420eb28-f9b7-4458-9587-b3d000ec4385/image.jpg?t=1768227615&size=Large",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-10"
   },
   {
     "id": "mission-feeler",
@@ -528,7 +644,9 @@
     "rss": "https://podcast.npo.nl/feed/missie-voelspriet.xml",
     "artwork": "https://podcast.npo.nl/data/thumb/missie-voelspriet.1400.af9ec760fd10c3b20d071217dce405cd.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-10"
   },
   {
     "id": "waarom-daarom",
@@ -537,7 +655,9 @@
     "rss": "https://feeds.acast.com/public/shows/68ecc311f513ad2b812f8c9b",
     "artwork": "https://assets.pippa.io/shows/cover/1760346845937-89e89863-6e87-4191-acc1-ecd57bb137d1.jpeg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-10"
   },
   {
     "id": "nos-jeugdjournaal",
@@ -546,7 +666,9 @@
     "rss": "https://podcast.npo.nl/feed/nos-jeugdjournaal.xml",
     "artwork": "https://podcast.npo.nl/data/thumb/nos-jeugdjournaal.1400.16675417c0f7d0cac7a52844a0707171.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "8-14"
   },
   {
     "id": "het-klokhuis",
@@ -555,7 +677,9 @@
     "rss": "https://podcast.npo.nl/feed/het-klokhuis.xml",
     "artwork": "https://podcast.npo.nl/data/thumb/het-klokhuis.1400.e97a0996321857a38a22e9dbae7d6ff3.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "8-12"
   },
   {
     "id": "stokstaartjes",
@@ -564,7 +688,9 @@
     "rss": "https://feeds.soundcloud.com/users/soundcloud:users:1081901803/sounds.rss",
     "artwork": "https://i1.sndcdn.com/avatars-KhWtDzgzion4HkT4-lbty2Q-original.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "bedtijdverhalen-rebelse-meisjes",
@@ -573,7 +699,9 @@
     "rss": "https://anchor.fm/s/e9f37674/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39150469/39150469-1696337992808-e5dedd08242b5.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "7-14"
   },
   {
     "id": "de-boekenparade",
@@ -582,7 +710,9 @@
     "rss": "https://anchor.fm/s/249fe86c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6044595/6044595-1643280400973-070f4761689d7.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "abel-bedtijdverhalen",
@@ -591,7 +721,9 @@
     "rss": "https://anchor.fm/s/10e319bec/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45230995/45230995-1770282163052-8bcb27e4d34aa.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 12,
+    "ageRange": "3-8"
   },
   {
     "id": "worming-up",
@@ -600,7 +732,9 @@
     "rss": "https://feeds.transistor.fm/worming-up",
     "artwork": "https://img.transistor.fm/XC4PWBxdgZ1TKAr2HF4JFoJIYH5RGOehduMl5-6sd3w/rs:fill:3000:3000:1/q:60/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzIyNTA3LzE2MjU0/NzM4MDktYXJ0d29y/ay5qcGc.jpg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "doe-mee-met-aimy",
@@ -609,7 +743,9 @@
     "rss": "https://feeds.acast.com/public/shows/6079a27e77978d4bc09c2f9b",
     "artwork": "https://assets.pippa.io/shows/6079a27e77978d4bc09c2f9b/1621540751901-efea9d0c24952873727a6637c3d6d779.jpeg",
     "language": "nl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8"
   },
   {
     "id": "dzieciandia",
@@ -618,7 +754,9 @@
     "rss": "https://www.spreaker.com/show/4721317/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b253e23c6c1089678aec024fc20d26ce.jpg",
     "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "miedzy-drzewami",
@@ -627,7 +765,9 @@
     "rss": "https://www.spreaker.com/show/4237214/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/844f4a34cb9aa32eeb4799201954758c.jpg",
     "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "praca-przyrodnika",
@@ -636,7 +776,9 @@
     "rss": "https://www.spreaker.com/show/5068265/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a30b28793cb972176daf2e85bbacd207.jpg",
     "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "bajkowy-podcast",
@@ -645,7 +787,9 @@
     "rss": "https://www.spreaker.com/show/3554964/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0294cb99deefea15c0b02d4ecc26be81.jpg",
     "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "bajki-opowiadane-przez-dzieci",
@@ -654,7 +798,9 @@
     "rss": "https://www.polskieradio.pl/Podcast/70660D77-466D-42F7-9AF0-5133FA45B522",
     "artwork": "https://static.prsa.pl/images/cc278f87-8c89-470a-ba29-57435d5aca50.jpg",
     "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "opowiadania-dla-dzieci",
@@ -663,7 +809,9 @@
     "rss": "https://anchor.fm/s/f386814/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2453549/2453549-1571843067682-65ddf23dc760a.jpg",
     "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z"
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "kids-bible-stories",
@@ -672,7 +820,9 @@
     "rss": "https://feeds.megaphone.fm/TSF5284421093",
     "artwork": "https://megaphone.imgix.net/podcasts/e7b51dba-7eab-11f0-965b-4b7e0c23e724/image/97fb52bbfb75b9bfe288f94fd89febca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:00:52Z"
+    "added_at": "2026-03-25T22:00:52Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-12"
   },
   {
     "id": "story-quest-stories-for-kids",
@@ -681,7 +831,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/37b81d29-f765-456d-8d36-abc900f24178/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/image.jpg?t=1766153425&size=Large",
     "language": "en",
-    "added_at": "2026-03-25T22:00:55Z"
+    "added_at": "2026-03-25T22:00:55Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-10"
   },
   {
     "id": "the-reading-bug-podcast-original-adventures-bedtime-stories-and-music-for-kids",
@@ -690,7 +842,9 @@
     "rss": "https://feeds.megaphone.fm/ARML4367050167",
     "artwork": "https://megaphone.imgix.net/podcasts/eafbefea-648f-11ee-a501-67c7bb4c65b5/image/a48e79e8a3810af6bb02c02632558e9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:01:00Z"
+    "added_at": "2026-03-25T22:01:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "sleep-tight-stories-bedtime-stories-for-kids",
@@ -699,7 +853,9 @@
     "rss": "https://feeds.megaphone.fm/STM6807571366",
     "artwork": "https://megaphone.imgix.net/podcasts/9c70880e-fb6a-11ef-9ef5-333af435d0aa/image/1468e8f7d63d565b85295148cad20a29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:01:04Z"
+    "added_at": "2026-03-25T22:01:04Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "paw-patrol-eye-spy-a-rescue",
@@ -708,7 +864,9 @@
     "rss": "https://feeds.megaphone.fm/CBS1942619353",
     "artwork": "https://megaphone.imgix.net/podcasts/466c3e84-da7d-11ef-a369-f3bd372f047f/image/5f1d263f4d55a23e1cfdb6168b0e82d6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:11:39Z"
+    "added_at": "2026-03-25T22:11:39Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "3-7"
   },
   {
     "id": "the-enchanted-paws-family-mia-s-magical-stories-family-adventures",
@@ -717,7 +875,9 @@
     "rss": "https://api-audiodata.babybus.com/Rss/all/74566.xml",
     "artwork": "https://paudiopic-baidu.babybus.com/BabyAudio/AudioIco/20251202/e3433e43518b4a559c7f9e2042fb14e3.jpg",
     "language": "en",
-    "added_at": "2026-03-25T22:11:44Z"
+    "added_at": "2026-03-25T22:11:44Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "figarinos-fahrradladen-der-mdr-tweens-horspiel-podcast-fur-kinder",
@@ -726,7 +886,9 @@
     "rss": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen102-podcast.xml",
     "artwork": "https://www.mdr.de/tweens/podcast/figarino/fahrradladen102-podcastLogo_i-itunes_version-18683_zc-a6cdab34.jpg",
     "language": "de",
-    "added_at": "2026-03-25T22:11:49Z"
+    "added_at": "2026-03-25T22:11:49Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "srf-kids-horspiele-geschichten-fur-kinder",
@@ -735,7 +897,9 @@
     "rss": "https://www.srf.ch/feed/podcast/sd/88072903-e34f-4f51-a9b9-052562d049c2.xml",
     "artwork": "https://download-media.srf.ch/world/image/audio/2023/04/987a01e371154a5d8f5e0afda6736d01.png",
     "language": "de",
-    "added_at": "2026-03-25T22:11:54Z"
+    "added_at": "2026-03-25T22:11:54Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "5-12"
   },
   {
     "id": "hanna-fragt-papa-der-podcast-fur-neugierige-kinder-und-eltern",
@@ -744,7 +908,9 @@
     "rss": "https://hannafragtpapa.libsyn.com/rss",
     "artwork": "https://static.libsyn.com/p/assets/4/a/d/3/4ad316f76b76a80616c3140a3186d450/Hanna_fragt_Papa_2025_2048_x_2048_px.jpg",
     "language": "de",
-    "added_at": "2026-03-25T22:11:59Z"
+    "added_at": "2026-03-25T22:11:59Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "magisches-mikro-der-zeithupf-podcast-fur-kinder",
@@ -753,7 +919,9 @@
     "rss": "https://www.mdr.de/tweens/podcast/magisches-mikro/magisches-mikro-der-powerfrauen-podcast-100-podcast.xml",
     "artwork": "https://cdn.mdr.de/tweens/podcast/magisches-mikro/magisches-mikro-der-powerfrauen-podcast-100-podcastLogo_i-itunes_version-57461_zc-35181b8d.jpg",
     "language": "de",
-    "added_at": "2026-03-25T22:12:04Z"
+    "added_at": "2026-03-25T22:12:04Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-12"
   },
   {
     "id": "betthupferl-gute-nacht-geschichten-fur-kinder",
@@ -762,7 +930,9 @@
     "rss": "https://feeds.br.de/betthupferl/feed.xml",
     "artwork": "https://img.br.de/8319a82c-c612-48e9-99c2-c1937101dfa7.jpeg?fm=jpg",
     "language": "de",
-    "added_at": "2026-03-25T22:12:08Z"
+    "added_at": "2026-03-25T22:12:08Z",
+    "avgDurationMinutes": 12,
+    "ageRange": "3-8"
   },
   {
     "id": "geschichten-fur-kinder",
@@ -771,7 +941,9 @@
     "rss": "https://feeds.br.de/geschichten-fuer-kinder/feed.xml",
     "artwork": "https://img.br.de/dd422cf1-8ade-49d4-99f8-dbdfa4c040db.jpeg?fm=jpg",
     "language": "de",
-    "added_at": "2026-03-25T22:12:12Z"
+    "added_at": "2026-03-25T22:12:12Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8"
   },
   {
     "id": "geschichten-fur-kinder-von-2-7-jahren-by-sigikid-first-class-for-kids",
@@ -780,7 +952,9 @@
     "rss": "https://anchor.fm/s/298ba17c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/6870167/6870167-1594629966064-673b796ae73ae.jpg",
     "language": "de",
-    "added_at": "2026-03-25T22:12:16Z"
+    "added_at": "2026-03-25T22:12:16Z",
+    "avgDurationMinutes": 12,
+    "ageRange": "2-7"
   },
   {
     "id": "sleep-tight-science-a-bedtime-science-show-for-kids",
@@ -789,7 +963,9 @@
     "rss": "https://feeds.megaphone.fm/STM6538419032",
     "artwork": "https://megaphone.imgix.net/podcasts/f15b3c10-fb6a-11ef-b358-1b56299932ee/image/b429db6da04181e3bd21d5890bb925af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:19:11Z"
+    "added_at": "2026-03-25T22:19:11Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "squiz-kids",
@@ -798,7 +974,9 @@
     "rss": "https://feeds.megaphone.fm/STHZE6949032016",
     "artwork": "https://megaphone.imgix.net/podcasts/3dc5c38a-3562-11ed-88d0-4b1ef2874dc8/image/aa61bc-show-cover.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:20:16Z"
+    "added_at": "2026-03-25T22:20:16Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "7-12"
   },
   {
     "id": "what-if-world-stories-for-kids",
@@ -807,7 +985,9 @@
     "rss": "https://feeds.megaphone.fm/whatifworld",
     "artwork": "https://megaphone.imgix.net/podcasts/d7cf57c4-cd0b-11ee-9c6f-0bb9a74fe30b/image/ae36da22a1aa2b96442898e329a8b9a8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:20:26Z"
+    "added_at": "2026-03-25T22:20:26Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "5-10"
   },
   {
     "id": "smash-boom-best-a-funny-smart-debate-show-for-kids-and-family",
@@ -816,7 +996,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/5d004b0f-42f1-42a8-b8d3-b375015c4b2b/703c9d15-2448-4ec6-8572-b375015c4b3f/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/5d004b0f-42f1-42a8-b8d3-b375015c4b2b/image.jpg?t=1760464660&size=Large",
     "language": "en",
-    "added_at": "2026-03-25T22:20:33Z"
+    "added_at": "2026-03-25T22:20:33Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "7-12"
   },
   {
     "id": "the-ten-news-news-for-curious-kids",
@@ -825,7 +1007,9 @@
     "rss": "https://feeds.megaphone.fm/SBMM3380444788",
     "artwork": "https://megaphone.imgix.net/podcasts/a400aa6e-fd79-11ec-9877-7f2cf189aa55/image/The_Ten_News_podcast_FINAL.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:20:38Z"
+    "added_at": "2026-03-25T22:20:38Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "8-13"
   },
   {
     "id": "sleep-tight-relax-calming-bedtime-stories-and-meditations",
@@ -834,7 +1018,9 @@
     "rss": "https://feeds.megaphone.fm/STM2497856452",
     "artwork": "https://megaphone.imgix.net/podcasts/0c1eccec-fb6b-11ef-9229-fb4981235f5a/image/f96f1a13b707d6d96a5864c276a9bf89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-03-25T22:20:43Z"
+    "added_at": "2026-03-25T22:20:43Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "kid-friendly-joke-of-the-day",
@@ -843,7 +1029,9 @@
     "rss": "https://anchor.fm/s/1e0b4028/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4940538/ad825d6e4ea2b627.jpeg",
     "language": "en",
-    "added_at": "2026-03-25T22:20:47Z"
+    "added_at": "2026-03-25T22:20:47Z",
+    "avgDurationMinutes": 3,
+    "ageRange": "5-12"
   },
   {
     "id": "bedtime-explorers",
@@ -852,7 +1040,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/d4aac6b4-08ca-4a8d-be5f-ae8a0051cdab/e4d26527-d5d0-4421-8d2c-afd600162e95/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/d4aac6b4-08ca-4a8d-be5f-ae8a0051cdab/e4d26527-d5d0-4421-8d2c-afd600162e95/image.jpg?t=1680581414&size=Large",
     "language": "en",
-    "added_at": "2026-03-25T22:20:51Z"
+    "added_at": "2026-03-25T22:20:51Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "the-music-podcast-for-kids",
@@ -861,7 +1051,9 @@
     "rss": "https://feed.podbean.com/themusicpodcastforkids/feed.xml",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/5528328/Podcast_Thumb_ryzhqt.jpg",
     "language": "en",
-    "added_at": "2026-03-25T22:20:55Z"
+    "added_at": "2026-03-25T22:20:55Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-10"
   },
   {
     "id": "storie-per-bambini-italian",
@@ -870,7 +1062,9 @@
     "rss": "https://www.spreaker.com/show/5033761/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1a692f66aec280c4581562bc12994d87.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:01Z"
+    "added_at": "2026-03-25T22:30:01Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "fiabe-per-bambini-audio-storie",
@@ -879,7 +1073,9 @@
     "rss": "https://www.spreaker.com/show/4775020/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8bb6715280925aca0973723aff62c8d4.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:06Z"
+    "added_at": "2026-03-25T22:30:06Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "racconti-per-bambini-liberi",
@@ -888,7 +1084,9 @@
     "rss": "https://www.spreaker.com/show/4772255/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a9ed2cea202754fe23313382391f275e.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:17Z"
+    "added_at": "2026-03-25T22:30:17Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "fiabe-per-bambini",
@@ -897,7 +1095,9 @@
     "rss": "https://www.spreaker.com/show/4557045/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7f118c846d2bc9fa23ce89a37970db1c.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:21Z"
+    "added_at": "2026-03-25T22:30:21Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "le-storie-del-gatto-blu-fiabe-raccontate-ai-bambini",
@@ -906,7 +1106,9 @@
     "rss": "https://www.spreaker.com/show/5788469/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aea294a7686d2ded20478311cfc82a90.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:25Z"
+    "added_at": "2026-03-25T22:30:25Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "le-avventure-di-emma-viaggi-scoperte-e-culture-del-mondo-per-bambini",
@@ -915,7 +1117,9 @@
     "rss": "https://feeds.audiomeans.fr/feed/beff09a1-d3d6-4cbf-a768-74ec1ce22b1e.xml",
     "artwork": "https://static.audiomeans.fr/img/podcast/44883f23-c0f5-471d-8bc3-84719f8bb834.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:29Z"
+    "added_at": "2026-03-25T22:30:29Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "maushorspiel-kurz",
@@ -924,7 +1128,9 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/maushoerspiel/maushoerspiel-100.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maushoerspiel-kurz-podcast-100~_v-Podcast.jpg",
     "language": "de",
-    "added_at": "2026-03-27T13:28:44Z"
+    "added_at": "2026-03-27T13:28:44Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8"
   },
   {
     "id": "maushorspiel-lang",
@@ -933,7 +1139,9 @@
     "rss": "https://www1.wdr.de/mediathek/audio/wdr5/kinderhoerspiel/kinderhoerspiel-podcast-108.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maushoerspiel-lang-podcast-100~_v-Podcast.jpg",
     "language": "de",
-    "added_at": "2026-03-27T13:28:46Z"
+    "added_at": "2026-03-27T13:28:46Z",
+    "avgDurationMinutes": 45,
+    "ageRange": "4-8"
   },
   {
     "id": "mauszoom-kindernachrichten",
@@ -942,7 +1150,9 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/maus-zoom/maus-zoom-106.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus-zoom-116~_v-Podcast.jpg",
     "language": "de",
-    "added_at": "2026-03-27T13:36:09Z"
+    "added_at": "2026-03-27T13:36:09Z",
+    "avgDurationMinutes": 7,
+    "ageRange": "6-12"
   },
   {
     "id": "gute-nacht-mit-der-maus",
@@ -951,7 +1161,9 @@
     "rss": "https://kinder.wdr.de/radio/diemaus/audio/gute-nacht-mit-der-maus/diemaus-gute-nacht-104.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/maus_gute-nacht-sendereihenbild_podcast-1-100~_v-Podcast.jpg",
     "language": "de",
-    "added_at": "2026-03-27T15:51:05Z"
+    "added_at": "2026-03-27T15:51:05Z",
+    "avgDurationMinutes": 12,
+    "ageRange": "3-8"
   },
   {
     "id": "die-mumins-horspiel-serie-nach-dem-kinderbuch-klassiker-wdr",
@@ -960,7 +1172,9 @@
     "rss": "https://www1.wdr.de/mediathek/audio/wdr/mumins/mumins-hoerspiel-100.podcast",
     "artwork": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/mumins-podcastcover-100~_v-Podcast.jpg",
     "language": "de",
-    "added_at": "2026-03-27T15:51:09Z"
+    "added_at": "2026-03-27T15:51:09Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "4-10"
   },
   {
     "id": "die-doppeldecker-crew-horspiel-fur-kinder-horbuch",
@@ -969,7 +1183,9 @@
     "rss": "https://doppeldecker-crew.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sWlWpCPdclAZJ4HHyPlMygPFzpoqtU3wpagIO9aa5KdQ=/https://main.podigee-cdn.net/uploads/u62739/f8233963-b9f2-4782-b0be-b7006e30437b.jpg",
     "language": "de",
-    "added_at": "2026-03-27T16:07:44Z"
+    "added_at": "2026-03-27T16:07:44Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "5-10"
   },
   {
     "id": "die-abenteuer-im-blauen-haus",
@@ -978,7 +1194,9 @@
     "rss": "https://9l3yun.podcaster.de/die-abenteuer-im-blauen-haus.rss",
     "artwork": "https://9l3yun.podcaster.de/die-abenteuer-im-blauen-haus/logos/Blaues_Haus_logo_-_fuer_PODCAST.jpg",
     "language": "de",
-    "added_at": "2026-03-27T16:07:48Z"
+    "added_at": "2026-03-27T16:07:48Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "5-10"
   },
   {
     "id": "die-abenteuer-von-emma-reisen-entdeckungen-und-weltkulturen-fur-kinder",
@@ -987,7 +1205,9 @@
     "rss": "https://feeds.audiomeans.fr/feed/f5ad6b82-cb05-478c-b441-388df1d9665a.xml",
     "artwork": "https://static.audiomeans.fr/img/podcast/27db64b5-bd68-4a9b-a4c9-94f053b8aca6.jpg",
     "language": "de",
-    "added_at": "2026-03-27T16:07:51Z"
+    "added_at": "2026-03-27T16:07:51Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "hafengefluster-entspannung-fur-kinder",
@@ -996,7 +1216,9 @@
     "rss": "https://hafengefluester.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sFjJCrGe0EO8578nCCmVSNvFq1Eauo472DDztvPspc2M=/https://main.podigee-cdn.net/uploads/u9520/0027ca70-fe27-43be-9d83-43e6e0fd2172.jpg",
     "language": "de",
-    "added_at": "2026-03-27T16:07:55Z"
+    "added_at": "2026-03-27T16:07:55Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "kinderhorspiel-das-detektivburo-frederick-der-kinder-podcast-mit-geschichten-fur-kinder",
@@ -1005,7 +1227,9 @@
     "rss": "https://letscast.fm/podcasts/kinderhoerspiel-das-detektivbuero-frederick-der-kinderpodcast-mit-geschichten-fuer-kinder-7fbb789a/feed",
     "artwork": "https://lcdn.letscast.fm/media/podcast/7fbb789a/artwork-3000x3000.jpg?t=1603070840",
     "language": "de",
-    "added_at": "2026-03-27T16:07:58Z"
+    "added_at": "2026-03-27T16:07:58Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "keyshawn-solves-it",
@@ -1014,7 +1238,9 @@
     "rss": "https://feeds.wgbh.org/3822/feed-rss.xml",
     "artwork": "https://f.prxu.org/3822/images/ccdfd73b-bca3-4523-92c2-a8984229657a/Keyshawn3000x3000_PBS.jpg",
     "language": "en",
-    "added_at": "2026-03-31T06:29:27Z"
+    "added_at": "2026-03-31T06:29:27Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "3-7"
   },
   {
     "id": "work-it-out-wombats-podcast",
@@ -1023,7 +1249,9 @@
     "rss": "https://feeds.wgbh.org/5538/feed-rss.xml",
     "artwork": "https://f.prxu.org/5538/images/836ec94b-54ec-404b-b94f-075336d20319/WIOWPOD_S2_Channel_Square_REV_FINAL_04-03-25.jpg",
     "language": "en-us",
-    "added_at": "2026-03-31T06:29:31Z"
+    "added_at": "2026-03-31T06:29:31Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "3-8"
   },
   {
     "id": "pinkalicious-peterrific",
@@ -1032,7 +1260,9 @@
     "rss": "https://feeds.wgbh.org/337/feed-rss.xml",
     "artwork": "https://f.prxu.org/337/images/5b409aab-b095-41cd-9eb7-8215c0f0da10/PinkPodcast_updatedBadge.png",
     "language": "en",
-    "added_at": "2026-03-31T06:29:34Z"
+    "added_at": "2026-03-31T06:29:34Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "3-7"
   },
   {
     "id": "molly-of-denali",
@@ -1041,7 +1271,9 @@
     "rss": "https://feeds.wgbh.org/193/feed-rss.xml",
     "artwork": "https://f.prxu.org/193/images/be884874-4f7a-417a-ac6b-ffbbed9761cd/MoD_podcast_logo_UpdatedBadge_1400x1400.png",
     "language": "en",
-    "added_at": "2026-03-31T06:29:37Z"
+    "added_at": "2026-03-31T06:29:37Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "the-arthur-podcast",
@@ -1050,7 +1282,9 @@
     "rss": "https://feeds.wgbh.org/2469/feed-rss.xml",
     "artwork": "https://f.prxu.org/2469/images/2e100eb8-7c08-40b0-92db-6dbdc4fd7a5a/Arthur_Podcast_Logo_Corrected_09162022_FINAL_1_.jpg",
     "language": "en",
-    "added_at": "2026-03-31T06:29:41Z"
+    "added_at": "2026-03-31T06:29:41Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "jamming-on-the-job",
@@ -1059,7 +1293,9 @@
     "rss": "https://publicfeeds.net/f/4515/feed-rss.xml",
     "artwork": "https://f.prxu.org/4515/images/6a0d7cc6-82f0-4679-accf-501e3d2d500e/cover_art_jamming.jpg",
     "language": "en",
-    "added_at": "2026-03-31T06:30:30Z"
+    "added_at": "2026-03-31T06:30:30Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-10"
   },
   {
     "id": "dejame-contarte-la-historia-history-stories-in-spanish-for-kids-families",
@@ -1068,7 +1304,9 @@
     "rss": "https://media.rss.com/bedtimehistory/feed.xml",
     "artwork": "https://media.rss.com/bedtimehistory/20210513_184826_ae34b46bd5fd0bad59dc996505d97029.jpg",
     "language": "es",
-    "added_at": "2026-03-31T06:33:39Z"
+    "added_at": "2026-03-31T06:33:39Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-14"
   },
   {
     "id": "los-ninos-que-cocinan-comen-mejor-el-podcast-de-la-red-de-escuelas-de-cocina-de-kitchen-academy",
@@ -1077,7 +1315,9 @@
     "rss": "https://anchor.fm/s/7d6c8b1c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/20942655/20942655-1642059638892-4069f7a884782.jpg",
     "language": "es",
-    "added_at": "2026-03-31T06:33:44Z"
+    "added_at": "2026-03-31T06:33:44Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "cuentos-increibles",
@@ -1086,7 +1326,9 @@
     "rss": "https://feeds.simplecast.com/u8akwBSW",
     "artwork": "https://image.simplecastcdn.com/images/044597a5-9a22-4453-a111-b0dd46774ede/45a54912-1ec9-4c56-a4d9-acd1d5a2d406/3000x3000/image.jpg?aid=rss_feed",
     "language": "es",
-    "added_at": "2026-03-31T06:33:47Z"
+    "added_at": "2026-03-31T06:33:47Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "habia-una-vez-by-naran-xadul-cuentos-infantiles",
@@ -1095,7 +1337,9 @@
     "rss": "https://feeds.acast.com/public/shows/6446e30da189ca00112be9de",
     "artwork": "https://assets.pippa.io/shows/6446e30da189ca00112be9de/1682367837917-af991daacef7786275da7416b6e7a2a5.jpeg",
     "language": "es",
-    "added_at": "2026-03-31T06:33:50Z"
+    "added_at": "2026-03-31T06:33:50Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "cuentos-feroces",
@@ -1104,7 +1348,9 @@
     "rss": "https://anchor.fm/s/25bc18c4/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/6230841/6230841-1745343435635-d23311f24e7c.jpg",
     "language": "es-ar",
-    "added_at": "2026-03-31T06:33:54Z"
+    "added_at": "2026-03-31T06:33:54Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "6-12"
   },
   {
     "id": "cuentos-e-historias-infantiles",
@@ -1113,7 +1359,9 @@
     "rss": "https://anchor.fm/s/87a3aee4/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/22656513/22656513-1648745609637-0e812f8e5d3a5.jpg",
     "language": "es",
-    "added_at": "2026-03-31T06:33:58Z"
+    "added_at": "2026-03-31T06:33:58Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "cuentos-for-kiddos-a-bilingual-storytelling-podcast",
@@ -1122,7 +1370,9 @@
     "rss": "https://anchor.fm/s/3439e688/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/8662098/8662098-1599980670585-5514acf128985.jpg",
     "language": "en",
-    "added_at": "2026-03-31T06:34:02Z"
+    "added_at": "2026-03-31T06:34:02Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "cuentos-de-buenas-noches-para-ninas-rebeldes",
@@ -1131,7 +1381,9 @@
     "rss": "https://feeds.megaphone.fm/ninas-rebeldes",
     "artwork": "https://megaphone.imgix.net/podcasts/1ef6fbde-2e07-11ed-9796-df59481a12b6/image/RG_PodcastCover.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "es",
-    "added_at": "2026-03-31T06:34:05Z"
+    "added_at": "2026-03-31T06:34:05Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-12"
   },
   {
     "id": "magicos-mundos-cuentos-infantiles",
@@ -1140,7 +1392,9 @@
     "rss": "https://media.rss.com/magicosmundos/feed.xml",
     "artwork": "https://media.rss.com/magicosmundos/20250817_080808_d5ca5b104423fdaad789bde4715add5a.jpg",
     "language": "es-mx",
-    "added_at": "2026-03-31T06:34:09Z"
+    "added_at": "2026-03-31T06:34:09Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "cuentos-con-moraleja",
@@ -1149,7 +1403,9 @@
     "rss": "https://www.spreaker.com/show/5722699/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/36a6daf665283f8dcbe5e76365d4d262.jpg",
     "language": "es",
-    "added_at": "2026-03-31T06:34:12Z"
+    "added_at": "2026-03-31T06:34:12Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-10"
   },
   {
     "id": "die-meyers-vom-mars",
@@ -1158,7 +1414,9 @@
     "rss": "https://www.ndr.de/podcast/podcast-324.xml",
     "artwork": "https://images.ndr.de/image/eb99c578-df9e-40d2-bd90-6b052ae3f269/AAABnJlLpM4/AAABnSStX0g/1x1-big/audiothek-sendereihe-5167-104.jpg?width=3000",
     "language": "de",
-    "added_at": "2026-04-04T07:52:40Z"
+    "added_at": "2026-04-04T07:52:40Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-14"
   },
   {
     "id": "schlaue-pause-kinderpodcast",
@@ -1167,7 +1425,9 @@
     "rss": "https://schlauepause.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sOMCt2GwNg1cWl-LGPd6XQLYzolYUj-tQQ5AGh09iYXM=/https://main.podigee-cdn.net/uploads/u66884/2507ff1d-09ca-4291-9f38-36cf5ecd4a9c.png",
     "language": "de",
-    "added_at": "2026-04-06T19:23:14Z"
+    "added_at": "2026-04-06T19:23:14Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "schlau-wow-der-podcast-fur-kids",
@@ -1176,7 +1436,9 @@
     "rss": "https://anchor.fm/s/ff5b7048/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42741826/42741826-1766998375926-64df983eb43b4.jpg",
     "language": "de",
-    "added_at": "2026-04-06T19:37:12Z"
+    "added_at": "2026-04-06T19:37:12Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "wunder-dich-schlau",
@@ -1185,7 +1447,9 @@
     "rss": "https://aenx0a.podcaster.de/wunderdichschlau.rss",
     "artwork": "https://files.pdcstrcdn.de/u/aenx0a/i/1194614/f/Postcast-Icon-Wunder_dich_schlau.jpg",
     "language": "de",
-    "added_at": "2026-04-06T19:37:18Z"
+    "added_at": "2026-04-06T19:37:18Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "ohrenbar-podcast",
@@ -1194,7 +1458,9 @@
     "rss": "https://www.ohrenbaer.de/podcast/podcast.feed.podcast.xml",
     "artwork": "https://www.rbb-online.de/content/dam/rbb/ohr/bilder/2026/ARD_Ohrenbaer_PodcastCover_16_9.png.png/rendition=1400x1400.png/size=1400x1400.png",
     "language": "de",
-    "added_at": "2026-04-07T16:31:30Z"
+    "added_at": "2026-04-07T16:31:30Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-8"
   },
   {
     "id": "unser-sandmannchen",
@@ -1203,7 +1469,9 @@
     "rss": "https://www.antennebrandenburg.de/programm/hoeren/podcasts/Zappelduster_Podcast/podcast.feed.podcast.xml",
     "artwork": "https://www.rbb-online.de/content/dam/rbb/ant/unser_sandmaennchen/Header_Sandm-nnchen_Audio_ARD_16x9.png.png/rendition=Header_Sandmnnchen_Audio_ARD_1x1.png.png",
     "language": "de",
-    "added_at": "2026-04-07T16:31:46Z"
+    "added_at": "2026-04-07T16:31:46Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "2-6"
   },
   {
     "id": "cereal",
@@ -1212,7 +1480,9 @@
     "rss": "https://www.rte.ie/radio1/podcast/podcast_cereal.xml",
     "artwork": "https://img.rasset.ie/002099d5-3000.jpg",
     "language": "en-ie",
-    "added_at": "2026-04-10T08:19:52Z"
+    "added_at": "2026-04-10T08:19:52Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-12"
   },
   {
     "id": "goodnight-world",
@@ -1221,7 +1491,9 @@
     "rss": "https://feeds.megaphone.fm/ADL7382912950",
     "artwork": "https://megaphone.imgix.net/podcasts/152d06b8-50aa-11ee-b9e8-c30035ef8876/image/show-cover-goodnight-world.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-04-10T08:19:56Z"
+    "added_at": "2026-04-10T08:19:56Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-6"
   },
   {
     "id": "sesame-street-ready-for-school-challenge",
@@ -1230,7 +1502,9 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSCrss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_ENG_50.jpg",
     "language": "en-us",
-    "added_at": "2026-04-10T08:20:00Z"
+    "added_at": "2026-04-10T08:20:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-6"
   },
   {
     "id": "sesame-street-listos-para-la-escuela",
@@ -1239,7 +1513,9 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSC_SPANrss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_SP50.jpg",
     "language": "ES",
-    "added_at": "2026-04-10T08:20:03Z"
+    "added_at": "2026-04-10T08:20:03Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-6"
   },
   {
     "id": "elmo-s-adventures-in-spending-saving-and-sharing",
@@ -1248,7 +1524,9 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/outreach/english_rss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/eng_ep13.jpg",
     "language": "en-us",
-    "added_at": "2026-04-10T08:20:06Z"
+    "added_at": "2026-04-10T08:20:06Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-6"
   },
   {
     "id": "las-aventuras-de-gastar-ahorrar-y-compartir-de-elmo",
@@ -1257,7 +1535,9 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/outreach/spanish_rss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/sp_ep13.jpg",
     "language": "es-us",
-    "added_at": "2026-04-10T08:20:10Z"
+    "added_at": "2026-04-10T08:20:10Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-6"
   },
   {
     "id": "the-bedtime-scientist-calm-science-for-sleepy-kids",
@@ -1266,7 +1546,9 @@
     "rss": "https://anchor.fm/s/109bb2664/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44482273/44482273-1761070264609-2ec59aae74c5f.jpg",
     "language": "en",
-    "added_at": "2026-04-10T08:21:04Z"
+    "added_at": "2026-04-10T08:21:04Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-10"
   },
   {
     "id": "curious-kids-every-day-a-daily-educational-podcast",
@@ -1275,7 +1557,9 @@
     "rss": "https://feeds.libsyn.com/576495/rss",
     "artwork": "https://static.libsyn.com/p/assets/2/1/c/8/21c8ef7c2d2e3557d959afa2a1bf1c87/Curious_Kids_Everyday_Logo.jpg",
     "language": "en",
-    "added_at": "2026-04-10T08:21:07Z"
+    "added_at": "2026-04-10T08:21:07Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "5-10"
   },
   {
     "id": "curious-kid-podcast",
@@ -1284,7 +1568,9 @@
     "rss": "https://feeds.simplecast.com/W1sKGuT8",
     "artwork": "https://image.simplecastcdn.com/images/6215cda8-011d-4ccd-9fe8-c389912a62af/f7a9eb50-defe-4c86-b036-1ed53506db56/3000x3000/klap-ckp-logo.jpg?aid=rss_feed",
     "language": "en-us",
-    "added_at": "2026-04-10T08:21:14Z"
+    "added_at": "2026-04-10T08:21:14Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "carpooling-with-jesus-bible-stories-for-kids-devotionals-daily-devotional-for-kids-daily-christian-kids-devotional",
@@ -1293,7 +1579,9 @@
     "rss": "https://feed.podbean.com/carpoolingwithjesus/feed.xml",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/19628023/Updated_Podcast_Craphics_2_ahvus.jpg",
     "language": "en",
-    "added_at": "2026-04-10T08:22:19Z"
+    "added_at": "2026-04-10T08:22:19Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-12"
   },
   {
     "id": "truth-seekers-bible-stories-for-kids-christian-kids-podcast-family-friendly-bible-podcast-christian-parenting-resource",
@@ -1302,7 +1590,9 @@
     "rss": "https://feeds.redcircle.com/9567fb37-8753-417b-9460-fc2619f2c64f",
     "artwork": "https://media.redcircle.com/images/2025/1/26/18/a803262a-7685-460d-9682-3cb73e8f2e28_2c-b760-43a5-b33f-2c139e7bfc47_favicon-32x32-1.jpg",
     "language": "en-US",
-    "added_at": "2026-04-10T08:22:20Z"
+    "added_at": "2026-04-10T08:22:20Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-14"
   },
   {
     "id": "maddie-s-sound-explorers",
@@ -1311,7 +1601,9 @@
     "rss": "https://feeds.megaphone.fm/soundexplorers",
     "artwork": "https://megaphone.imgix.net/podcasts/08a87864-c2a0-11ea-828a-7fe2b2f1a68b/image/Magic_20Star_20-_20Sound_20Explorers_20win_SQ_02_20copy.jpg-2021-07-23_16_12_10.615000.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-04-10T08:22:23Z"
+    "added_at": "2026-04-10T08:22:23Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "3-7"
   },
   {
     "id": "greeking-out-from-national-geographic-kids",
@@ -1320,7 +1612,9 @@
     "rss": "https://feeds.megaphone.fm/ESP4751925729",
     "artwork": "https://megaphone.imgix.net/podcasts/9c266f68-7e69-11ea-97e1-1bd3af9fcebe/image/7186b9fc58c1149164773ef0c498a748.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en-us",
-    "added_at": "2026-04-10T08:22:26Z"
+    "added_at": "2026-04-10T08:22:26Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-12"
   },
   {
     "id": "the-cat-in-the-hat-cast",
@@ -1329,7 +1623,9 @@
     "rss": "https://rss.art19.com/cat-in-the-hat-cast",
     "artwork": "https://content.production.cdn.art19.com/images/27/63/a1/bf/2763a1bf-74f2-40f0-ba55-55a744cf50af/09a00b6ceef7586acc8d0c26a769da175d13e7f3980b36c3745c87a3f142ba1512b2ffe8e698c28fc59903fa0139a5c71f4bbbef58951b04d22ddfc429d794a3.jpeg",
     "language": "en",
-    "added_at": "2026-04-10T08:26:18Z"
+    "added_at": "2026-04-10T08:26:18Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "3-7"
   },
   {
     "id": "football-for-kids",
@@ -1338,7 +1634,9 @@
     "rss": "https://feeds.megaphone.fm/COMG1916011883",
     "artwork": "https://megaphone.imgix.net/podcasts/36e23bd6-b15f-11ef-ab72-eb2ca2b8efdb/image/7185cf5695974fe791a07aca0e524118.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-04-10T08:26:19Z"
+    "added_at": "2026-04-10T08:26:19Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "8-14"
   },
   {
     "id": "tales-of-extinction",
@@ -1347,7 +1645,9 @@
     "rss": "https://media.rss.com/extinction/feed.xml",
     "artwork": "https://media.rss.com/extinction/20260209_080218_98614a822f91d3f5d8a348004687c79a.jpg",
     "language": "en",
-    "added_at": "2026-04-10T08:26:23Z"
+    "added_at": "2026-04-10T08:26:23Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-12"
   },
   {
     "id": "wealthy-reader-s-club-the-cat-in-the-hat",
@@ -1356,7 +1656,9 @@
     "rss": "https://www.spreaker.com/show/4350484/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5d1a569b67b13fe94e492d816d069663.jpg",
     "language": "en",
-    "added_at": "2026-04-10T08:26:26Z"
+    "added_at": "2026-04-10T08:26:26Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   },
   {
     "id": "activity-quest-days-out-and-crafts-for-kids",
@@ -1365,7 +1667,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/63d157bc-8b41-44b2-b851-ab5000aab6fa/22e8ed46-cfcc-449f-ba0d-ad120102d9a3/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/63d157bc-8b41-44b2-b851-ab5000aab6fa/22e8ed46-cfcc-449f-ba0d-ad120102d9a3/image.jpg?t=1766395998&size=Large",
     "language": "en-GB",
-    "added_at": "2026-04-10T08:26:26Z"
+    "added_at": "2026-04-10T08:26:26Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "5-12"
   },
   {
     "id": "armchair-adventures-a-join-in-story-podcast-for-kids",
@@ -1374,7 +1678,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/87f3f97d-a8c9-4b5d-abb9-b30600d1865f/8894e549-8e7e-4aad-a6d4-b30600d1867d/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/87f3f97d-a8c9-4b5d-abb9-b30600d1865f/8894e549-8e7e-4aad-a6d4-b30600d1867d/image.jpg?t=1765788541&size=Large",
     "language": "en",
-    "added_at": "2026-04-10T08:26:26Z"
+    "added_at": "2026-04-10T08:26:26Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-8"
   },
   {
     "id": "little-stories-for-tiny-people-anytime-and-bedtime-stories-for-kids",
@@ -1383,7 +1689,9 @@
     "rss": "https://www.littlestoriestinypeople.com/podcast.xml",
     "artwork": "https://object.littlestoriestinypeople.com/lstp/img/2025_podcast_banner.jpg",
     "language": "en-us",
-    "added_at": "2026-04-10T19:09:44Z"
+    "added_at": "2026-04-10T19:09:44Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "2-7"
   },
   {
     "id": "build-the-change-planet-people-podcast",
@@ -1392,7 +1700,9 @@
     "rss": "https://media.rss.com/build-the-change-planet-people-podcast/feed.xml",
     "artwork": "https://media.rss.com/build-the-change-planet-people-podcast/20240620_030624_e425003348a2b6bcf6bc0d39816051cf.jpg",
     "language": "en",
-    "added_at": "2026-04-10T19:40:36Z"
+    "added_at": "2026-04-10T19:40:36Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "ninja-talk-der-lego-ninjago-fan-podcast",
@@ -1401,7 +1711,9 @@
     "rss": "https://ninja-talk-promobricks.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sZG8Co0TYs102IwzisCHO93r4AfL33vxa69LjxOOxtdE=/https://main.podigee-cdn.net/uploads/u74370/304486d2-0975-498d-a2b6-b7b7853f227a.png",
     "language": "de",
-    "added_at": "2026-04-10T19:40:26Z"
+    "added_at": "2026-04-10T19:40:26Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-14"
   },
   {
     "id": "przedszkojak-tola-i-nelek-audiobajki-dla-dzieci",
@@ -1410,7 +1722,9 @@
     "rss": "https://www.spreaker.com/show/5915462/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5475751fdd3c59ef928773299ac42986.jpg",
     "language": "pl",
-    "added_at": "2026-04-10T20:01:55Z"
+    "added_at": "2026-04-10T20:01:55Z",
+    "avgDurationMinutes": 12,
+    "ageRange": "3-7"
   },
   {
     "id": "takie-bajki-na-dobranoc-i-do-wspolnej-zabawy",
@@ -1419,7 +1733,9 @@
     "rss": "https://www.spreaker.com/show/4909819/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25e6226cc5ffff48054090e63aa11cb5.jpg",
     "language": "pl",
-    "added_at": "2026-04-10T20:04:33Z"
+    "added_at": "2026-04-10T20:04:33Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "dobranocki-do-s-uchania",
@@ -1428,7 +1744,9 @@
     "rss": "https://anchor.fm/s/d0e9fc48/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/34949954/9713781be86432ab.jpeg",
     "language": "pl",
-    "added_at": "2026-04-10T20:04:57Z"
+    "added_at": "2026-04-10T20:04:57Z",
+    "avgDurationMinutes": 12,
+    "ageRange": "3-8"
   },
   {
     "id": "two-stories-dwie-bajki",
@@ -1437,7 +1755,9 @@
     "rss": "https://anchor.fm/s/6105812c/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16177507/16177507-1624393312503-9cb0f5b39033b.jpg",
     "language": "pl",
-    "added_at": "2026-04-10T20:05:07Z"
+    "added_at": "2026-04-10T20:05:07Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8"
   },
   {
     "id": "pumuckl-der-horspiel-klassiker",
@@ -1446,7 +1766,9 @@
     "rss": "https://feeds.br.de/pumuckl/feed.xml",
     "artwork": "https://img.br.de/e9ae87d5-1153-4fb6-a20e-91076325cf26.jpeg?fm=jpg",
     "language": "de-DE",
-    "added_at": "2026-04-11T04:41:38Z"
+    "added_at": "2026-04-11T04:41:38Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "5-10"
   },
   {
     "id": "einschlafen-mit-hogwarts",
@@ -1455,7 +1777,9 @@
     "rss": "https://feeds.acast.com/public/shows/65255acb8b63100012501ee8",
     "artwork": "https://assets.pippa.io/shows/65255acb8b63100012501ee8/show-cover.png",
     "language": "de",
-    "added_at": "2026-04-11T04:41:53Z"
+    "added_at": "2026-04-11T04:41:53Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "8-14"
   },
   {
     "id": "tigerenten-club-die-hor-spiel-show",
@@ -1464,7 +1788,9 @@
     "rss": "https://www.kindernetz.de/~podcast/sendungen/hoerspielshow/podcast-hoerspielshow-100.xml",
     "artwork": "https://www.kindernetz.de/sendungen/hoerspielshow/1766404380577%2Ctigerenten-club-die-hoer-spiel-show-cover-100~_v-1x1@2dXL_-1f32c27c4978132dd0854e53b5ed30e10facc189.jpg",
     "language": "de",
-    "added_at": "2026-04-11T04:42:27Z"
+    "added_at": "2026-04-11T04:42:27Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "6-12"
   },
   {
     "id": "alle-gegen-nico-zockt-um-die-quizkrone",
@@ -1473,7 +1799,9 @@
     "rss": "https://feeds.br.de/alle-gegen-nico-zockt-um-die-quizkrone/feed.xml",
     "artwork": "https://img.br.de/d3118196-d8c7-4c23-bb26-6cf45baa5c66.jpeg?fm=jpg",
     "language": "de-DE",
-    "added_at": "2026-04-11T04:43:06Z"
+    "added_at": "2026-04-11T04:43:06Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "haschimitenfurst-der-bobcast",
@@ -1482,7 +1810,9 @@
     "rss": "https://cdn.julephosting.de/podcasts/1120-haschimitenfurst-der-bobcast/feed.rss",
     "artwork": "https://cdn.julephosting.de/podcasts/1120-haschimitenfurst-der-bobcast/1120_cover.jpg?v=3",
     "language": "de",
-    "added_at": "2026-04-11T04:43:33Z"
+    "added_at": "2026-04-11T04:43:33Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-14"
   },
   {
     "id": "toggo-gg-der-podcast",
@@ -1491,7 +1821,9 @@
     "rss": "https://cdn.audiorella.com/podcasts/1672-toggo-gg-der-podcast/feed.rss",
     "artwork": "https://cdn.audiorella.com/podcasts/1672-toggo-gg-der-podcast/1672_cover.jpg?v=2",
     "language": "de",
-    "added_at": "2026-04-11T04:45:04Z"
+    "added_at": "2026-04-11T04:45:04Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "forever-ago",
@@ -1500,7 +1832,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/b8875c63-a193-45b5-aa1d-b375011931fc/e0ab420a-193b-4f3c-89bb-b37501193208/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/b8875c63-a193-45b5-aa1d-b375011931fc/image.jpg?t=1760463169&size=Large",
     "language": "en",
-    "added_at": "2026-04-11T04:47:17Z"
+    "added_at": "2026-04-11T04:47:17Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "7-12"
   },
   {
     "id": "horspiele-geschichten-und-marchen-fur-kinder-mikado",
@@ -1509,7 +1843,9 @@
     "rss": "https://www.ndr.de/nachrichten/info/podcast4670.xml",
     "artwork": "https://images.ndr.de/image/21a8d989-a79f-41d2-8d98-cee993b5c2aa/AAABlPOlDAU/AAABnSStX0g/1x1-big/podcast5570.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "language": "de",
-    "added_at": "2026-04-11T04:49:27Z"
+    "added_at": "2026-04-11T04:49:27Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "6-12"
   },
   {
     "id": "wer-wie-buzz",
@@ -1518,7 +1854,9 @@
     "rss": "https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/68eddd8b-e022-41ab-9717-ad3c00e86bd4/a83c89ab-82f4-4329-a4af-ae5100e70c3b/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/68eddd8b-e022-41ab-9717-ad3c00e86bd4/image.jpg?t=1714998228&size=Large",
     "language": "de",
-    "added_at": "2026-04-11T04:47:46Z"
+    "added_at": "2026-04-11T04:47:46Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "kollin-klaff-fur-kinder-horspiel",
@@ -1527,7 +1865,9 @@
     "rss": "https://anchor.fm/s/ecdb0604/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39637769/a4598307c6189135.jpeg",
     "language": "de-de",
-    "added_at": "2026-04-11T04:50:05Z"
+    "added_at": "2026-04-11T04:50:05Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-8"
   },
   {
     "id": "gleisdreieck-der-bvg-horspiel-podcast-fur-kinder",
@@ -1536,7 +1876,9 @@
     "rss": "https://gleisdreieck.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,s6JgGnk2LsB8F7zhffVBIzZO7lORWhTOTxqCXyOOCDI0=/https://main.podigee-cdn.net/uploads/u5851/80210b9e-3e64-4a3c-9434-4665e61cc1cc.jpg",
     "language": "de",
-    "added_at": "2026-04-11T04:50:06Z"
+    "added_at": "2026-04-11T04:50:06Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "die-villa-im-wald-ein-interaktives-kinder-abenteuer-horspiel",
@@ -1545,7 +1887,9 @@
     "rss": "https://www.ndr.de/podcast/podcast5824.xml",
     "artwork": "https://images.ndr.de/image/c93a2af5-4f43-4a27-a4d8-459e1ed182d5/AAABlPQXVQk/AAABkZLotXc/1x1-big/podcastbild380.jpg?width=3000",
     "language": "de",
-    "added_at": "2026-04-11T04:50:07Z"
+    "added_at": "2026-04-11T04:50:07Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "6-12"
   },
   {
     "id": "die-pfefferkorner-die-falle-als-horspiel",
@@ -1554,7 +1898,9 @@
     "rss": "https://www.ndr.de/mediathek/media/podcast5994.xml",
     "artwork": "https://www.ndr.de/mediathek/media/podcastbild690_v-quadratxl.jpg",
     "language": "de",
-    "added_at": "2026-04-11T04:49:57Z"
+    "added_at": "2026-04-11T04:49:57Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-14"
   },
   {
     "id": "die-sachsen-detektive",
@@ -1563,7 +1909,9 @@
     "rss": "https://feeds.megaphone.fm/KBBF8366637711",
     "artwork": "https://megaphone.imgix.net/podcasts/ad537dfc-cb80-11f0-81f4-2b178144889d/image/bafc1d4bb982f74af300067f8015b911.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
-    "added_at": "2026-04-11T05:53:37Z"
+    "added_at": "2026-04-11T05:53:37Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-14"
   },
   {
     "id": "kakadu-das-kinderhorspiel",
@@ -1572,7 +1920,9 @@
     "rss": "https://www.kakadu.de/kinderhoerspiel-118.xml",
     "artwork": "https://bilder.deutschlandfunk.de/FI/LE/_9/ac/FILE_9ac926df16c242d33aa4876fd8be2676/kakadu-kinderhoerspiel-104-1920x1920.jpg",
     "language": "de-DE",
-    "added_at": "2026-04-11T05:55:15Z"
+    "added_at": "2026-04-11T05:55:15Z",
+    "avgDurationMinutes": 30,
+    "ageRange": "6-12"
   },
   {
     "id": "quatsch-weisheit-kinder-reden-uber-die-welt-und-uberhaupt",
@@ -1581,7 +1931,9 @@
     "rss": "https://feeds.br.de/quatsch-weisheit-kinder-reden-ueber-die-welt-und-ueberhaupt/feed.xml",
     "artwork": "https://img.br.de/343cc999-3240-4bb1-b8f1-82193dd9396f.jpeg?fm=jpg",
     "language": "de-DE",
-    "added_at": "2026-04-11T05:56:54Z"
+    "added_at": "2026-04-11T05:56:54Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "tilda-and-quatsch-monster",
@@ -1590,7 +1942,9 @@
     "rss": "https://media.rss.com/quatschmonster/feed.xml",
     "artwork": "https://media.rss.com/quatschmonster/20240411_070435_7301eb1a50169b7fc22780251965393a.png",
     "language": "en-us",
-    "added_at": "2026-04-11T05:56:57Z"
+    "added_at": "2026-04-11T05:56:57Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "4-8"
   },
   {
     "id": "kindernachrichten",
@@ -1599,7 +1953,9 @@
     "rss": "https://www.ndr.de/podcast/podcast4096.xml",
     "artwork": "https://images.ndr.de/image/75c996a1-00c4-4a9e-a113-b1b76e514ee3/AAABltYfFbI/AAABnSStX0g/1x1-big/mediathekbild296.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "language": "de",
-    "added_at": "2026-04-11T05:58:12Z"
+    "added_at": "2026-04-11T05:58:12Z",
+    "avgDurationMinutes": 8,
+    "ageRange": "8-14"
   },
   {
     "id": "national-park-scouts",
@@ -1608,7 +1964,9 @@
     "rss": "https://rss.buzzsprout.com/2609592.rss",
     "artwork": "https://storage.buzzsprout.com/x5fa5ltvyo4o84gcxllcy130i5qb?.jpg",
     "language": "en-us",
-    "added_at": "2026-06-06T21:49:40Z"
+    "added_at": "2026-06-06T21:49:40Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-12"
   },
   {
     "id": "strange-by-nature-podcast",
@@ -1617,7 +1975,9 @@
     "rss": "https://feed.podbean.com/strangebynaturepodcast/feed.xml",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/10919219/iTunes_Logo_Test_tssfa4.png",
     "language": "en",
-    "added_at": "2026-06-07T18:16:55Z"
+    "added_at": "2026-06-07T18:16:55Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-12"
   },
   {
     "id": "mythical-creatures-for-kids",
@@ -1626,7 +1986,9 @@
     "rss": "https://anchor.fm/s/111bba7f8/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45824782/45824782-1776788112868-f8c7adb1eb54d.jpg",
     "language": "en",
-    "added_at": "2026-06-09T06:25:54Z"
+    "added_at": "2026-06-09T06:25:54Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "rebel-girls",
@@ -1635,7 +1997,9 @@
     "rss": "https://feeds.megaphone.fm/RGS8260109708",
     "artwork": "https://megaphone.imgix.net/podcasts/59b585a2-ebaf-11ea-bfc7-e3c989c566f8/image/fb5163f4eb3fd823ca5ac9450d193479.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-06-11T17:41:23Z"
+    "added_at": "2026-06-11T17:41:23Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-14"
   },
   {
     "id": "rebel-girls-growing-up-powerful",
@@ -1644,7 +2008,9 @@
     "rss": "https://feeds.megaphone.fm/RGS9752377438",
     "artwork": "https://megaphone.imgix.net/podcasts/77088fba-e615-11ed-bfa7-d3d586410ab2/image/c893701811a2f0773a69e13c36d734f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-06-11T17:41:26Z"
+    "added_at": "2026-06-11T17:41:26Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "8-14"
   },
   {
     "id": "rebel-girls-dream-on",
@@ -1653,7 +2019,9 @@
     "rss": "https://feeds.megaphone.fm/RGS9185485759",
     "artwork": "https://megaphone.imgix.net/podcasts/7e7a113e-8304-11ed-8d05-431bf106f43b/image/Rebel_Girls_Dream_On.jpg?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-06-11T17:41:28Z"
+    "added_at": "2026-06-11T17:41:28Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-14"
   },
   {
     "id": "who-smarted-educational-podcast-for-kids",
@@ -1662,7 +2030,9 @@
     "rss": "https://feeds.megaphone.fm/GLSS8637059451",
     "artwork": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/ae3ede221b212f7930106c84b7b4fc75.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-06-11T17:41:44Z"
+    "added_at": "2026-06-11T17:41:44Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-12"
   },
   {
     "id": "lyrus-strafraum-der-fussball-podcast-fur-kinder-und-coole-erwachsene",
@@ -1671,7 +2041,9 @@
     "rss": "https://anchor.fm/s/f6817670/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41256796/41256796-1721717334536-57fe05c3aa95d.jpg",
     "language": "de",
-    "added_at": "2026-06-11T17:48:41Z"
+    "added_at": "2026-06-11T17:48:41Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "8-14"
   },
   {
     "id": "wirklich-wahr-wissen-fur-kinder",
@@ -1680,7 +2052,9 @@
     "rss": "https://feeds.megaphone.fm/KBBF5446120190",
     "artwork": "https://megaphone.imgix.net/podcasts/2ab280a2-46f3-11f1-b88a-fb5728ec8504/image/60c7b5c77ed329d0544f10aa0b2fa1bd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
-    "added_at": "2026-06-11T17:48:50Z"
+    "added_at": "2026-06-11T17:48:50Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12"
   },
   {
     "id": "pieper-und-paulus-geschichten-fur-kinder-von-5-bis-10",
@@ -1689,6 +2063,8 @@
     "rss": "https://srodu1.podcaster.de/pieper-und-paulus.rss",
     "artwork": "https://files.pdcstrcdn.de/u/srodu1/i/875880/f/PIEPER_VOR_ROT_FOTO_NEU.jpg",
     "language": "de",
-    "added_at": "2026-06-11T17:48:54Z"
+    "added_at": "2026-06-11T17:48:54Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10"
   }
 ]
