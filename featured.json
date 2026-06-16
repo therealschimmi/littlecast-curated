@@ -2066,5 +2066,14 @@
     "added_at": "2026-06-11T17:48:54Z",
     "avgDurationMinutes": 20,
     "ageRange": "5-10"
+  },
+  {
+    "id": "die-abenteuer-von-eddy-erdmannchen",
+    "title": "Die Abenteuer von Eddy Erdmännchen",
+    "publisher": "PODCASTFABRIK | Mathias Mersch",
+    "rss": "https://anchor.fm/s/fe31a5e8/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42546666/eec0f8cb41bc570d.jpg",
+    "language": "de-de",
+    "added_at": "2026-06-16T11:53:08Z"
   }
 ]
