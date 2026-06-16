@@ -2075,5 +2075,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42546666/eec0f8cb41bc570d.jpg",
     "language": "de-de",
     "added_at": "2026-06-16T11:53:08Z"
+  },
+  {
+    "id": "der-kleine-ice-seine-fantastischen-abenteuer",
+    "title": "Der kleine ICE & seine fantastischen Abenteuer",
+    "publisher": "Der kleine ICE & seine Freunde",
+    "rss": "https://feeds.megaphone.fm/KBBF7677671127",
+    "artwork": "https://megaphone.imgix.net/podcasts/83e93926-6826-11ee-8b8f-1bf94dd89d4c/image/c0b9da0749c620a9dcce719b41c57de3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "de",
+    "added_at": "2026-06-16T11:52:59Z"
   }
 ]
