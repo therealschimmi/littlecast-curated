@@ -14,5 +14,6 @@
   "search": {
     "max_results": 1000,
     "max_random_podcasts": 50
-  }
+  },
+  "yoto_oauth_client_id": "LiNWuiS8RRjq4hBc1SnioUIqikvCK7n6"
 }
