@@ -2084,5 +2084,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/83e93926-6826-11ee-8b8f-1bf94dd89d4c/image/c0b9da0749c620a9dcce719b41c57de3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
     "added_at": "2026-06-16T11:52:59Z"
+  },
+  {
+    "id": "kids-ask-dr-friendtastic-friendship-advice-for-kids-k-8",
+    "title": "Kids Ask Dr. Friendtastic: Friendship Advice for Kids (K-8)",
+    "publisher": "Eileen Kennedy-Moore, PhD, author, psychologist, focusing on children's feelings, children's friendships, parenting, mental health.",
+    "rss": "https://api.substack.com/feed/podcast/695898.rss",
+    "artwork": "https://substackcdn.com/feed/podcast/695898/dd1c62771cebaecf835e6ba3c5085434.jpg",
+    "language": "en",
+    "added_at": "2026-06-16T12:00:32Z"
   }
 ]
