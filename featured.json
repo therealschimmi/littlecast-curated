@@ -2316,5 +2316,14 @@
     "artwork": "https://static.prsa.pl/images/0197b253-b8c9-424e-afc8-ce58181285c2.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:49Z"
+  },
+  {
+    "id": "opowiesci-ludow-swiata",
+    "title": "Opowieści ludów świata",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/F5F322ED-BC9D-4F7B-9264-BC6A01DE9CFE",
+    "artwork": "https://static.prsa.pl/images/722c4722-6dfb-4980-aff2-d061b9061a5b.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:52Z"
   }
 ]
