@@ -2153,5 +2153,14 @@
     "artwork": "https://media.rss.com/10-minute-drive/20250110_050121_6af16a00bc2e08af033c1020badede38.png",
     "language": "en",
     "added_at": "2026-06-16T12:01:44Z"
+  },
+  {
+    "id": "lyla-s-loopcast",
+    "title": "Lyla's Loopcast",
+    "publisher": "PBS KIDS",
+    "rss": "https://publicfeeds.net/f/11676/feed-rss.xml",
+    "artwork": "https://f.prxu.org/11676/images/be1c0b97-aaea-4ed7-ac4c-4025ddeaa752/Untitled_design__2.jpg",
+    "language": "en",
+    "added_at": "2026-06-11T20:09:18Z"
   }
 ]
