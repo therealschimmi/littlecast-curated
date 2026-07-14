@@ -2379,5 +2379,14 @@
     "artwork": "https://www.mdr.de/tweens/podcast/tweenscreen/tween-screen-102-podcastLogo_i-itunes_version-18884_zc-d4a69e62.png",
     "language": "de-de",
     "added_at": "2026-07-14T18:25:01Z"
+  },
+  {
+    "id": "hr2-wunderwigwam-der-kinderpodcast",
+    "title": "hr2 Wunderwigwam - Der Kinderpodcast",
+    "publisher": "hr2",
+    "rss": "https://podcast.hr.de/hr2_wunderwigwam/podcast.xml",
+    "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/hr2_wunderwigwam_channel.jpg",
+    "language": "de-DE",
+    "added_at": "2026-07-14T18:24:05Z"
   }
 ]
