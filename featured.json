@@ -210,14 +210,11 @@
   },
   {
     "id": "moment-of-um",
-    "title": "Moment of Um",
-    "publisher": "APM Studios",
-    "rss": "https://feeds.publicradio.org/public_feeds/moment-of-um/rss/rss",
-    "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/a18e28c2-acee-4306-b1cd-b37501214ce9/image.jpg?t=1760463292&size=Large",
-    "language": "en",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 8,
-    "ageRange": "5-10"
+    "title": "Moment Of Um",
+    "publisher": "Brains On Universe",
+    "rss": "https://feeds.megaphone.fm/LEME8451485215",
+    "artwork": "https://megaphone.imgix.net/podcasts/2b251540-2920-11f1-9ee6-936ffce68034/image/7a019fcac2b0edecad6ac9eca04ffcb0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en"
   },
   {
     "id": "story-pirates",
