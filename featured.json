@@ -2361,5 +2361,14 @@
     "artwork": "https://static.prsa.pl/images/cbbeb0db-8425-451b-bef8-daf4d38bf62c.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:49Z"
+  },
+  {
+    "id": "die-sendung-mit-der-maus",
+    "title": "Die Sendung mit der Maus",
+    "publisher": "Westdeutscher Rundfunk",
+    "rss": "https://www1.wdr.de/mediathek/video/podcast/channel-sendung-mit-der-maus-100.podcast",
+    "artwork": "https://kinder.wdr.de/tv/die-sendung-mit-der-maus/diesendungmitdermausvom330~_v-Podcast.png",
+    "language": "de",
+    "added_at": "2026-07-14T18:25:49Z"
   }
 ]
