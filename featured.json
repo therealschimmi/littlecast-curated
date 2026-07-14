@@ -2397,5 +2397,14 @@
     "artwork": "https://podcast.orf.at/podcast/oe1/oe1_insekten/oe1_insekten_premium.jpg?etag=b902b27c53c202f9fadc20d97ba967f3",
     "language": "de-at",
     "added_at": "2026-07-14T18:20:19Z"
+  },
+  {
+    "id": "abenteuer-in-der-magic-mags-welt",
+    "title": "Abenteuer in der MAGIC MAGS-Welt",
+    "publisher": "Step by Step",
+    "rss": "https://feeds.megaphone.fm/KBBF7751231561",
+    "artwork": "https://megaphone.imgix.net/podcasts/5ef9b98a-e80e-11ed-aa58-0b40d062cadb/image/2c9cc6d3d70c82b06d188b8e160b176f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "de",
+    "added_at": "2026-06-16T11:53:10Z"
   }
 ]
