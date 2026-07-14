@@ -2129,5 +2129,14 @@
     "artwork": "",
     "language": "en",
     "added_at": "2026-07-13T10:29:30Z"
+  },
+  {
+    "id": "les-aventures-de-tintin",
+    "title": "Les Aventures de Tintin",
+    "publisher": "France Culture",
+    "rss": "https://radiofrance-podcast.net/podcast09/rss_19904.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/02/0112737f-d6ff-42aa-892c-d0d4cf001669/1400x1400_vpc_rf_omm_0000037863_ite.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:39:00Z"
   }
 ]
