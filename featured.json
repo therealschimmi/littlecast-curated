@@ -2120,5 +2120,14 @@
     "artwork": "https://assets.pippa.io/shows/cover/1713417869208-ce3ce014d2da083517f43d191c75a45e.jpeg",
     "language": "en",
     "added_at": "2026-07-13T10:29:59Z"
+  },
+  {
+    "id": "fierce-girls",
+    "title": "Fierce Girls",
+    "publisher": "ABC Australia",
+    "rss": "https://www.abc.net.au/feeds/9405360/podcast.xml",
+    "artwork": "",
+    "language": "en",
+    "added_at": "2026-07-13T10:29:30Z"
   }
 ]
