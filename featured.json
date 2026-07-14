@@ -2181,5 +2181,14 @@
     "artwork": "https://static.prsa.pl/images/8d13e741-cebc-4e87-b831-19d23d94b1b5.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:40:50Z"
+  },
+  {
+    "id": "jezyk-chinski",
+    "title": "Język Chiński",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/C654A052-1B9E-4044-BB2B-70B944D439EF",
+    "artwork": "https://static.prsa.pl/images/9905b589-db7d-47ed-9233-a16e41e9d85c.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:41:23Z"
   }
 ]
