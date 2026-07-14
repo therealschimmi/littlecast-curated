@@ -1491,10 +1491,7 @@
     "publisher": "Sesame Street",
     "rss": "http://downloads.cdn.sesame.org/podcast/outreach/spanish_rss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/sp_ep13.jpg",
-    "language": "es-us",
-    "added_at": "2026-04-10T08:20:10Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "3-6"
+    "language": "es"
   },
   {
     "id": "the-bedtime-scientist-calm-science-for-sleepy-kids",
