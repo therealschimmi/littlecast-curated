@@ -2138,5 +2138,14 @@
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/02/0112737f-d6ff-42aa-892c-d0d4cf001669/1400x1400_vpc_rf_omm_0000037863_ite.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:00Z"
+  },
+  {
+    "id": "yummi-der-kinderpodcast",
+    "title": "YUMMI – Der Kinderpodcast",
+    "publisher": "EDEKA",
+    "rss": "https://yummi.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,skFlBZNJ2ajuOLQ3FVpxbpgQ4P62Y4IsCPCyO_Qybd0c=/https://main.podigee-cdn.net/uploads/u8209/129711d7-8350-4293-aa3a-befcbc673446.jpg",
+    "language": "de",
+    "added_at": "2026-06-16T11:59:10Z"
   }
 ]
