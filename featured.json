@@ -2145,5 +2145,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18149770/18149770-1632418585449-c503589445a29.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:19:37Z"
+  },
+  {
+    "id": "dzieciaki-kochaja-zwierzaki",
+    "title": "Dzieciaki kochają zwierzaki",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/rss/2c2b3537-21f4-443e-a511-ffcd11df4abd",
+    "artwork": "https://cdn6.polskieradio.pl/cdn/dev/f2f8c2af-d4db-4c4d-875c-3aada92895c3/1400x1400_zwierzaczki_01A.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:40:50Z"
   }
 ]
