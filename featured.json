@@ -2289,5 +2289,14 @@
     "artwork": "https://static.prsa.pl/images/c4471bc1-332f-461a-afd6-b2e2a31dd242.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:51Z"
+  },
+  {
+    "id": "jezyk-niemiecki",
+    "title": "Język niemiecki",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/9708FED6-383A-4DC6-B27C-F3BA5E7BAC93",
+    "artwork": "https://static.prsa.pl/images/94cbccd2-03a9-4f22-a517-00b5b19cb49b.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:52Z"
   }
 ]
