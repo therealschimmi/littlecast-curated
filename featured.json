@@ -2262,5 +2262,14 @@
     "artwork": "https://storage.buzzsprout.com/variants/v04s02c7iq7jqmwcy5a8ynodovbd/5cfec01b44f3e29fae1fb88ade93fc4aecd05b192fbfbc2c2f1daa412b7c1921.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:48:28Z"
+  },
+  {
+    "id": "zgrajmy-sie",
+    "title": "zGrajmy się",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/8E6404E2-5A70-42D4-B891-36D23BA7ECFA",
+    "artwork": "https://static.prsa.pl/images/02e0b6e6-156f-48c7-951a-055c2e4616de.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:53Z"
   }
 ]
