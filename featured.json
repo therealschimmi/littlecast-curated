@@ -2235,5 +2235,14 @@
     "artwork": "https://cdn6.polskieradio.pl/cdn/dev/afa73444-87c2-4912-8d41-3ac9ca2715de/1400x1400_Alfabet%20Orkiestry.png",
     "language": "pl",
     "added_at": "2026-07-14T07:43:48Z"
+  },
+  {
+    "id": "bajkowe-smako-yki-misia-michasia",
+    "title": "Bajkowe smakołyki Misia Michasia",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/43FF2340-3AEA-4994-9D47-BEB68F67DEE7",
+    "artwork": "https://static.prsa.pl/images/ff85e405-0b79-4eb0-a636-198b19640587.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:54Z"
   }
 ]
