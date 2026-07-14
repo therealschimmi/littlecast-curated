@@ -2190,5 +2190,14 @@
     "artwork": "https://static.prsa.pl/images/9905b589-db7d-47ed-9233-a16e41e9d85c.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:41:23Z"
+  },
+  {
+    "id": "poradnik-m-odego-odkrywcy",
+    "title": "Poradnik Młodego Odkrywcy",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/rss/edeb21a2-6ab2-4afd-8e7d-1589ffeb734d",
+    "artwork": "https://cdn6.polskieradio.pl/cdn/dev/c7daa303-3e43-413d-8091-73cea9cdf85c/1400x1400_parki-24_01A.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:46Z"
   }
 ]
