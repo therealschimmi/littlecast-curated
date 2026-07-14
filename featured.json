@@ -2271,5 +2271,14 @@
     "artwork": "https://static.prsa.pl/images/f27becfb-9009-4678-9269-73586d7178a2.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:50Z"
+  },
+  {
+    "id": "nie-boj-zaby-odkrywaj",
+    "title": "Nie bój żaby, odkrywaj",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/515b9330-8fc8-434f-ba42-dc9c94ad21bb",
+    "artwork": "https://static.prsa.pl/images/be50cffb-3a32-40f9-b0d8-6a45133d2dda.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:51Z"
   }
 ]
