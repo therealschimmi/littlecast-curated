@@ -1464,10 +1464,7 @@
     "publisher": "Sesame Street",
     "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSCrss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_ENG_50.jpg",
-    "language": "en-us",
-    "added_at": "2026-04-10T08:20:00Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "3-6"
+    "language": "en"
   },
   {
     "id": "sesame-street-listos-para-la-escuela",
