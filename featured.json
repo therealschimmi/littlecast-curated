@@ -2262,5 +2262,14 @@
     "artwork": "https://static.prsa.pl/images/02e0b6e6-156f-48c7-951a-055c2e4616de.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:53Z"
+  },
+  {
+    "id": "ucho-widzi",
+    "title": "Ucho widzi",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/15361f03-8245-4dd0-8ea1-fd21acf5b84b",
+    "artwork": "https://static.prsa.pl/images/f27becfb-9009-4678-9269-73586d7178a2.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:50Z"
   }
 ]
