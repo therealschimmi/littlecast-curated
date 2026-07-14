@@ -2388,5 +2388,14 @@
     "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/hr2_wunderwigwam_channel.jpg",
     "language": "de-DE",
     "added_at": "2026-07-14T18:24:05Z"
+  },
+  {
+    "id": "insekten",
+    "title": "Insekten",
+    "publisher": "ORF/Ö1",
+    "rss": "https://podcast.orf.at/podcast/oe1/oe1_insekten/oe1_insekten.xml",
+    "artwork": "https://podcast.orf.at/podcast/oe1/oe1_insekten/oe1_insekten_premium.jpg?etag=b902b27c53c202f9fadc20d97ba967f3",
+    "language": "de-at",
+    "added_at": "2026-07-14T18:20:19Z"
   }
 ]
