@@ -1445,10 +1445,7 @@
     "publisher": "RTÉjr",
     "rss": "https://www.rte.ie/radio1/podcast/podcast_cereal.xml",
     "artwork": "https://img.rasset.ie/002099d5-3000.jpg",
-    "language": "en-ie",
-    "added_at": "2026-04-10T08:19:52Z",
-    "avgDurationMinutes": 20,
-    "ageRange": "5-12"
+    "language": "en"
   },
   {
     "id": "goodnight-world",
