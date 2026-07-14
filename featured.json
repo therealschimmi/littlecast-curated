@@ -2217,5 +2217,14 @@
     "artwork": "https://cdn6.polskieradio.pl/cdn/0292d066-af89-4cb7-ac59-3559bcf2d33f/Podcast_okladka_gdzie_paw_mowi_dzien_dobry1400x1400_.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:48Z"
+  },
+  {
+    "id": "zimowy-kurs-przetrwania",
+    "title": "Zimowy Kurs Przetrwania",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/2bbdf136-5a40-4528-a712-7901a66b51a9",
+    "artwork": "https://static.prsa.pl/images/1e573bce-d920-495d-b888-ed257f83cd85.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:47Z"
   }
 ]
