@@ -2280,5 +2280,14 @@
     "artwork": "https://static.prsa.pl/images/be50cffb-3a32-40f9-b0d8-6a45133d2dda.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:51Z"
+  },
+  {
+    "id": "swieta-w-sprayu",
+    "title": "Święta w sprayu",
+    "publisher": "Polskie Radio S.A.",
+    "rss": "https://www.polskieradio.pl/Podcast/a319ab65-e218-4c7a-a3c7-b7f0c6357d9d",
+    "artwork": "https://static.prsa.pl/images/c4471bc1-332f-461a-afd6-b2e2a31dd242.jpg",
+    "language": "pl",
+    "added_at": "2026-07-14T07:43:51Z"
   }
 ]
