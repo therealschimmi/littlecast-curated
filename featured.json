@@ -2147,5 +2147,14 @@
     "artwork": "https://images.podigee-cdn.net/0x,skFlBZNJ2ajuOLQ3FVpxbpgQ4P62Y4IsCPCyO_Qybd0c=/https://main.podigee-cdn.net/uploads/u8209/129711d7-8350-4293-aa3a-befcbc673446.jpg",
     "language": "de",
     "added_at": "2026-06-16T11:59:10Z"
+  },
+  {
+    "id": "10-minute-drive",
+    "title": "10 Minute Drive",
+    "publisher": "Short episodes for Kids/Parents on the go",
+    "rss": "https://media.rss.com/10-minute-drive/feed.xml",
+    "artwork": "https://media.rss.com/10-minute-drive/20250110_050121_6af16a00bc2e08af033c1020badede38.png",
+    "language": "en",
+    "added_at": "2026-06-16T12:01:44Z"
   }
 ]
