@@ -2370,5 +2370,14 @@
     "artwork": "https://kinder.wdr.de/tv/die-sendung-mit-der-maus/diesendungmitdermausvom330~_v-Podcast.png",
     "language": "de",
     "added_at": "2026-07-14T18:25:49Z"
+  },
+  {
+    "id": "tween-screen",
+    "title": "TWEEN Screen",
+    "publisher": "Mitteldeutscher Rundfunk",
+    "rss": "https://www.mdr.de/tweens/podcast/tweenscreen/tween-screen-102-podcast.xml",
+    "artwork": "https://www.mdr.de/tweens/podcast/tweenscreen/tween-screen-102-podcastLogo_i-itunes_version-18884_zc-d4a69e62.png",
+    "language": "de-de",
+    "added_at": "2026-07-14T18:25:01Z"
   }
 ]
