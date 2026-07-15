@@ -2780,5 +2780,14 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/ecb65d76-d717-44b5-9b9c-e6d7463f7b58.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z"
+  },
+  {
+    "id": "wild-le-podcast-animalier",
+    "title": "Wild, le podcast animalier",
+    "publisher": "Ambre Gaudet",
+    "rss": "https://feeds.acast.com/public/shows/64b6753c923f19001147e161",
+    "artwork": "https://assets.pippa.io/shows/64b6753c923f19001147e161/1693821102753-775080ca66bb09885390461c00632cc2.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:43Z"
   }
 ]
