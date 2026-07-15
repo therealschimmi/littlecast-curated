@@ -2451,5 +2451,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/256953/256953-1768452661767-d0f4c22348c26.jpg",
     "language": "en",
     "added_at": "2026-07-13T10:30:04Z"
+  },
+  {
+    "id": "olma",
+    "title": "Olma",
+    "publisher": "France Inter",
+    "rss": "https://radiofrance-podcast.net/podcast09/rss_21770.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2021/12/e7359854-3251-490e-9aa8-f9f67b2da73a/1400x1400_rf_omm_0000032592_ite.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:44Z"
   }
 ]
