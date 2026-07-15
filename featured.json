@@ -2582,5 +2582,14 @@
     "artwork": "https://img.rts.ch/articles/2026/image/cv74e6-29134877.image?w=1400&h=1400&extension=.png",
     "language": "fr",
     "added_at": "2026-07-14T06:59:17Z"
+  },
+  {
+    "id": "courvole-aventures",
+    "title": "Courvole aventures",
+    "publisher": "Aurélien Guillot",
+    "rss": "https://feeds.audiomeans.fr/feed/7867649d-5613-4600-aee0-cf8b2195d015.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/28f4f1a3-e2dc-45ea-9528-283c16365623.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:17Z"
   }
 ]
