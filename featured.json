@@ -2609,5 +2609,14 @@
     "artwork": "https://assets.pippa.io/shows/cover/1677863706945-1f94eae629bf42d49caed22723373f7b.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:20Z"
+  },
+  {
+    "id": "les-aventures-de-papoush-et-petit-pouce",
+    "title": "Les aventures de Papoush et Petit-Pouce",
+    "publisher": "Ouest-France",
+    "rss": "https://api.octopus.saooti.com/rss/emission/1475.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/42d17e51-795f-447d-9f78-449648f93423/b05a839c-6314-4901-83fd-6dc32071b7a7.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:24Z"
   }
 ]
