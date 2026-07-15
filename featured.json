@@ -2717,5 +2717,14 @@
     "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/channelbild-erzaehlpodcast-kinder-1400.jpg",
     "language": "de",
     "added_at": "2026-07-14T18:24:14Z"
+  },
+  {
+    "id": "sing-a-song-be-happy",
+    "title": "Sing a Song - Be Happy!",
+    "publisher": "Sing a Song-Be Happy",
+    "rss": "https://singasongbehappy.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sc1Sj_qc43DoRQGStkbKcEg5koC8AXC8NBAD1jixF1lA=/https://main.podigee-cdn.net/uploads/u51101/6ba9cf13-646c-40db-b6a8-772d8968a82d.jpg",
+    "language": "de",
+    "added_at": "2026-07-14T07:50:01Z"
   }
 ]
