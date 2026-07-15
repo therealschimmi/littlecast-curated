@@ -3148,5 +3148,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:40Z",
     "avg_duration_min": 9
+  },
+  {
+    "id": "walking-through-the-word-podcast-4-kids",
+    "title": "Walking Through The Word Podcast 4 Kids",
+    "publisher": "New Song Nashville",
+    "rss": "https://walkingthroughtheword4kids.libsyn.com/rss",
+    "artwork": "https://static.libsyn.com/p/assets/9/e/8/e/9e8e04b84a6a64fb16c3140a3186d450/Untitled_design.png",
+    "language": "en",
+    "added_at": "2026-06-16T11:50:22Z",
+    "avg_duration_min": 10
   }
 ]
