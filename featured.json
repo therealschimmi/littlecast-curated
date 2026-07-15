@@ -2699,5 +2699,14 @@
     "artwork": "https://img.br.de/7b9a26a1-86b1-4155-a8e9-ed3ad6229d55.jpeg?fm=jpg",
     "language": "de",
     "added_at": "2026-07-14T18:23:45Z"
+  },
+  {
+    "id": "die-marchen-der-bruder-grimm",
+    "title": "Die Märchen der Brüder Grimm",
+    "publisher": "ARD",
+    "rss": "https://podcast.hr.de/hr2_maerchen_grimm/podcast.xml",
+    "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/Channel_Maerchen_1_1.jpg",
+    "language": "de",
+    "added_at": "2026-07-14T18:25:37Z"
   }
 ]
