@@ -2546,5 +2546,14 @@
     "artwork": "https://medias.podcastics.com/podcastics/podcasts/artwork/a-lecoute.jpg.2071b7e85b8bb826306f873fc1b0bbb7.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:23Z"
+  },
+  {
+    "id": "imagination-meditation",
+    "title": "Imagination Meditation",
+    "publisher": "Hero Complex",
+    "rss": "https://feed.podbean.com/imaginationmeditation/feed.xml",
+    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/9377907/ImaginbationMedSQUAREpic_tsptji.jpg",
+    "language": "en",
+    "added_at": "2026-07-14T07:11:13Z"
   }
 ]
