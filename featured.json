@@ -2645,5 +2645,14 @@
     "artwork": "https://i2.res.24o.it/radio24/assets/img/Radio24/_Immagini/2024/04/24ore-podcast-come-nasce-una-canzone1400.jpg",
     "language": "it",
     "added_at": "2026-07-14T07:50:03Z"
+  },
+  {
+    "id": "galileo-kids",
+    "title": "Galileo Kids",
+    "publisher": "Galileo",
+    "rss": "https://galileo-kids.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,smv_T_66OUxpkkXRJM_fO2a2KlB3v40kkdNygbKKSNFo=/https://main.podigee-cdn.net/uploads/u2838/0ff8e5cd-1c31-4a2a-8efb-36d0eb8d7233.jpg",
+    "language": "de",
+    "added_at": "2026-06-16T11:52:11Z"
   }
 ]
