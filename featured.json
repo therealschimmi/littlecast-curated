@@ -2861,5 +2861,14 @@
     "artwork": "https://assets.pippa.io/shows/61a7b8c20fef25aa6f8decd9/1734343909284-976cb6cc-afc5-4d55-bf49-549abc53d90b.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:24Z"
+  },
+  {
+    "id": "curieux-de-sciences",
+    "title": "Curieux de sciences",
+    "publisher": "Images Doc et Muséum national d'Histoire naturelle",
+    "rss": "https://feed.ausha.co/Bqr2pcd8Aaqp",
+    "artwork": "https://image.ausha.co/6VK14UTjHKuEXfHPCDAQH0FH98PdsMXH0CAhnQND_1400x1400.jpeg?t=1726044453",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:40Z"
   }
 ]
