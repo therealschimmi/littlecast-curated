@@ -2589,15 +2589,6 @@
     "avg_duration_min": 24
   },
   {
-    "id": "die-sendung-mit-der-maus",
-    "title": "Die Sendung mit der Maus",
-    "publisher": "Westdeutscher Rundfunk",
-    "rss": "https://www1.wdr.de/mediathek/video/podcast/channel-sendung-mit-der-maus-100.podcast",
-    "artwork": "https://kinder.wdr.de/tv/die-sendung-mit-der-maus/diesendungmitdermausvom330~_v-Podcast.png",
-    "language": "de",
-    "added_at": "2026-07-14T18:25:49Z"
-  },
-  {
     "id": "tween-screen",
     "title": "TWEEN Screen",
     "publisher": "Mitteldeutscher Rundfunk",
