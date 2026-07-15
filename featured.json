@@ -2807,5 +2807,14 @@
     "artwork": "https://assets.pippa.io/shows/6385d2413201510011968eb1/1773394748339-bdddce61-1dd7-45bb-9e6d-cc59e404c156.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:13Z"
+  },
+  {
+    "id": "redbeard-scruffy-the-pirate-pegbeard-the-brave",
+    "title": "Redbeard Scruffy the Pirate & Pegbeard the Brave",
+    "publisher": "Redbeard Scruffy the Pirate & Pegbeard the Brave",
+    "rss": "https://www.redbeardscruffy.com/podcasts?format=rss",
+    "artwork": "https://images.squarespace-cdn.com/content/v1/698b5f4f0ed03351ba4b42dc/c9b8de29-c8a3-469a-b028-07dbd407b382/Redbeard_Scruffy_Podcast.png?format=1500w",
+    "language": "en",
+    "added_at": "2026-07-15T17:59:33Z"
   }
 ]
