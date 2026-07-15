@@ -2708,5 +2708,14 @@
     "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/Channel_Maerchen_1_1.jpg",
     "language": "de",
     "added_at": "2026-07-14T18:25:37Z"
+  },
+  {
+    "id": "hr2-auf-ins-abenteuer-geschichten-fur-kinder",
+    "title": "hr2 Auf ins Abenteuer - Geschichten für Kinder",
+    "publisher": "hr2",
+    "rss": "https://podcast.hr.de/hr2_erzaehlpodcast_kinder/podcast.xml",
+    "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/channelbild-erzaehlpodcast-kinder-1400.jpg",
+    "language": "de",
+    "added_at": "2026-07-14T18:24:14Z"
   }
 ]
