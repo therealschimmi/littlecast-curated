@@ -2483,5 +2483,14 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/134a4e6a93956a453e9326a9436e3b14.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:12:33Z"
+  },
+  {
+    "id": "tintin-en-orient",
+    "title": "Tintin en Orient",
+    "publisher": "INA",
+    "rss": "https://api.octopus.saooti.com/rss/emission/16422.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/emission/16422/2f4a9047-83cf-4472-856f-0eeee92da59c.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:39:11Z"
   }
 ]
