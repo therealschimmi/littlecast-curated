@@ -2528,5 +2528,14 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/07b7ff70-91db-46e2-82ce-965936022c97.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:38:58Z"
+  },
+  {
+    "id": "le-chevalier-orange",
+    "title": "Le Chevalier Orange",
+    "publisher": "Loïc BURLOT",
+    "rss": "https://anchor.fm/s/d9326160/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/36339576/1d12852d83886fe0.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:44Z"
   }
 ]
