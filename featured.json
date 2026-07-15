@@ -2537,5 +2537,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/36339576/1d12852d83886fe0.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:44Z"
+  },
+  {
+    "id": "a-l-ecoute",
+    "title": "À l'écoute!",
+    "publisher": "La puce à l'oreille",
+    "rss": "https://feeds.podcastics.com/podcastics/podcasts/rss/3402_0fa49016d82856993dcc9a0b1053a282.rss",
+    "artwork": "https://medias.podcastics.com/podcastics/podcasts/artwork/a-lecoute.jpg.2071b7e85b8bb826306f873fc1b0bbb7.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:23Z"
   }
 ]
