@@ -2816,5 +2816,14 @@
     "artwork": "https://images.squarespace-cdn.com/content/v1/698b5f4f0ed03351ba4b42dc/c9b8de29-c8a3-469a-b028-07dbd407b382/Redbeard_Scruffy_Podcast.png?format=1500w",
     "language": "en",
     "added_at": "2026-07-15T17:59:33Z"
+  },
+  {
+    "id": "psg-academy",
+    "title": "PSG Academy",
+    "publisher": "Paris Saint-Germain",
+    "rss": "https://feed.ausha.co/AjwQZiLO9EmQ",
+    "artwork": "https://image.ausha.co/LZ3W54ebhHKvO6SZXsyfJqCP4UjCO1iO6rmLVYxy_1400x1400.jpeg?t=1670244161",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:18Z"
   }
 ]
