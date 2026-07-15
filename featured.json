@@ -2600,5 +2600,14 @@
     "artwork": "https://megaphone.imgix.net/podcasts/a1d3aa2e-8c54-11ed-a200-af8865c7a599/image/Kiddy.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "fr",
     "added_at": "2026-07-14T06:59:20Z"
+  },
+  {
+    "id": "meditation-chakras-pour-enfants",
+    "title": "Méditation chakras pour enfants",
+    "publisher": "MARION COGNARD",
+    "rss": "https://feeds.acast.com/public/shows/64022f0be20d17001130b60d",
+    "artwork": "https://assets.pippa.io/shows/cover/1677863706945-1f94eae629bf42d49caed22723373f7b.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:20Z"
   }
 ]
