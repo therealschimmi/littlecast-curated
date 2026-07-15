@@ -2771,5 +2771,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11619971/11619971-1662065227428-011c03dee7a16.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:43Z"
+  },
+  {
+    "id": "lis-moi-une-histoire",
+    "title": "Lis-moi une histoire",
+    "publisher": "RTL",
+    "rss": "https://feeds.audiomeans.fr/feed/3c50a92b-6955-458e-9f26-924cd714951f.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/ecb65d76-d717-44b5-9b9c-e6d7463f7b58.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:41Z"
   }
 ]
