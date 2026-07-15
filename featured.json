@@ -2573,5 +2573,14 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40414979/7da34b9764cb8611.png",
     "language": "en",
     "added_at": "2026-07-15T07:14:13Z"
+  },
+  {
+    "id": "millie-d-et-farfelu-rts",
+    "title": "Millie D. et Farfelu ‐ RTS",
+    "publisher": "RTS - Radio Télévision Suisse",
+    "rss": "https://www.rts.ch/podcasts-originaux/programmes/les-histoires-de-millie-d/podcast/?flux=rss",
+    "artwork": "https://img.rts.ch/articles/2026/image/cv74e6-29134877.image?w=1400&h=1400&extension=.png",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:17Z"
   }
 ]
