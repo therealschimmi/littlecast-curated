@@ -2386,7 +2386,7 @@
     "artwork": "https://static.prsa.pl/images/8d13e741-cebc-4e87-b831-19d23d94b1b5.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:40:50Z",
-    "avg_duration_min": 25
+    "avg_duration_min": 27
   },
   {
     "id": "jezyk-chinski",
@@ -2880,7 +2880,8 @@
     "rss": "https://backr24.ilsole24ore.com/podcast/come-nasce-una-canzone.xml",
     "artwork": "https://i2.res.24o.it/radio24/assets/img/Radio24/_Immagini/2024/04/24ore-podcast-come-nasce-una-canzone1400.jpg",
     "language": "it",
-    "added_at": "2026-07-14T07:50:03Z"
+    "added_at": "2026-07-14T07:50:03Z",
+    "avg_duration_min": 0
   },
   {
     "id": "galileo-kids",
