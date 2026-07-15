@@ -2726,5 +2726,14 @@
     "artwork": "https://images.podigee-cdn.net/0x,sc1Sj_qc43DoRQGStkbKcEg5koC8AXC8NBAD1jixF1lA=/https://main.podigee-cdn.net/uploads/u51101/6ba9cf13-646c-40db-b6a8-772d8968a82d.jpg",
     "language": "de",
     "added_at": "2026-07-14T07:50:01Z"
+  },
+  {
+    "id": "nice-to-meet-you",
+    "title": "Nice To Meet You",
+    "publisher": "Meike Tarabori",
+    "rss": "https://feeds.captivate.fm/nice-to-meet-you/",
+    "artwork": "https://artwork.captivate.fm/141de401-e74b-4d02-9324-dfb23800b7fd/wpy3H8PcG-EQH1MhfrgJuSL.jpg",
+    "language": "de",
+    "added_at": "2026-07-14T07:14:14Z"
   }
 ]
