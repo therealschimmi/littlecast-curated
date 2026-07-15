@@ -2469,5 +2469,14 @@
     "artwork": "https://static.libsyn.com/p/assets/2/6/b/7/26b79d0148cc2f49/NewAWIcon.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:12:31Z"
+  },
+  {
+    "id": "farmer-brown-s-dinosaur-farm",
+    "title": "Farmer Brown's Dinosaur Farm",
+    "publisher": "Andy Murphy",
+    "rss": "https://feeds.buzzsprout.com/2218417.rss",
+    "artwork": "https://storage.buzzsprout.com/zwhojy52a2dlnn8keoys32qpi3vb?.jpg",
+    "language": "en",
+    "added_at": "2026-07-14T07:12:32Z"
   }
 ]
