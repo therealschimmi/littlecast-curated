@@ -2501,5 +2501,14 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/02438b8f-5d4b-45fa-b7e7-d5ebdee0b7f6.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:38:56Z"
+  },
+  {
+    "id": "les-aventures-de-tintin-la-chasse-au-tresor",
+    "title": "Les Aventures de Tintin - La Chasse au trésor",
+    "publisher": "INA",
+    "rss": "https://api.octopus.saooti.com/rss/emission/15172.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/9bd0b0ef-8f4c-4b10-b7b3-5f492db04ade.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:38:57Z"
   }
 ]
