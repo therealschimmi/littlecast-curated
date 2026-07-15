@@ -2825,5 +2825,14 @@
     "artwork": "https://image.ausha.co/EAp0nHKIr3U33Ml08s4CnvG8ymwLMuqvc0JuKzeD_1400x1400.jpeg?t=1718364746",
     "language": "fr",
     "added_at": "2026-07-14T06:59:18Z"
+  },
+  {
+    "id": "odd-squadcast",
+    "title": "Odd Squadcast",
+    "publisher": "PBS KIDS",
+    "rss": "https://oddsquadcast.libsyn.com/rss",
+    "artwork": "https://static.libsyn.com/p/assets/d/5/d/b/d5dbc71be0f88214/OddSquadCast_icon_3000x3000_2.jpg",
+    "language": "en",
+    "added_at": "2026-06-11T20:09:57Z"
   }
 ]
