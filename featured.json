@@ -2433,5 +2433,14 @@
     "artwork": "https://artwork.captivate.fm/1c0f963e-7174-43bd-bfa7-33123664d921/KVP-COVER-NO-TAG.jpeg",
     "language": "en",
     "added_at": "2026-06-16T12:00:27Z"
+  },
+  {
+    "id": "tintin-en-amerique",
+    "title": "Tintin en Amérique",
+    "publisher": "INA",
+    "rss": "https://api.octopus.saooti.com/rss/emission/15687.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/c9a77585-dce0-47c2-8b1c-8599d09fa968.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:39:01Z"
   }
 ]
