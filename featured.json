@@ -2798,5 +2798,14 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/c971e7db-6c57-4401-9638-75423e2d9c4b.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:14Z"
+  },
+  {
+    "id": "abricot-presente",
+    "title": "Abricot Présente",
+    "publisher": "Unique Heritage Media",
+    "rss": "https://feeds.acast.com/public/shows/6385d2413201510011968eb1",
+    "artwork": "https://assets.pippa.io/shows/6385d2413201510011968eb1/1773394748339-bdddce61-1dd7-45bb-9e6d-cc59e404c156.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:13Z"
   }
 ]
