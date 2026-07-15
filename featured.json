@@ -2843,5 +2843,14 @@
     "artwork": "https://assets.pippa.io/shows/cover/1690386763876-bed38cfeb12be55857bbaf5e65264c05.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T07:18:11Z"
+  },
+  {
+    "id": "encore-une-histoire",
+    "title": "Encore une histoire",
+    "publisher": "Encore une histoire",
+    "rss": "https://feeds.acast.com/public/shows/670d1795df4dd6f896655670",
+    "artwork": "https://assets.pippa.io/shows/670d1795df4dd6f896655670/show-cover.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:40Z"
   }
 ]
