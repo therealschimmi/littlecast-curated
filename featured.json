@@ -2753,5 +2753,14 @@
     "artwork": "https://www.mdr.de/tweens/podcast/bigbaem/big-baem-wissen-ohne-filter-100-podcastLogo_i-itunes_version-0716_zc-a9bc0650.png",
     "language": "de",
     "added_at": "2026-06-16T11:55:23Z"
+  },
+  {
+    "id": "les-histoires-de-nonno",
+    "title": "Les Histoires de Nonno",
+    "publisher": "Sam Malloth",
+    "rss": "https://anchor.fm/s/1700cadc/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3759279/3759279-1612777322555-55dea513c4b65.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:24Z"
   }
 ]
