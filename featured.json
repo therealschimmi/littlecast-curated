@@ -2492,5 +2492,14 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/emission/16422/2f4a9047-83cf-4472-856f-0eeee92da59c.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:11Z"
+  },
+  {
+    "id": "les-aventures-de-tintin-60-s",
+    "title": "Les Aventures de Tintin (60's)",
+    "publisher": "INA",
+    "rss": "https://api.octopus.saooti.com/rss/playlist/504.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/02438b8f-5d4b-45fa-b7e7-d5ebdee0b7f6.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:38:56Z"
   }
 ]
