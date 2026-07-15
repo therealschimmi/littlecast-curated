@@ -2510,5 +2510,14 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/9bd0b0ef-8f4c-4b10-b7b3-5f492db04ade.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:38:57Z"
+  },
+  {
+    "id": "les-aventures-de-tintin-aventures-lunaires",
+    "title": "Les Aventures de Tintin - Aventures lunaires",
+    "publisher": "INA",
+    "rss": "https://api.octopus.saooti.com/rss/emission/15169.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/8ac526cd-21f8-469e-9fbd-9463d18b225a.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:39:00Z"
   }
 ]
