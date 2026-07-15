@@ -2519,5 +2519,14 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/8ac526cd-21f8-469e-9fbd-9463d18b225a.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:00Z"
+  },
+  {
+    "id": "les-aventures-de-tintin-aventures-incas",
+    "title": "Les Aventures de Tintin - Aventures Incas",
+    "publisher": "INA",
+    "rss": "https://api.octopus.saooti.com/rss/emission/15165.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/07b7ff70-91db-46e2-82ce-965936022c97.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T05:38:58Z"
   }
 ]
