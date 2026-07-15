@@ -2460,5 +2460,14 @@
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2021/12/e7359854-3251-490e-9aa8-f9f67b2da73a/1400x1400_rf_omm_0000032592_ite.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:44Z"
+  },
+  {
+    "id": "aaron-s-world",
+    "title": "Aaron's World",
+    "publisher": "Mike Meraz",
+    "rss": "https://aaronsworld.libsyn.com/rss",
+    "artwork": "https://static.libsyn.com/p/assets/2/6/b/7/26b79d0148cc2f49/NewAWIcon.jpg",
+    "language": "en",
+    "added_at": "2026-07-14T07:12:31Z"
   }
 ]
