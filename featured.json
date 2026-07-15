@@ -2852,5 +2852,14 @@
     "artwork": "https://assets.pippa.io/shows/670d1795df4dd6f896655670/show-cover.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:40Z"
+  },
+  {
+    "id": "mythes-et-legendes",
+    "title": "Mythes et Légendes",
+    "publisher": "Quelle Histoire",
+    "rss": "https://feeds.acast.com/public/shows/ecc4ef0f-1ca8-4ca0-90f2-cce7084aff43",
+    "artwork": "https://assets.pippa.io/shows/61a7b8c20fef25aa6f8decd9/1734343909284-976cb6cc-afc5-4d55-bf49-549abc53d90b.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:24Z"
   }
 ]
