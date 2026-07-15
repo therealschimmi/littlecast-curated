@@ -2636,5 +2636,14 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ed897e51ad86714bd1050f2da2ca1371.jpg",
     "language": "it",
     "added_at": "2026-07-14T07:50:01Z"
+  },
+  {
+    "id": "come-nasce-una-canzone",
+    "title": "Come nasce una canzone",
+    "publisher": "Radio 24",
+    "rss": "https://backr24.ilsole24ore.com/podcast/come-nasce-una-canzone.xml",
+    "artwork": "https://i2.res.24o.it/radio24/assets/img/Radio24/_Immagini/2024/04/24ore-podcast-come-nasce-una-canzone1400.jpg",
+    "language": "it",
+    "added_at": "2026-07-14T07:50:03Z"
   }
 ]
