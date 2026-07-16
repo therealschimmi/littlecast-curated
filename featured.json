@@ -5002,5 +5002,20 @@
       "history",
       "humor"
     ]
+  },
+  {
+    "id": "deli-cuentos",
+    "title": "Deli Cuentos",
+    "publisher": "Deli Cuentos",
+    "rss": "https://anchor.fm/s/3ecd00e4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10436225/10436225-1604601430679-913917e86a003.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:16Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "culture",
+      "emotions"
+    ]
   }
 ]
