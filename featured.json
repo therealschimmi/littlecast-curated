@@ -1587,19 +1587,18 @@
     ]
   },
   {
+    "added_at": "2026-03-25T22:30:01Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8",
+    "avg_duration_min": 13,
     "id": "storie-per-bambini-italian",
     "title": "Storie per bambini Italian",
     "publisher": "kiskeya life",
     "rss": "https://www.spreaker.com/show/5033761/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1a692f66aec280c4581562bc12994d87.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:01Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "3-8",
-    "avg_duration_min": 13,
     "tags": [
-      "stories",
-      "languages"
+      "stories"
     ]
   },
   {
