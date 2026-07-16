@@ -4927,5 +4927,20 @@
       "drama",
       "music"
     ]
+  },
+  {
+    "id": "konpe-manikou",
+    "title": "Konpè Manikou",
+    "publisher": "Tann",
+    "rss": "https://feed.ausha.co/rwOnqh0pg8Zq",
+    "artwork": "https://image.ausha.co/KIUn70SzNiRc7hvrVhs9uz5pmqgJCtIEvIkorIh6_1400x1400.jpeg?t=1683798082",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:24Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "fables",
+      "animals"
+    ]
   }
 ]
