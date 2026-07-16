@@ -4882,5 +4882,20 @@
       "music",
       "languages"
     ]
+  },
+  {
+    "id": "les-fables-de-la-fontaine-integrale",
+    "title": "Les Fables de La Fontaine - Intégrale",
+    "publisher": "Engle",
+    "rss": "https://feeds.audiomeans.fr/feed/e4ffd3b5-569c-41b3-ae54-77249ee177e4.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/6146a125-1ace-4d15-aa4c-2d0871c1ee08.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:00:29Z",
+    "avg_duration_min": 2,
+    "tags": [
+      "fables",
+      "stories",
+      "drama"
+    ]
   }
 ]
