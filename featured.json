@@ -3194,5 +3194,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
     "avg_duration_min": 6
+  },
+  {
+    "id": "mets-tes-ecoute-coeur",
+    "title": "Mets tes écoute coeur",
+    "publisher": "Myriam de Beaurepaire",
+    "rss": "https://feeds.buzzsprout.com/1658221.rss",
+    "artwork": "https://storage.buzzsprout.com/rb02hw9nvc6g7ngigzbaaqascie8?.jpg",
+    "language": "fr-fr",
+    "added_at": "2026-07-14T06:58:41Z",
+    "avg_duration_min": 18
   }
 ]
