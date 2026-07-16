@@ -58,7 +58,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "8-12",
-    "avg_duration_min": 20
+    "avg_duration_min": 20,
+    "tags": [
+      "space",
+      "science",
+      "quiz"
+    ]
   },
   {
     "id": "taxi-ins-mich",
@@ -156,7 +161,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 45,
     "ageRange": "6-12",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "stories",
+      "nature",
+      "animals",
+      "culture"
+    ]
   },
   {
     "id": "anna-und-die-wilden-tiere",
@@ -484,7 +495,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 10,
     "ageRange": "6-12",
-    "avg_duration_min": 8
+    "avg_duration_min": 8,
+    "tags": [
+      "science",
+      "nature",
+      "experiments"
+    ]
   },
   {
     "id": "but-why",
@@ -881,7 +897,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "languages",
+      "culture"
+    ]
   },
   {
     "id": "tumble-en-espanol",
@@ -961,7 +982,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-10",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "emotions",
+      "science",
+      "body",
+      "humor"
+    ]
   },
   {
     "id": "nos-jeugdjournaal",
@@ -1845,7 +1872,12 @@
     "added_at": "2026-03-31T06:29:41Z",
     "avgDurationMinutes": 20,
     "ageRange": "5-10",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "humor",
+      "emotions"
+    ]
   },
   {
     "id": "jamming-on-the-job",
@@ -1938,7 +1970,12 @@
     "rss": "https://anchor.fm/s/25bc18c4/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/6230841/6230841-1745343435635-d23311f24e7c.jpg",
     "language": "es",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "humor"
+    ]
   },
   {
     "id": "cuentos-e-historias-infantiles",
@@ -2156,7 +2193,12 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/RFSCrss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/ReadyForSchool/iTunes_Icon_RFS_ENG_50.jpg",
     "language": "en",
-    "avg_duration_min": 0
+    "avg_duration_min": 0,
+    "tags": [
+      "emotions",
+      "humor",
+      "interview"
+    ]
   },
   {
     "id": "sesame-street-listos-para-la-escuela",
@@ -2259,7 +2301,11 @@
     "added_at": "2026-04-10T08:22:19Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-12",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "culture"
+    ]
   },
   {
     "id": "truth-seekers-bible-stories-for-kids-christian-kids-podcast-family-friendly-bible-podcast-christian-parenting-resource",
@@ -2479,7 +2525,11 @@
     "added_at": "2026-04-10T20:04:33Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 8
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "dobranocki-do-s-uchania",
@@ -2923,7 +2973,12 @@
     "added_at": "2026-06-11T17:48:50Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "science",
+      "quiz",
+      "experiments"
+    ]
   },
   {
     "id": "pieper-und-paulus-geschichten-fur-kinder-von-5-bis-10",
@@ -3034,7 +3089,13 @@
     "artwork": "https://www.abc.net.au/radio/images/programs-2026/FierceGirls_3000x3000.jpg",
     "language": "en",
     "added_at": "2026-07-13T10:29:30Z",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "history",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "les-aventures-de-tintin",
@@ -3188,7 +3249,12 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18149770/18149770-1632418585449-c503589445a29.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:19:37Z",
-    "avg_duration_min": 3
+    "avg_duration_min": 3,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "animals"
+    ]
   },
   {
     "id": "dzieciaki-kochaja-zwierzaki",
@@ -3496,7 +3562,12 @@
     "artwork": "https://static.prsa.pl/images/cbbeb0db-8425-451b-bef8-daf4d38bf62c.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:49Z",
-    "avg_duration_min": 25
+    "avg_duration_min": 25,
+    "tags": [
+      "stories",
+      "humor",
+      "culture"
+    ]
   },
   {
     "id": "tween-screen",
@@ -4024,7 +4095,12 @@
     "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/Channel_Maerchen_1_1.jpg",
     "language": "de",
     "added_at": "2026-07-14T18:25:37Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "fairy-tales",
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "hr2-auf-ins-abenteuer-geschichten-fur-kinder",
