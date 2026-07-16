@@ -4987,5 +4987,20 @@
       "emotions",
       "humor"
     ]
+  },
+  {
+    "id": "historias-de-piratas",
+    "title": "Historias de piratas",
+    "publisher": "Paco Álvarez",
+    "rss": "https://www.spreaker.com/show/6072909/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/998b6f3da212c1857562ad455c27a69c.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:14Z",
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "history",
+      "humor"
+    ]
   }
 ]
