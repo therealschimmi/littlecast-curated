@@ -4839,5 +4839,19 @@
       "fairy-tales",
       "culture"
     ]
+  },
+  {
+    "id": "les-jeux-de-bloom-la-radio-des-enfants",
+    "title": "Les jeux de Bloom la radio des enfants",
+    "publisher": "Bloom la radio des enfants ",
+    "rss": "https://feeds.audiomeans.fr/feed/795e082c-73e9-4008-92d1-570196cccc48.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/514d7e7d-8bac-4e93-adfc-4f61a1c32754.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:01:18Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "humor",
+      "quiz"
+    ]
   }
 ]
