@@ -4942,5 +4942,21 @@
       "fables",
       "animals"
     ]
+  },
+  {
+    "id": "kitten-clucky",
+    "title": "Kitten & Clucky",
+    "publisher": "Amy Daniels",
+    "rss": "https://feeds.megaphone.fm/kittenandclucky",
+    "artwork": "https://megaphone.imgix.net/podcasts/7b555f42-2e26-11f1-825c-a798598d0a3a/image/d2bef5d948c5f644dc34359c379ab5f9.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en-us",
+    "added_at": "2026-07-14T07:11:11Z",
+    "avg_duration_min": 21,
+    "tags": [
+      "stories",
+      "animals",
+      "emotions",
+      "humor"
+    ]
   }
 ]
