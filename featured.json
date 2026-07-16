@@ -4519,7 +4519,12 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/4ab56215-8a76-4423-aaea-b29e05259aa1.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
-    "avg_duration_min": 17
+    "avg_duration_min": 17,
+    "tags": [
+      "stories",
+      "emotions",
+      "fairy-tales"
+    ]
   },
   {
     "id": "les-p-tites-histoires",
