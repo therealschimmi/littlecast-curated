@@ -4912,5 +4912,20 @@
       "drama",
       "emotions"
     ]
+  },
+  {
+    "id": "il-etait-un-roman",
+    "title": "Il était un Roman",
+    "publisher": "Severine Chu",
+    "rss": "https://feeds.buzzsprout.com/1165937.rss",
+    "artwork": "https://storage.buzzsprout.com/5op5s3ixnkflky11zgnz2mf7clf6?.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:23Z",
+    "avg_duration_min": 27,
+    "tags": [
+      "stories",
+      "drama",
+      "music"
+    ]
   }
 ]
