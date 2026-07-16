@@ -3154,5 +3154,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
     "avg_duration_min": 17
+  },
+  {
+    "id": "les-p-tites-histoires",
+    "title": "Les P'tites Histoires",
+    "publisher": "Taleming",
+    "rss": "https://feeds.acast.com/public/shows/5b7989f2-e269-4dd2-94c0-752f7bbc687a",
+    "artwork": "https://assets.pippa.io/shows/619570212eacc3a36070252b/1767609079904-4946f769-c0f7-44fc-9f18-fc1589ac53dc.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:41Z",
+    "avg_duration_min": 7
   }
 ]
