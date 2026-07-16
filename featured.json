@@ -5074,14 +5074,19 @@
     ]
   },
   {
+    "added_at": "2026-07-14T07:18:24Z",
+    "avg_duration_min": 26,
     "id": "craneo-ciencia-para-ninos-curiosos",
     "title": "Cráneo: Ciencia para niños curiosos",
     "publisher": "Cumbre Kids",
     "rss": "https://anchor.fm/s/e6f41280/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38647552/38647552-1734323578354-da5a959149e2e.jpg",
     "language": "es",
-    "added_at": "2026-07-14T07:18:24Z",
-    "avg_duration_min": 26
+    "tags": [
+      "science",
+      "nature",
+      "animals"
+    ]
   },
   {
     "id": "cuentos-infantiles-para-dormir",
