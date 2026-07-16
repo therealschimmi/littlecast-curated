@@ -3184,5 +3184,15 @@
     "language": "en",
     "added_at": "2026-07-13T10:30:00Z",
     "avg_duration_min": 9
+  },
+  {
+    "id": "les-mini-mondes",
+    "title": "Les Mini Mondes",
+    "publisher": "Les Mini Mondes",
+    "rss": "https://feeds.acast.com/public/shows/6798ff9d60e68f77d5aa65b0",
+    "artwork": "https://assets.pippa.io/shows/6798ff9d60e68f77d5aa65b0/1740658242339-9989056a-77e9-4d70-a630-8675ff858d37.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:41Z",
+    "avg_duration_min": 6
   }
 ]
