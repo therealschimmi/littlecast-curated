@@ -3176,14 +3176,18 @@
     ]
   },
   {
+    "added_at": "2026-07-13T10:29:59Z",
+    "avg_duration_min": 5,
     "id": "kids-quiz-by-fun-fables",
     "title": "Kids Quiz - By Fun Fables",
     "publisher": "Horseplay Productions",
     "rss": "https://feeds.acast.com/public/shows/6620b14f5d8b39001105c7a9",
     "artwork": "https://assets.pippa.io/shows/cover/1713417869208-ce3ce014d2da083517f43d191c75a45e.jpeg",
     "language": "en",
-    "added_at": "2026-07-13T10:29:59Z",
-    "avg_duration_min": 5
+    "tags": [
+      "humor",
+      "quiz"
+    ]
   },
   {
     "id": "fierce-girls",
