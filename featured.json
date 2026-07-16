@@ -4746,5 +4746,20 @@
       "space",
       "humor"
     ]
+  },
+  {
+    "id": "et-si-tu-etais-maire",
+    "title": "Et si tu étais maire ?",
+    "publisher": "Bloom la radio des enfants",
+    "rss": "https://feeds.acast.com/public/shows/2ba161cd-dfea-4d40-b4dc-47970e5803d0",
+    "artwork": "https://assets.pippa.io/shows/60dc8cd7ee12c2d1ec79449b/show-cover.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:01:15Z",
+    "avg_duration_min": 2,
+    "tags": [
+      "interview",
+      "culture",
+      "humor"
+    ]
   }
 ]
