@@ -3234,5 +3234,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:59:13Z",
     "avg_duration_min": 8
+  },
+  {
+    "id": "qui-a-invente",
+    "title": "Qui a inventé ?",
+    "publisher": "Qui a inventé ?",
+    "rss": "https://feed.ausha.co/ygdr9TNV059K",
+    "artwork": "https://image.ausha.co/X7m2yzKNi7APX9DMKzk9kzLt2AGMIQAmbyh8wckB_1400x1400.jpeg?t=1722246901",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:45Z",
+    "avg_duration_min": 7
   }
 ]
