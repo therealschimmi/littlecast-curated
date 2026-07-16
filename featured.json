@@ -69,7 +69,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "6-12",
-    "avg_duration_min": 23
+    "avg_duration_min": 23,
+    "tags": [
+      "experiments",
+      "humor",
+      "science",
+      "animals"
+    ]
   },
   {
     "id": "kinder-wollens-wissen",
@@ -81,7 +87,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "science",
+      "interview",
+      "experiments"
+    ]
   },
   {
     "id": "klugschnabeln",
@@ -129,7 +140,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "6-10",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "animals",
+      "nature",
+      "science"
+    ]
   },
   {
     "id": "geolino",
@@ -141,7 +157,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-13",
-    "avg_duration_min": 20
+    "avg_duration_min": 20,
+    "tags": [
+      "geography",
+      "science",
+      "interview"
+    ]
   },
   {
     "id": "was-ist-was",
@@ -153,7 +174,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-12",
-    "avg_duration_min": 24
+    "avg_duration_min": 24,
+    "tags": [
+      "science",
+      "history",
+      "culture",
+      "nature"
+    ]
   },
   {
     "id": "mira",
@@ -165,7 +192,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-10",
-    "avg_duration_min": 25
+    "avg_duration_min": 25,
+    "tags": [
+      "emotions",
+      "stories",
+      "humor"
+    ]
   },
   {
     "id": "flipsi",
@@ -189,7 +221,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 28
+    "avg_duration_min": 28,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   },
   {
     "id": "grimm-grimmer-grimmest",
@@ -201,7 +237,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-10",
-    "avg_duration_min": 23
+    "avg_duration_min": 23,
+    "tags": [
+      "fairy-tales",
+      "stories",
+      "humor",
+      "drama"
+    ]
   },
   {
     "id": "the-barbie-podcast",
@@ -213,7 +255,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "interview",
+      "stories",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "culture-kids",
@@ -234,7 +282,11 @@
     "rss": "https://feeds.megaphone.fm/LEME8451485215",
     "artwork": "https://megaphone.imgix.net/podcasts/2b251540-2920-11f1-9ee6-936ffce68034/image/7a019fcac2b0edecad6ac9eca04ffcb0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "quiz",
+      "science"
+    ]
   },
   {
     "id": "story-pirates",
@@ -258,7 +310,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "5-10",
-    "avg_duration_min": 29
+    "avg_duration_min": 29,
+    "tags": [
+      "science",
+      "humor",
+      "experiments"
+    ]
   },
   {
     "id": "charm-words",
@@ -270,7 +327,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "emotions",
+      "culture"
+    ]
   },
   {
     "id": "storynory",
@@ -282,7 +343,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-10",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "stories-podcast",
@@ -294,7 +359,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "4-10",
-    "avg_duration_min": 18
+    "avg_duration_min": 18,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "500-words-bedtime-stories",
@@ -306,7 +375,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 7,
     "ageRange": "4-10",
-    "avg_duration_min": 27
+    "avg_duration_min": 27,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "journey-with-story",
@@ -342,7 +415,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "7-12",
-    "avg_duration_min": 25
+    "avg_duration_min": 25,
+    "tags": [
+      "science",
+      "stories",
+      "experiments"
+    ]
   },
   {
     "id": "the-nurdle-control",
@@ -378,7 +456,13 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-12",
-    "avg_duration_min": 26
+    "avg_duration_min": 26,
+    "tags": [
+      "science",
+      "stories",
+      "humor",
+      "nature"
+    ]
   },
   {
     "id": "the-week-junior-show",
@@ -402,7 +486,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 10,
     "ageRange": "3-8",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "la-grande-histoire-de-pomme-d-api",
@@ -414,7 +502,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "stories",
+      "humor",
+      "emotions"
+    ]
   },
   {
     "id": "histoires-pour-les-oreilles",
@@ -426,7 +519,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "music"
+    ]
   },
   {
     "id": "kidstory-fr",
@@ -438,7 +536,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-10",
-    "avg_duration_min": 8
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "salut-l-info",
@@ -450,7 +552,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 5,
     "ageRange": "7-13",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "emotions",
+      "humor",
+      "culture"
+    ]
   },
   {
     "id": "1jour1actu",
@@ -462,7 +569,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 5,
     "ageRange": "7-13",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "quiz",
+      "culture"
+    ]
   },
   {
     "id": "les-odyssees",
@@ -486,7 +597,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "7-14",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "culture",
+      "history"
+    ]
   },
   {
     "id": "les-zinstrus",
@@ -498,7 +614,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-12",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "music",
+      "humor",
+      "stories"
+    ]
   },
   {
     "id": "favole-per-bambini",
@@ -510,7 +631,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "fables"
+    ]
   },
   {
     "id": "coccole-sonore",
@@ -533,7 +659,11 @@
     "language": "pt",
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
-    "ageRange": "3-8"
+    "ageRange": "3-8",
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "imagina-so",
@@ -557,7 +687,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "fables"
+    ]
   },
   {
     "id": "conta-me-uma-historia",
@@ -569,7 +704,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   },
   {
     "id": "Um-Minuto",
@@ -617,7 +757,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-10",
-    "avg_duration_min": 1
+    "avg_duration_min": 1,
+    "tags": [
+      "science",
+      "experiments",
+      "humor"
+    ]
   },
   {
     "id": "eat-your-spanish",
@@ -665,7 +810,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "7-12",
-    "avg_duration_min": 17
+    "avg_duration_min": 17,
+    "tags": [
+      "science",
+      "humor",
+      "body"
+    ]
   },
   {
     "id": "wetenschapje",
@@ -677,7 +827,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "7-12",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "science",
+      "experiments",
+      "interview"
+    ]
   },
   {
     "id": "sterrins-animal-encyclopaedia",
@@ -689,7 +844,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-10",
-    "avg_duration_min": 22
+    "avg_duration_min": 22,
+    "tags": [
+      "animals",
+      "nature",
+      "science"
+    ]
   },
   {
     "id": "mission-feeler",
@@ -701,7 +861,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-10",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "animals",
+      "nature",
+      "humor"
+    ]
   },
   {
     "id": "waarom-daarom",
@@ -809,7 +974,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "humor",
+      "animals"
+    ]
   },
   {
     "id": "dzieciandia",
@@ -833,7 +1003,12 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 26
+    "avg_duration_min": 26,
+    "tags": [
+      "nature",
+      "animals",
+      "geography"
+    ]
   },
   {
     "id": "praca-przyrodnika",
@@ -893,7 +1068,12 @@
     "added_at": "2026-03-25T22:00:52Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-12",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "story-quest-stories-for-kids",
@@ -905,7 +1085,11 @@
     "added_at": "2026-03-25T22:00:55Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-10",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "the-reading-bug-podcast-original-adventures-bedtime-stories-and-music-for-kids",
@@ -917,7 +1101,12 @@
     "added_at": "2026-03-25T22:01:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-10",
-    "avg_duration_min": 34
+    "avg_duration_min": 34,
+    "tags": [
+      "stories",
+      "music",
+      "science"
+    ]
   },
   {
     "id": "sleep-tight-stories-bedtime-stories-for-kids",
@@ -929,7 +1118,11 @@
     "added_at": "2026-03-25T22:01:04Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 22
+    "avg_duration_min": 22,
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "paw-patrol-eye-spy-a-rescue",
@@ -941,7 +1134,12 @@
     "added_at": "2026-03-25T22:11:39Z",
     "avgDurationMinutes": 20,
     "ageRange": "3-7",
-    "avg_duration_min": 16
+    "avg_duration_min": 16,
+    "tags": [
+      "stories",
+      "humor",
+      "animals"
+    ]
   },
   {
     "id": "the-enchanted-paws-family-mia-s-magical-stories-family-adventures",
@@ -977,7 +1175,12 @@
     "added_at": "2026-03-25T22:11:54Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-12",
-    "avg_duration_min": 37
+    "avg_duration_min": 37,
+    "tags": [
+      "stories",
+      "drama",
+      "humor"
+    ]
   },
   {
     "id": "hanna-fragt-papa-der-podcast-fur-neugierige-kinder-und-eltern",
@@ -989,7 +1192,12 @@
     "added_at": "2026-03-25T22:11:59Z",
     "avgDurationMinutes": 20,
     "ageRange": "5-10",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "quiz",
+      "science",
+      "emotions"
+    ]
   },
   {
     "id": "magisches-mikro-der-zeithupf-podcast-fur-kinder",
@@ -1013,7 +1221,11 @@
     "added_at": "2026-03-25T22:12:08Z",
     "avgDurationMinutes": 12,
     "ageRange": "3-8",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "geschichten-fur-kinder",
@@ -1049,7 +1261,12 @@
     "added_at": "2026-03-25T22:19:11Z",
     "avgDurationMinutes": 20,
     "ageRange": "5-10",
-    "avg_duration_min": 27
+    "avg_duration_min": 27,
+    "tags": [
+      "science",
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "squiz-kids",
@@ -1061,7 +1278,12 @@
     "added_at": "2026-03-25T22:20:16Z",
     "avgDurationMinutes": 10,
     "ageRange": "7-12",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "quiz",
+      "humor",
+      "culture"
+    ]
   },
   {
     "id": "what-if-world-stories-for-kids",
@@ -1097,7 +1319,12 @@
     "added_at": "2026-03-25T22:20:38Z",
     "avgDurationMinutes": 10,
     "ageRange": "8-13",
-    "avg_duration_min": 16
+    "avg_duration_min": 16,
+    "tags": [
+      "quiz",
+      "culture",
+      "science"
+    ]
   },
   {
     "id": "sleep-tight-relax-calming-bedtime-stories-and-meditations",
@@ -1109,7 +1336,12 @@
     "added_at": "2026-03-25T22:20:43Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 33
+    "avg_duration_min": 33,
+    "tags": [
+      "stories",
+      "music",
+      "emotions"
+    ]
   },
   {
     "id": "kid-friendly-joke-of-the-day",
@@ -1145,7 +1377,12 @@
     "added_at": "2026-03-25T22:20:55Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-10",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "music",
+      "humor",
+      "quiz"
+    ]
   },
   {
     "id": "storie-per-bambini-italian",
@@ -1205,7 +1442,11 @@
     "added_at": "2026-03-25T22:30:25Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 17
+    "avg_duration_min": 17,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "maushorspiel-kurz",
@@ -1217,7 +1458,12 @@
     "added_at": "2026-03-27T13:28:44Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "humor",
+      "drama"
+    ]
   },
   {
     "id": "maushorspiel-lang",
@@ -1229,7 +1475,12 @@
     "added_at": "2026-03-27T13:28:46Z",
     "avgDurationMinutes": 45,
     "ageRange": "4-8",
-    "avg_duration_min": 48
+    "avg_duration_min": 48,
+    "tags": [
+      "stories",
+      "drama",
+      "humor"
+    ]
   },
   {
     "id": "mauszoom-kindernachrichten",
@@ -1265,7 +1516,12 @@
     "added_at": "2026-03-27T15:51:09Z",
     "avgDurationMinutes": 25,
     "ageRange": "4-10",
-    "avg_duration_min": 22
+    "avg_duration_min": 22,
+    "tags": [
+      "stories",
+      "humor",
+      "music"
+    ]
   },
   {
     "id": "die-doppeldecker-crew-horspiel-fur-kinder-horbuch",
@@ -1277,7 +1533,12 @@
     "added_at": "2026-03-27T16:07:44Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-10",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "drama",
+      "animals"
+    ]
   },
   {
     "id": "die-abenteuer-im-blauen-haus",
@@ -1289,7 +1550,12 @@
     "added_at": "2026-03-27T16:07:48Z",
     "avgDurationMinutes": 25,
     "ageRange": "5-10",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "humor",
+      "animals"
+    ]
   },
   {
     "id": "hafengefluster-entspannung-fur-kinder",
@@ -1313,7 +1579,12 @@
     "added_at": "2026-03-27T16:07:58Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 26
+    "avg_duration_min": 26,
+    "tags": [
+      "stories",
+      "humor",
+      "drama"
+    ]
   },
   {
     "id": "keyshawn-solves-it",
@@ -1325,7 +1596,12 @@
     "added_at": "2026-03-31T06:29:27Z",
     "avgDurationMinutes": 20,
     "ageRange": "3-7",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "drama",
+      "culture"
+    ]
   },
   {
     "id": "work-it-out-wombats-podcast",
@@ -1334,7 +1610,12 @@
     "rss": "https://feeds.wgbh.org/5538/feed-rss.xml",
     "artwork": "https://f.prxu.org/5538/images/836ec94b-54ec-404b-b94f-075336d20319/WIOWPOD_S2_Channel_Square_REV_FINAL_04-03-25.jpg",
     "language": "en",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "emotions",
+      "humor",
+      "drama"
+    ]
   },
   {
     "id": "pinkalicious-peterrific",
@@ -1358,7 +1639,12 @@
     "added_at": "2026-03-31T06:29:37Z",
     "avgDurationMinutes": 20,
     "ageRange": "5-10",
-    "avg_duration_min": 8
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "geography",
+      "culture"
+    ]
   },
   {
     "id": "the-arthur-podcast",
@@ -1394,7 +1680,12 @@
     "added_at": "2026-03-31T06:33:39Z",
     "avgDurationMinutes": 20,
     "ageRange": "7-14",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "history",
+      "stories",
+      "culture"
+    ]
   },
   {
     "id": "los-ninos-que-cocinan-comen-mejor-el-podcast-de-la-red-de-escuelas-de-cocina-de-kitchen-academy",
@@ -1406,7 +1697,12 @@
     "added_at": "2026-03-31T06:33:44Z",
     "avgDurationMinutes": 20,
     "ageRange": "8-14",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "science",
+      "culture",
+      "humor"
+    ]
   },
   {
     "id": "cuentos-increibles",
@@ -1451,7 +1747,12 @@
     "added_at": "2026-03-31T06:33:58Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 8
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "fables"
+    ]
   },
   {
     "id": "cuentos-for-kiddos-a-bilingual-storytelling-podcast",
@@ -1463,7 +1764,11 @@
     "added_at": "2026-03-31T06:34:02Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "culture"
+    ]
   },
   {
     "id": "cuentos-de-buenas-noches-para-ninas-rebeldes",
@@ -1496,7 +1801,12 @@
     "added_at": "2026-03-31T06:34:12Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-10",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "fables",
+      "emotions"
+    ]
   },
   {
     "id": "die-meyers-vom-mars",
@@ -1508,7 +1818,12 @@
     "added_at": "2026-04-04T07:52:40Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "space",
+      "humor",
+      "drama"
+    ]
   },
   {
     "id": "schlaue-pause-kinderpodcast",
@@ -1520,7 +1835,12 @@
     "added_at": "2026-04-06T19:23:14Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "science",
+      "nature",
+      "history"
+    ]
   },
   {
     "id": "schlau-wow-der-podcast-fur-kids",
@@ -1544,7 +1864,12 @@
     "added_at": "2026-04-06T19:37:18Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "science",
+      "experiments",
+      "nature"
+    ]
   },
   {
     "id": "ohrenbar-podcast",
@@ -1556,7 +1881,11 @@
     "added_at": "2026-04-07T16:31:30Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-8",
-    "avg_duration_min": 14
+    "avg_duration_min": 14,
+    "tags": [
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "unser-sandmannchen",
@@ -1577,7 +1906,11 @@
     "rss": "https://www.rte.ie/radio1/podcast/podcast_cereal.xml",
     "artwork": "https://img.rasset.ie/002099d5-3000.jpg",
     "language": "en",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "drama",
+      "humor"
+    ]
   },
   {
     "id": "goodnight-world",
@@ -1589,7 +1922,12 @@
     "added_at": "2026-04-10T08:19:56Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-6",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "stories",
+      "emotions",
+      "nature"
+    ]
   },
   {
     "id": "sesame-street-ready-for-school-challenge",
@@ -1610,7 +1948,12 @@
     "added_at": "2026-04-10T08:20:03Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-6",
-    "avg_duration_min": 0
+    "avg_duration_min": 0,
+    "tags": [
+      "emotions",
+      "interview",
+      "quiz"
+    ]
   },
   {
     "id": "elmo-s-adventures-in-spending-saving-and-sharing",
@@ -1628,7 +1971,11 @@
     "rss": "http://downloads.cdn.sesame.org/podcast/outreach/spanish_rss.xml",
     "artwork": "http://downloads.cdn.sesame.org/podcast/outreach/sp_ep13.jpg",
     "language": "es",
-    "avg_duration_min": 0
+    "avg_duration_min": 0,
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "the-bedtime-scientist-calm-science-for-sleepy-kids",
@@ -1652,7 +1999,12 @@
     "added_at": "2026-04-10T08:21:07Z",
     "avgDurationMinutes": 10,
     "ageRange": "5-10",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "science",
+      "emotions"
+    ]
   },
   {
     "id": "curious-kid-podcast",
@@ -1661,7 +2013,12 @@
     "rss": "https://feeds.libsyn.com/576495/rss",
     "artwork": "https://static.libsyn.com/p/assets/e/e/5/1/ee51ad557de2f0d516c3140a3186d450/CuriousKidsEveryDay_FinalLogo.jpg",
     "language": "en",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "science",
+      "emotions"
+    ]
   },
   {
     "id": "carpooling-with-jesus-bible-stories-for-kids-devotionals-daily-devotional-for-kids-daily-christian-kids-devotional",
@@ -1682,7 +2039,12 @@
     "rss": "https://feeds.redcircle.com/9567fb37-8753-417b-9460-fc2619f2c64f",
     "artwork": "https://media.redcircle.com/images/2025/1/26/18/a803262a-7685-460d-9682-3cb73e8f2e28_2c-b760-43a5-b33f-2c139e7bfc47_favicon-32x32-1.jpg",
     "language": "en",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "culture",
+      "history"
+    ]
   },
   {
     "id": "maddie-s-sound-explorers",
@@ -1703,7 +2065,12 @@
     "rss": "https://feeds.megaphone.fm/ESP4751925729",
     "artwork": "https://megaphone.imgix.net/podcasts/9c266f68-7e69-11ea-97e1-1bd3af9fcebe/image/7186b9fc58c1149164773ef0c498a748.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "avg_duration_min": 24
+    "avg_duration_min": 24,
+    "tags": [
+      "stories",
+      "history",
+      "culture"
+    ]
   },
   {
     "id": "the-cat-in-the-hat-cast",
@@ -1715,7 +2082,12 @@
     "added_at": "2026-04-10T08:26:18Z",
     "avgDurationMinutes": 20,
     "ageRange": "3-7",
-    "avg_duration_min": 22
+    "avg_duration_min": 22,
+    "tags": [
+      "stories",
+      "humor",
+      "music"
+    ]
   },
   {
     "id": "football-for-kids",
@@ -1727,7 +2099,11 @@
     "added_at": "2026-04-10T08:26:19Z",
     "avgDurationMinutes": 15,
     "ageRange": "8-14",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   },
   {
     "id": "tales-of-extinction",
@@ -1739,7 +2115,12 @@
     "added_at": "2026-04-10T08:26:23Z",
     "avgDurationMinutes": 20,
     "ageRange": "8-12",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "animals",
+      "history",
+      "stories"
+    ]
   },
   {
     "id": "wealthy-reader-s-club-the-cat-in-the-hat",
@@ -1760,7 +2141,11 @@
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/63d157bc-8b41-44b2-b851-ab5000aab6fa/22e8ed46-cfcc-449f-ba0d-ad120102d9a3/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/63d157bc-8b41-44b2-b851-ab5000aab6fa/22e8ed46-cfcc-449f-ba0d-ad120102d9a3/image.jpg?t=1766395998&size=Large",
     "language": "en",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "humor",
+      "culture"
+    ]
   },
   {
     "id": "armchair-adventures-a-join-in-story-podcast-for-kids",
@@ -1772,7 +2157,13 @@
     "added_at": "2026-04-10T08:26:26Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-8",
-    "avg_duration_min": 18
+    "avg_duration_min": 18,
+    "tags": [
+      "stories",
+      "music",
+      "history",
+      "culture"
+    ]
   },
   {
     "id": "little-stories-for-tiny-people-anytime-and-bedtime-stories-for-kids",
@@ -1781,7 +2172,12 @@
     "rss": "https://www.littlestoriestinypeople.com/podcast.xml",
     "artwork": "https://object.littlestoriestinypeople.com/lstp/img/2025_podcast_banner.jpg",
     "language": "en",
-    "avg_duration_min": 24
+    "avg_duration_min": 24,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   },
   {
     "id": "build-the-change-planet-people-podcast",
@@ -1805,7 +2201,12 @@
     "added_at": "2026-04-10T19:40:26Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 42
+    "avg_duration_min": 42,
+    "tags": [
+      "stories",
+      "humor",
+      "interview"
+    ]
   },
   {
     "id": "przedszkojak-tola-i-nelek-audiobajki-dla-dzieci",
@@ -1817,7 +2218,12 @@
     "added_at": "2026-04-10T20:01:55Z",
     "avgDurationMinutes": 12,
     "ageRange": "3-7",
-    "avg_duration_min": 16
+    "avg_duration_min": 16,
+    "tags": [
+      "stories",
+      "emotions",
+      "humor"
+    ]
   },
   {
     "id": "takie-bajki-na-dobranoc-i-do-wspolnej-zabawy",
@@ -1841,7 +2247,12 @@
     "added_at": "2026-04-10T20:04:57Z",
     "avgDurationMinutes": 12,
     "ageRange": "3-8",
-    "avg_duration_min": 16
+    "avg_duration_min": 16,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "music"
+    ]
   },
   {
     "id": "two-stories-dwie-bajki",
@@ -1853,7 +2264,11 @@
     "added_at": "2026-04-10T20:05:07Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 20
+    "avg_duration_min": 20,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "pumuckl-der-horspiel-klassiker",
@@ -1862,7 +2277,12 @@
     "rss": "https://feeds.br.de/pumuckl/feed.xml",
     "artwork": "https://img.br.de/e9ae87d5-1153-4fb6-a20e-91076325cf26.jpeg?fm=jpg",
     "language": "de",
-    "avg_duration_min": 27
+    "avg_duration_min": 27,
+    "tags": [
+      "stories",
+      "humor",
+      "drama"
+    ]
   },
   {
     "id": "einschlafen-mit-hogwarts",
@@ -1874,7 +2294,11 @@
     "added_at": "2026-04-11T04:41:53Z",
     "avgDurationMinutes": 30,
     "ageRange": "8-14",
-    "avg_duration_min": 25
+    "avg_duration_min": 25,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "tigerenten-club-die-hor-spiel-show",
@@ -1943,7 +2367,12 @@
     "added_at": "2026-04-11T04:49:27Z",
     "avgDurationMinutes": 30,
     "ageRange": "6-12",
-    "avg_duration_min": 52
+    "avg_duration_min": 52,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "humor"
+    ]
   },
   {
     "id": "wer-wie-buzz",
@@ -1955,7 +2384,13 @@
     "added_at": "2026-04-11T04:47:46Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "quiz",
+      "humor",
+      "science",
+      "animals"
+    ]
   },
   {
     "id": "kollin-klaff-fur-kinder-horspiel",
@@ -1988,7 +2423,12 @@
     "added_at": "2026-04-11T04:50:07Z",
     "avgDurationMinutes": 30,
     "ageRange": "6-12",
-    "avg_duration_min": 23
+    "avg_duration_min": 23,
+    "tags": [
+      "stories",
+      "drama",
+      "humor"
+    ]
   },
   {
     "id": "die-pfefferkorner-die-falle-als-horspiel",
@@ -2000,7 +2440,12 @@
     "added_at": "2026-04-11T04:49:57Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 0
+    "avg_duration_min": 0,
+    "tags": [
+      "stories",
+      "drama",
+      "humor"
+    ]
   },
   {
     "id": "die-sachsen-detektive",
@@ -2012,7 +2457,12 @@
     "added_at": "2026-04-11T05:53:37Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "stories",
+      "geography",
+      "humor"
+    ]
   },
   {
     "id": "kakadu-das-kinderhorspiel",
@@ -2021,7 +2471,11 @@
     "rss": "https://www.kakadu.de/kinderhoerspiel-118.xml",
     "artwork": "https://bilder.deutschlandfunk.de/FI/LE/_9/ac/FILE_9ac926df16c242d33aa4876fd8be2676/kakadu-kinderhoerspiel-104-1920x1920.jpg",
     "language": "de",
-    "avg_duration_min": 38
+    "avg_duration_min": 38,
+    "tags": [
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "quatsch-weisheit-kinder-reden-uber-die-welt-und-uberhaupt",
@@ -2030,7 +2484,12 @@
     "rss": "https://feeds.br.de/quatsch-weisheit-kinder-reden-ueber-die-welt-und-ueberhaupt/feed.xml",
     "artwork": "https://img.br.de/343cc999-3240-4bb1-b8f1-82193dd9396f.jpeg?fm=jpg",
     "language": "de",
-    "avg_duration_min": 25
+    "avg_duration_min": 25,
+    "tags": [
+      "emotions",
+      "culture",
+      "interview"
+    ]
   },
   {
     "id": "tilda-and-quatsch-monster",
@@ -2051,7 +2510,12 @@
     "added_at": "2026-04-11T05:58:12Z",
     "avgDurationMinutes": 8,
     "ageRange": "8-14",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "interview",
+      "geography",
+      "culture"
+    ]
   },
   {
     "id": "national-park-scouts",
@@ -2084,7 +2548,12 @@
     "added_at": "2026-06-09T06:25:54Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "animals"
+    ]
   },
   {
     "id": "rebel-girls",
@@ -2096,7 +2565,13 @@
     "added_at": "2026-06-11T17:41:23Z",
     "avgDurationMinutes": 20,
     "ageRange": "7-14",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "interview",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "rebel-girls-growing-up-powerful",
@@ -2108,7 +2583,12 @@
     "added_at": "2026-06-11T17:41:26Z",
     "avgDurationMinutes": 20,
     "ageRange": "8-14",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "emotions",
+      "humor",
+      "culture"
+    ]
   },
   {
     "id": "rebel-girls-dream-on",
@@ -2120,7 +2600,11 @@
     "added_at": "2026-06-11T17:41:28Z",
     "avgDurationMinutes": 20,
     "ageRange": "7-14",
-    "avg_duration_min": 21
+    "avg_duration_min": 21,
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "who-smarted-educational-podcast-for-kids",
@@ -2132,7 +2616,12 @@
     "added_at": "2026-06-11T17:41:44Z",
     "avgDurationMinutes": 20,
     "ageRange": "7-12",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "humor",
+      "quiz",
+      "science"
+    ]
   },
   {
     "id": "lyrus-strafraum-der-fussball-podcast-fur-kinder-und-coole-erwachsene",
@@ -2177,7 +2666,12 @@
     "rss": "https://anchor.fm/s/fe31a5e8/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42546666/eec0f8cb41bc570d.jpg",
     "language": "de",
-    "avg_duration_min": 14
+    "avg_duration_min": 14,
+    "tags": [
+      "stories",
+      "animals",
+      "humor"
+    ]
   },
   {
     "id": "der-kleine-ice-seine-fantastischen-abenteuer",
@@ -2197,7 +2691,11 @@
     "artwork": "https://substackcdn.com/feed/podcast/695898/dd1c62771cebaecf835e6ba3c5085434.jpg",
     "language": "en",
     "added_at": "2026-06-16T12:00:32Z",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "emotions",
+      "interview"
+    ]
   },
   {
     "id": "clever-nachgefragt-der-kinder-uni-podcast",
@@ -2207,7 +2705,12 @@
     "artwork": "https://images.podigee-cdn.net/0x,sc9kUzVEjv3Cs2MGF341iOPzTj7EPaFgFC4tHWeJiGSs=/https://main.podigee-cdn.net/uploads/u70010/a53c3aa2-173f-43bf-83a9-b1638a25fb28.jpg",
     "language": "de",
     "added_at": "2026-07-12T13:48:58Z",
-    "avg_duration_min": 16
+    "avg_duration_min": 16,
+    "tags": [
+      "science",
+      "nature",
+      "interview"
+    ]
   },
   {
     "id": "my-first-podcast-sound-adventures-for-tiny-kids-and-parents",
@@ -2217,7 +2720,12 @@
     "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8227d7e0-b02d-4774-a478-b354012923f9/ae888b4e-e29e-4a54-8190-b35401292401/image.jpg?t=1757527312&size=Large",
     "language": "en",
     "added_at": "2026-06-16T12:00:37Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "music",
+      "emotions"
+    ]
   },
   {
     "id": "kids-quiz-by-fun-fables",
@@ -2247,7 +2755,12 @@
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/02/0112737f-d6ff-42aa-892c-d0d4cf001669/1400x1400_vpc_rf_omm_0000037863_ite.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:00Z",
-    "avg_duration_min": 26
+    "avg_duration_min": 26,
+    "tags": [
+      "stories",
+      "drama",
+      "music"
+    ]
   },
   {
     "id": "yummi-der-kinderpodcast",
@@ -2267,7 +2780,12 @@
     "artwork": "https://media.rss.com/10-minute-drive/20250110_050121_6af16a00bc2e08af033c1020badede38.png",
     "language": "en",
     "added_at": "2026-06-16T12:01:44Z",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "humor",
+      "science"
+    ]
   },
   {
     "id": "lyla-s-loopcast",
@@ -2307,7 +2825,12 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a77548c180f5b576b074750d3ad14f91.jpg",
     "language": "nl",
     "added_at": "2026-07-14T07:20:01Z",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "animals"
+    ]
   },
   {
     "id": "ririro-com-nl-verhaaltjes-6-10-jaar",
@@ -2317,7 +2840,12 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a77548c180f5b576b074750d3ad14f91.jpg",
     "language": "nl",
     "added_at": "2026-07-14T07:20:02Z",
-    "avg_duration_min": 52
+    "avg_duration_min": 52,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "drama"
+    ]
   },
   {
     "id": "ririro-com-pt-historias-0-6-anos",
@@ -2337,7 +2865,11 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a77548c180f5b576b074750d3ad14f91.jpg",
     "language": "pt",
     "added_at": "2026-07-14T07:20:11Z",
-    "avg_duration_min": 2
+    "avg_duration_min": 2,
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "ririro-bajki-dla-dzieci",
@@ -2357,7 +2889,12 @@
     "artwork": "https://cdn6.polskieradio.pl/cdn/dev/f2f8c2af-d4db-4c4d-875c-3aada92895c3/1400x1400_zwierzaczki_01A.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:40:50Z",
-    "avg_duration_min": 27
+    "avg_duration_min": 27,
+    "tags": [
+      "animals",
+      "nature",
+      "interview"
+    ]
   },
   {
     "id": "wspolne-swietowanie-z-michasiem-i-adasiem",
@@ -2427,7 +2964,12 @@
     "artwork": "https://cdn6.polskieradio.pl/cdn/0292d066-af89-4cb7-ac59-3559bcf2d33f/Podcast_okladka_gdzie_paw_mowi_dzien_dobry1400x1400_.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:48Z",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "history",
+      "culture",
+      "interview"
+    ]
   },
   {
     "id": "zimowy-kurs-przetrwania",
@@ -2457,7 +2999,13 @@
     "artwork": "https://static.prsa.pl/images/ff85e405-0b79-4eb0-a636-198b19640587.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:54Z",
-    "avg_duration_min": 21
+    "avg_duration_min": 21,
+    "tags": [
+      "stories",
+      "geography",
+      "nature",
+      "science"
+    ]
   },
   {
     "id": "ciekawostnik-podcast-dla-dzieci-ciekawych-swiata-i-tych-znudzonych-tez",
@@ -2487,7 +3035,12 @@
     "artwork": "https://static.prsa.pl/images/f27becfb-9009-4678-9269-73586d7178a2.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:50Z",
-    "avg_duration_min": 21
+    "avg_duration_min": 21,
+    "tags": [
+      "interview",
+      "geography",
+      "culture"
+    ]
   },
   {
     "id": "nie-boj-zaby-odkrywaj",
@@ -2527,7 +3080,12 @@
     "artwork": "https://static.prsa.pl/images/0197b253-b8c9-424e-afc8-ce58181285c2.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:49Z",
-    "avg_duration_min": 25
+    "avg_duration_min": 25,
+    "tags": [
+      "geography",
+      "culture",
+      "stories"
+    ]
   },
   {
     "id": "opowiesci-ludow-swiata",
@@ -2547,7 +3105,11 @@
     "artwork": "https://static.prsa.pl/images/b7679edd-c04a-48eb-aa06-b233b0303dc6.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:52Z",
-    "avg_duration_min": 24
+    "avg_duration_min": 24,
+    "tags": [
+      "emotions",
+      "culture"
+    ]
   },
   {
     "id": "smok-adas-ratuje-planete-razem-z-dziecmi",
@@ -2557,7 +3119,12 @@
     "artwork": "https://static.prsa.pl/images/f7c61251-8420-402f-ab3f-d71969a4c32a.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:53Z",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "nature",
+      "animals",
+      "humor"
+    ]
   },
   {
     "id": "z-pania-literka-rozmowy-o-jezyku",
@@ -2567,7 +3134,11 @@
     "artwork": "https://static.prsa.pl/images/30097ef5-822c-4139-8189-440e9ff18ab0.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:54Z",
-    "avg_duration_min": 20
+    "avg_duration_min": 20,
+    "tags": [
+      "culture",
+      "interview"
+    ]
   },
   {
     "id": "smok-i-mis-ida-do-szko-y",
@@ -2595,7 +3166,12 @@
     "rss": "https://podcast.hr.de/hr2_wunderwigwam/podcast.xml",
     "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/hr2_wunderwigwam_channel.jpg",
     "language": "de",
-    "avg_duration_min": 20
+    "avg_duration_min": 20,
+    "tags": [
+      "stories",
+      "science",
+      "humor"
+    ]
   },
   {
     "id": "insekten",
@@ -2614,7 +3190,12 @@
     "artwork": "https://megaphone.imgix.net/podcasts/5ef9b98a-e80e-11ed-aa58-0b40d062cadb/image/2c9cc6d3d70c82b06d188b8e160b176f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
     "added_at": "2026-06-16T11:53:10Z",
-    "avg_duration_min": 17
+    "avg_duration_min": 17,
+    "tags": [
+      "stories",
+      "animals",
+      "emotions"
+    ]
   },
   {
     "id": "the-bible-for-kids-podcast",
@@ -2623,7 +3204,12 @@
     "rss": "https://feeds.redcircle.com/5fb34146-c718-4300-8136-f3619c4152a9",
     "artwork": "https://media.redcircle.com/images/2024/2/12/17/06972155-63f0-4453-a1b3-d02e43e46513_-41a5-8da1-7c84eae9ffe2_2022logowithbackground.jpg",
     "language": "en",
-    "avg_duration_min": 31
+    "avg_duration_min": 31,
+    "tags": [
+      "stories",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "fun-fables-bedtime-stories-with-a-twist",
@@ -2643,7 +3229,11 @@
     "artwork": "https://artwork.captivate.fm/1c0f963e-7174-43bd-bfa7-33123664d921/KVP-COVER-NO-TAG.jpeg",
     "language": "en",
     "added_at": "2026-06-16T12:00:27Z",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "quiz",
+      "humor"
+    ]
   },
   {
     "id": "tintin-en-amerique",
@@ -2653,7 +3243,12 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/c9a77585-dce0-47c2-8b1c-8599d09fa968.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:01Z",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "history",
+      "geography"
+    ]
   },
   {
     "id": "hey-young-world-fables-fiction-fun-with-stalina-goodwin",
@@ -2663,7 +3258,12 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/256953/256953-1768452661767-d0f4c22348c26.jpg",
     "language": "en",
     "added_at": "2026-07-13T10:30:04Z",
-    "avg_duration_min": 1
+    "avg_duration_min": 1,
+    "tags": [
+      "stories",
+      "fables",
+      "humor"
+    ]
   },
   {
     "id": "olma",
@@ -2673,7 +3273,11 @@
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production/2021/12/e7359854-3251-490e-9aa8-f9f67b2da73a/1400x1400_rf_omm_0000032592_ite.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:44Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "science",
+      "experiments"
+    ]
   },
   {
     "id": "aaron-s-world",
@@ -2683,7 +3287,12 @@
     "artwork": "https://static.libsyn.com/p/assets/2/6/b/7/26b79d0148cc2f49/NewAWIcon.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:12:31Z",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "science",
+      "drama",
+      "animals"
+    ]
   },
   {
     "id": "farmer-brown-s-dinosaur-farm",
@@ -2723,7 +3332,12 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/02438b8f-5d4b-45fa-b7e7-d5ebdee0b7f6.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:38:56Z",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "drama",
+      "history"
+    ]
   },
   {
     "id": "les-aventures-de-tintin-la-chasse-au-tresor",
@@ -2733,7 +3347,12 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/9bd0b0ef-8f4c-4b10-b7b3-5f492db04ade.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:38:57Z",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "drama",
+      "history"
+    ]
   },
   {
     "id": "les-aventures-de-tintin-aventures-lunaires",
@@ -2773,7 +3392,13 @@
     "artwork": "https://medias.podcastics.com/podcastics/podcasts/artwork/a-lecoute.jpg.2071b7e85b8bb826306f873fc1b0bbb7.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:23Z",
-    "avg_duration_min": 8
+    "avg_duration_min": 8,
+    "tags": [
+      "nature",
+      "culture",
+      "emotions",
+      "stories"
+    ]
   },
   {
     "id": "imagination-meditation",
@@ -2793,7 +3418,12 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39449493/39449493-1763610241337-7589c376ad598.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:11:13Z",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "music"
+    ]
   },
   {
     "id": "once-upon-a-crescent-muslim-kids-podcast",
@@ -2803,7 +3433,12 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40414979/7da34b9764cb8611.png",
     "language": "en",
     "added_at": "2026-07-15T07:14:13Z",
-    "avg_duration_min": 14
+    "avg_duration_min": 14,
+    "tags": [
+      "stories",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "millie-d-et-farfelu-rts",
@@ -2813,7 +3448,12 @@
     "artwork": "https://img.rts.ch/articles/2026/image/cv74e6-29134877.image?w=1400&h=1400&extension=.png",
     "language": "fr",
     "added_at": "2026-07-14T06:59:17Z",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "geography",
+      "culture"
+    ]
   },
   {
     "id": "courvole-aventures",
@@ -2843,7 +3483,11 @@
     "artwork": "https://assets.pippa.io/shows/cover/1677863706945-1f94eae629bf42d49caed22723373f7b.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:20Z",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "emotions",
+      "body"
+    ]
   },
   {
     "id": "les-aventures-de-papoush-et-petit-pouce",
@@ -2853,7 +3497,12 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/42d17e51-795f-447d-9f78-449648f93423/b05a839c-6314-4901-83fd-6dc32071b7a7.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:24Z",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "history",
+      "culture"
+    ]
   },
   {
     "id": "mitologia",
@@ -2913,7 +3562,12 @@
     "artwork": "https://cdn.audiorella.com/podcasts/1786-laluna-traumreisen-zum-einschlafen/1786_cover.jpg?v=3",
     "language": "de",
     "added_at": "2026-06-16T11:58:47Z",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   },
   {
     "id": "ririro-com-de-geschichten-0-6-jahre",
@@ -2933,7 +3587,12 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a77548c180f5b576b074750d3ad14f91.jpg",
     "language": "de",
     "added_at": "2026-07-14T07:19:58Z",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "fables"
+    ]
   },
   {
     "id": "das-geheimnis-musikalische-ratsel-und-krimis-zum-mitraten",
@@ -2943,7 +3602,12 @@
     "artwork": "https://img.br.de/7b9a26a1-86b1-4155-a8e9-ed3ad6229d55.jpeg?fm=jpg",
     "language": "de",
     "added_at": "2026-07-14T18:23:45Z",
-    "avg_duration_min": 28
+    "avg_duration_min": 28,
+    "tags": [
+      "music",
+      "quiz",
+      "drama"
+    ]
   },
   {
     "id": "die-marchen-der-bruder-grimm",
@@ -2963,7 +3627,12 @@
     "artwork": "https://static.hr.de/radio/podcast_bilder/hr2/channelbild-erzaehlpodcast-kinder-1400.jpg",
     "language": "de",
     "added_at": "2026-07-14T18:24:14Z",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "animals"
+    ]
   },
   {
     "id": "sing-a-song-be-happy",
@@ -2973,7 +3642,11 @@
     "artwork": "https://images.podigee-cdn.net/0x,sc1Sj_qc43DoRQGStkbKcEg5koC8AXC8NBAD1jixF1lA=/https://main.podigee-cdn.net/uploads/u51101/6ba9cf13-646c-40db-b6a8-772d8968a82d.jpg",
     "language": "de",
     "added_at": "2026-07-14T07:50:01Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "music",
+      "interview"
+    ]
   },
   {
     "id": "nice-to-meet-you",
@@ -2983,7 +3656,11 @@
     "artwork": "https://artwork.captivate.fm/141de401-e74b-4d02-9324-dfb23800b7fd/wpy3H8PcG-EQH1MhfrgJuSL.jpg",
     "language": "de",
     "added_at": "2026-07-14T07:14:14Z",
-    "avg_duration_min": 41
+    "avg_duration_min": 41,
+    "tags": [
+      "interview",
+      "culture"
+    ]
   },
   {
     "id": "barti-on-air-der-podcast-fur-dein-abenteuer-welt-reisen-mit-kind",
@@ -2993,7 +3670,12 @@
     "artwork": "https://baertimussmit.de/wp-content/uploads/2016/05/bartionair_Podcast-Logo.jpg",
     "language": "de",
     "added_at": "2026-06-16T11:53:21Z",
-    "avg_duration_min": 0
+    "avg_duration_min": 0,
+    "tags": [
+      "geography",
+      "culture",
+      "interview"
+    ]
   },
   {
     "id": "big-baaam-wissen-ohne-filter",
@@ -3013,7 +3695,11 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3759279/3759279-1612777322555-55dea513c4b65.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:24Z",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "graine-de-scientifique",
@@ -3043,7 +3729,13 @@
     "artwork": "https://assets.pippa.io/shows/64b6753c923f19001147e161/1693821102753-775080ca66bb09885390461c00632cc2.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:43Z",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "animals",
+      "science",
+      "nature",
+      "geography"
+    ]
   },
   {
     "id": "les-podcasts-okoo",
@@ -3083,7 +3775,11 @@
     "artwork": "https://image.ausha.co/EAp0nHKIr3U33Ml08s4CnvG8ymwLMuqvc0JuKzeD_1400x1400.jpeg?t=1718364746",
     "language": "fr",
     "added_at": "2026-07-14T06:59:18Z",
-    "avg_duration_min": 5
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   },
   {
     "id": "odd-squadcast",
@@ -3103,7 +3799,12 @@
     "artwork": "https://assets.pippa.io/shows/cover/1690386763876-bed38cfeb12be55857bbaf5e65264c05.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T07:18:11Z",
-    "avg_duration_min": 19
+    "avg_duration_min": 19,
+    "tags": [
+      "music",
+      "culture",
+      "interview"
+    ]
   },
   {
     "id": "encore-une-histoire",
@@ -3113,7 +3814,12 @@
     "artwork": "https://assets.pippa.io/shows/670d1795df4dd6f896655670/show-cover.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:40Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "drama"
+    ]
   },
   {
     "id": "mythes-et-legendes",
@@ -3143,7 +3849,12 @@
     "artwork": "https://static.libsyn.com/p/assets/9/e/8/e/9e8e04b84a6a64fb16c3140a3186d450/Untitled_design.png",
     "language": "en",
     "added_at": "2026-06-16T11:50:22Z",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "culture",
+      "emotions"
+    ]
   },
   {
     "id": "conte-moi-l-aventure",
@@ -3163,7 +3874,11 @@
     "artwork": "https://assets.pippa.io/shows/619570212eacc3a36070252b/1767609079904-4946f769-c0f7-44fc-9f18-fc1589ac53dc.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   },
   {
     "id": "histoires-pour-dormir-de-patricia",
@@ -3193,7 +3908,12 @@
     "artwork": "https://assets.pippa.io/shows/6798ff9d60e68f77d5aa65b0/1740658242339-9989056a-77e9-4d70-a630-8675ff858d37.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "geography",
+      "music"
+    ]
   },
   {
     "id": "mets-tes-ecoute-coeur",
@@ -3203,7 +3923,12 @@
     "artwork": "https://storage.buzzsprout.com/rb02hw9nvc6g7ngigzbaaqascie8?.jpg",
     "language": "fr-fr",
     "added_at": "2026-07-14T06:58:41Z",
-    "avg_duration_min": 18
+    "avg_duration_min": 18,
+    "tags": [
+      "stories",
+      "emotions",
+      "music"
+    ]
   },
   {
     "id": "les-aventures-nature-de-camille-et-leo",
@@ -3213,7 +3938,12 @@
     "artwork": "https://image.ausha.co/6VmhnDOu0vkYr9ZmkR9WrO88Y61EDcQYrc2whQbN_1400x1400.jpeg?t=1652862108",
     "language": "fr",
     "added_at": "2026-07-14T06:58:42Z",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "nature",
+      "animals",
+      "stories"
+    ]
   },
   {
     "id": "les-histoires-du-soir",
@@ -3243,7 +3973,12 @@
     "artwork": "https://image.ausha.co/X7m2yzKNi7APX9DMKzk9kzLt2AGMIQAmbyh8wckB_1400x1400.jpeg?t=1722246901",
     "language": "fr",
     "added_at": "2026-07-14T06:58:45Z",
-    "avg_duration_min": 7
+    "avg_duration_min": 7,
+    "tags": [
+      "history",
+      "interview",
+      "quiz"
+    ]
   },
   {
     "id": "au-pays-des-histoires",
@@ -3253,7 +3988,12 @@
     "artwork": "https://medias.podcastics.com/podcastics/podcasts/artwork/au-pays-des-histoires.jpg.382a6b5d408def1e61395c8e2e649aec.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:18Z",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   },
   {
     "id": "mija-podcast-french",
@@ -3263,6 +4003,11 @@
     "artwork": "https://assets.pippa.io/shows/60dce106dd59a3ddc63d7e39/show-cover.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:19Z",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "culture",
+      "interview"
+    ]
   }
 ]
