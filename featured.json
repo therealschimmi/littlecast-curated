@@ -2737,7 +2737,12 @@
     "added_at": "2026-04-11T04:50:06Z",
     "avgDurationMinutes": 20,
     "ageRange": "6-12",
-    "avg_duration_min": 15
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "geography",
+      "humor"
+    ]
   },
   {
     "id": "die-villa-im-wald-ein-interaktives-kinder-abenteuer-horspiel",
@@ -3173,7 +3178,12 @@
     "artwork": "https://f.prxu.org/11676/images/be1c0b97-aaea-4ed7-ac4c-4025ddeaa752/Untitled_design__2.jpg",
     "language": "en",
     "added_at": "2026-06-11T20:09:18Z",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "emotions",
+      "humor"
+    ]
   },
   {
     "id": "les-dents-et-dodo",
@@ -3480,7 +3490,12 @@
     "artwork": "https://static.prsa.pl/images/be50cffb-3a32-40f9-b0d8-6a45133d2dda.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:51Z",
-    "avg_duration_min": 18
+    "avg_duration_min": 18,
+    "tags": [
+      "nature",
+      "animals",
+      "emotions"
+    ]
   },
   {
     "id": "jezyk-niemiecki",
@@ -3603,7 +3618,11 @@
     "rss": "https://www.mdr.de/tweens/podcast/tweenscreen/tween-screen-102-podcast.xml",
     "artwork": "https://images.mdr.de/image/6cf91827-f46b-4e83-8f69-64284aaf8396/AAABnSQl_xM/AAABnSStX0g/1x1-big/tween-screen-podcast-mdr-100.jpg?overlay=77061ae9-fcc1-47c7-a934-8fc60c5f2977&overlayModificationDate=AAABl3iUe8k&width=3000",
     "language": "de",
-    "avg_duration_min": 29
+    "avg_duration_min": 29,
+    "tags": [
+      "culture",
+      "interview"
+    ]
   },
   {
     "id": "hr2-wunderwigwam-der-kinderpodcast",
@@ -4515,7 +4534,11 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/9297174b-99b3-499c-999f-5959dffd11e3.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:43Z",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   },
   {
     "id": "betes-de-science",
