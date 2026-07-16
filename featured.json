@@ -4824,5 +4824,20 @@
       "geography",
       "history"
     ]
+  },
+  {
+    "id": "conte-et-raconte",
+    "title": "Conte et Raconte",
+    "publisher": "Thomas Buvignier",
+    "rss": "https://anchor.fm/s/d8b54414/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/36257581/36257581-1687969327272-e5bd8d0a21ab.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:21Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "culture"
+    ]
   }
 ]
