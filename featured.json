@@ -4868,5 +4868,19 @@
       "humor",
       "music"
     ]
+  },
+  {
+    "id": "les-chansons-de-bloom-la-radio-des-enfants",
+    "title": "Les chansons de Bloom la radio des enfants",
+    "publisher": "Bloom la radio des enfants",
+    "rss": "https://feeds.audiomeans.fr/feed/c67247a0-282e-49a6-b10d-04909afefca0.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/5d2e3833-11a8-4d1d-b975-e8afe575541d.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:01:19Z",
+    "avg_duration_min": 3,
+    "tags": [
+      "music",
+      "languages"
+    ]
   }
 ]
