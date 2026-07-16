@@ -241,16 +241,22 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "6-12",
+    "avg_duration_min": 26,
     "id": "flipsi",
     "title": "Flipsi",
     "publisher": "AOK Rheinland / Hamburg",
     "rss": "https://flipsi-findets-raus.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sbct0F8sRteFe6kDUru-f0MTJaO4YT1T33zhw-ovVj4c=/https://main.podigee-cdn.net/uploads/u9304/0b34d7ee-1616-4be2-a028-942ecb146d75.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "6-12",
-    "avg_duration_min": 26
+    "tags": [
+      "stories",
+      "science",
+      "body",
+      "emotions"
+    ]
   },
   {
     "id": "super-great-kids-stories",
