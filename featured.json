@@ -1591,16 +1591,19 @@
     ]
   },
   {
+    "added_at": "2026-03-25T22:30:06Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "3-8",
+    "avg_duration_min": 6,
     "id": "fiabe-per-bambini-audio-storie",
     "title": "Fiabe per bambini - Audio storie",
     "publisher": "Artisti Fuori Posto",
     "rss": "https://www.spreaker.com/show/4775020/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8bb6715280925aca0973723aff62c8d4.jpg",
     "language": "it",
-    "added_at": "2026-03-25T22:30:06Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "3-8",
-    "avg_duration_min": 6
+    "tags": [
+      "stories"
+    ]
   },
   {
     "id": "racconti-per-bambini-liberi",
