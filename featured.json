@@ -3204,5 +3204,15 @@
     "language": "fr-fr",
     "added_at": "2026-07-14T06:58:41Z",
     "avg_duration_min": 18
+  },
+  {
+    "id": "les-aventures-nature-de-camille-et-leo",
+    "title": "Les Aventures Nature de Camille et Léo",
+    "publisher": "Ekolien",
+    "rss": "https://feed.ausha.co/o9KvRXI7996d",
+    "artwork": "https://image.ausha.co/6VmhnDOu0vkYr9ZmkR9WrO88Y61EDcQYrc2whQbN_1400x1400.jpeg?t=1652862108",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:42Z",
+    "avg_duration_min": 10
   }
 ]
