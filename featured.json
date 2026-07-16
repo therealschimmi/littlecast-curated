@@ -5102,5 +5102,19 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "histoires-de-doudou",
+    "title": "Histoires de doudou",
+    "publisher": "France Inter",
+    "rss": "https://radiofrance-podcast.net/podcast09/podcast_8d53f49d-6a21-45fa-9f4b-8ce40df83913.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/10/67c444d0-f7b1-4063-8efe-26f360d9172c/1400x1400_sc_carre-histoire-de-doudou.jpg?1783931910597",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:18Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   }
 ]
