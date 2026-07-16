@@ -8,9 +8,10 @@
     "language": "de",
     "avg_duration_min": 21,
     "tags": [
+      "science",
       "experiments",
-      "nature",
-      "humor"
+      "humor",
+      "nature"
     ]
   },
   {
@@ -27,7 +28,8 @@
     "tags": [
       "humor",
       "emotions",
-      "culture"
+      "interview",
+      "music"
     ]
   },
   {
@@ -43,8 +45,8 @@
     "avg_duration_min": 60,
     "tags": [
       "stories",
-      "humor",
       "science",
+      "humor",
       "music"
     ]
   },
@@ -62,7 +64,7 @@
     "tags": [
       "space",
       "science",
-      "quiz"
+      "interview"
     ]
   },
   {
@@ -79,7 +81,7 @@
     "tags": [
       "body",
       "science",
-      "drama"
+      "stories"
     ]
   },
   {
@@ -94,10 +96,9 @@
     "ageRange": "6-12",
     "avg_duration_min": 23,
     "tags": [
-      "experiments",
       "humor",
-      "science",
-      "animals"
+      "experiments",
+      "science"
     ]
   },
   {
@@ -114,7 +115,7 @@
     "tags": [
       "science",
       "interview",
-      "experiments"
+      "quiz"
     ]
   },
   {
@@ -166,7 +167,7 @@
       "stories",
       "nature",
       "animals",
-      "culture"
+      "humor"
     ]
   },
   {
@@ -183,7 +184,7 @@
     "tags": [
       "animals",
       "nature",
-      "science"
+      "stories"
     ]
   },
   {
@@ -200,7 +201,8 @@
     "tags": [
       "geography",
       "science",
-      "interview"
+      "interview",
+      "nature"
     ]
   },
   {
@@ -215,10 +217,10 @@
     "ageRange": "8-12",
     "avg_duration_min": 24,
     "tags": [
+      "stories",
       "science",
-      "history",
       "culture",
-      "nature"
+      "history"
     ]
   },
   {
@@ -268,7 +270,8 @@
     "avg_duration_min": 28,
     "tags": [
       "stories",
-      "humor"
+      "humor",
+      "emotions"
     ]
   },
   {
@@ -302,9 +305,8 @@
     "avg_duration_min": 13,
     "tags": [
       "interview",
-      "stories",
-      "culture",
-      "emotions"
+      "emotions",
+      "stories"
     ]
   },
   {
@@ -334,7 +336,8 @@
     "avg_duration_min": 6,
     "tags": [
       "quiz",
-      "science"
+      "science",
+      "humor"
     ]
   },
   {
@@ -384,7 +387,8 @@
     "avg_duration_min": 4,
     "tags": [
       "emotions",
-      "culture"
+      "culture",
+      "body"
     ]
   },
   {
@@ -400,7 +404,7 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "fairy-tales"
+      "drama"
     ]
   },
   {
@@ -416,7 +420,8 @@
     "avg_duration_min": 18,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "drama"
     ]
   },
   {
@@ -432,7 +437,7 @@
     "avg_duration_min": 27,
     "tags": [
       "stories",
-      "fairy-tales"
+      "drama"
     ]
   },
   {
@@ -461,12 +466,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 30,
     "ageRange": "7-12",
-    "avg_duration_min": 29,
-    "tags": [
-      "science",
-      "humor",
-      "experiments"
-    ]
+    "avg_duration_min": 29
   },
   {
     "id": "tumble-science-podcast",
@@ -516,6 +516,7 @@
     "tags": [
       "science",
       "nature",
+      "geography",
       "culture"
     ]
   },
@@ -532,9 +533,8 @@
     "avg_duration_min": 26,
     "tags": [
       "science",
-      "stories",
       "humor",
-      "nature"
+      "stories"
     ]
   },
   {
@@ -549,9 +549,9 @@
     "ageRange": "8-14",
     "avg_duration_min": 30,
     "tags": [
-      "stories",
       "quiz",
-      "humor"
+      "humor",
+      "culture"
     ]
   },
   {
@@ -567,7 +567,8 @@
     "avg_duration_min": 10,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "drama"
     ]
   },
   {
@@ -600,8 +601,8 @@
     "avg_duration_min": 6,
     "tags": [
       "stories",
-      "fairy-tales",
-      "music"
+      "music",
+      "emotions"
     ]
   },
   {
@@ -617,7 +618,8 @@
     "avg_duration_min": 8,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "drama"
     ]
   },
   {
@@ -630,12 +632,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 5,
     "ageRange": "7-13",
-    "avg_duration_min": 19,
-    "tags": [
-      "emotions",
-      "humor",
-      "culture"
-    ]
+    "avg_duration_min": 19
   },
   {
     "id": "1jour1actu",
@@ -650,7 +647,8 @@
     "avg_duration_min": 4,
     "tags": [
       "quiz",
-      "culture"
+      "culture",
+      "humor"
     ]
   },
   {
@@ -665,8 +663,9 @@
     "ageRange": "8-14",
     "avg_duration_min": 14,
     "tags": [
+      "history",
       "stories",
-      "history"
+      "drama"
     ]
   },
   {
@@ -683,7 +682,7 @@
     "tags": [
       "stories",
       "culture",
-      "history"
+      "emotions"
     ]
   },
   {
@@ -715,8 +714,8 @@
     "ageRange": "3-8",
     "avg_duration_min": 6,
     "tags": [
-      "stories",
       "fairy-tales",
+      "stories",
       "fables"
     ]
   },
@@ -733,7 +732,8 @@
     "avg_duration_min": 2,
     "tags": [
       "stories",
-      "drama"
+      "drama",
+      "humor"
     ]
   },
   {
@@ -748,7 +748,7 @@
     "ageRange": "3-8",
     "tags": [
       "stories",
-      "emotions"
+      "fairy-tales"
     ]
   },
   {
@@ -764,8 +764,8 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "fairy-tales",
-      "drama"
+      "emotions",
+      "humor"
     ]
   },
   {
@@ -798,7 +798,7 @@
     "avg_duration_min": 4,
     "tags": [
       "stories",
-      "fairy-tales",
+      "drama",
       "emotions"
     ]
   },
@@ -815,7 +815,7 @@
     "avg_duration_min": 2,
     "tags": [
       "science",
-      "experiments"
+      "interview"
     ]
   },
   {
@@ -830,6 +830,7 @@
     "ageRange": "5-12",
     "avg_duration_min": 1,
     "tags": [
+      "stories",
       "humor",
       "culture"
     ]
@@ -863,7 +864,6 @@
     "avg_duration_min": 1,
     "tags": [
       "science",
-      "experiments",
       "humor"
     ]
   },
@@ -879,7 +879,8 @@
     "ageRange": "4-10",
     "avg_duration_min": 16,
     "tags": [
-      "culture",
+      "languages",
+      "humor",
       "interview"
     ]
   },
@@ -926,12 +927,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "7-12",
-    "avg_duration_min": 17,
-    "tags": [
-      "science",
-      "humor",
-      "body"
-    ]
+    "avg_duration_min": 17
   },
   {
     "id": "wetenschapje",
@@ -947,7 +943,7 @@
     "tags": [
       "science",
       "experiments",
-      "interview"
+      "nature"
     ]
   },
   {
@@ -960,12 +956,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-10",
-    "avg_duration_min": 22,
-    "tags": [
-      "animals",
-      "nature",
-      "science"
-    ]
+    "avg_duration_min": 22
   },
   {
     "id": "mission-feeler",
@@ -997,9 +988,9 @@
     "avg_duration_min": 13,
     "tags": [
       "emotions",
-      "science",
-      "body",
-      "humor"
+      "humor",
+      "interview",
+      "science"
     ]
   },
   {
@@ -1014,9 +1005,8 @@
     "ageRange": "8-14",
     "avg_duration_min": 21,
     "tags": [
-      "geography",
       "culture",
-      "history"
+      "geography"
     ]
   },
   {
@@ -1083,6 +1073,7 @@
     "avg_duration_min": 16,
     "tags": [
       "stories",
+      "interview",
       "culture"
     ]
   },
@@ -1099,7 +1090,8 @@
     "avg_duration_min": 8,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "humor"
     ]
   },
   {
@@ -1115,8 +1107,8 @@
     "avg_duration_min": 14,
     "tags": [
       "stories",
-      "nature",
-      "animals"
+      "animals",
+      "nature"
     ]
   },
   {
@@ -1129,12 +1121,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 7,
-    "tags": [
-      "stories",
-      "humor",
-      "animals"
-    ]
+    "avg_duration_min": 7
   },
   {
     "id": "dzieciandia",
@@ -1199,8 +1186,8 @@
     "ageRange": "3-8",
     "avg_duration_min": 9,
     "tags": [
-      "fairy-tales",
-      "stories"
+      "stories",
+      "fairy-tales"
     ]
   },
   {
@@ -1216,7 +1203,8 @@
     "avg_duration_min": 12,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "culture"
     ]
   },
   {
@@ -1231,9 +1219,9 @@
     "ageRange": "3-8",
     "avg_duration_min": 19,
     "tags": [
+      "stories",
       "nature",
       "animals",
-      "science",
       "experiments"
     ]
   },
@@ -1250,8 +1238,8 @@
     "avg_duration_min": 15,
     "tags": [
       "stories",
-      "culture",
-      "emotions"
+      "religion",
+      "drama"
     ]
   },
   {
@@ -1267,7 +1255,8 @@
     "avg_duration_min": 10,
     "tags": [
       "stories",
-      "drama"
+      "humor",
+      "emotions"
     ]
   },
   {
@@ -1351,8 +1340,8 @@
     "avg_duration_min": 24,
     "tags": [
       "stories",
-      "humor",
-      "drama"
+      "drama",
+      "humor"
     ]
   },
   {
@@ -1384,9 +1373,9 @@
     "ageRange": "5-10",
     "avg_duration_min": 10,
     "tags": [
-      "quiz",
-      "science",
-      "emotions"
+      "interview",
+      "emotions",
+      "science"
     ]
   },
   {
@@ -1401,8 +1390,9 @@
     "ageRange": "8-12",
     "avg_duration_min": 14,
     "tags": [
+      "history",
       "stories",
-      "history"
+      "culture"
     ]
   },
   {
@@ -1418,7 +1408,8 @@
     "avg_duration_min": 5,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "emotions"
     ]
   },
   {
@@ -1451,7 +1442,8 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "humor"
+      "humor",
+      "emotions"
     ]
   },
   {
@@ -1467,8 +1459,7 @@
     "avg_duration_min": 27,
     "tags": [
       "science",
-      "stories",
-      "emotions"
+      "stories"
     ]
   },
   {
@@ -1484,8 +1475,7 @@
     "avg_duration_min": 6,
     "tags": [
       "quiz",
-      "humor",
-      "culture"
+      "humor"
     ]
   },
   {
@@ -1518,7 +1508,8 @@
     "avg_duration_min": 36,
     "tags": [
       "humor",
-      "quiz"
+      "quiz",
+      "animals"
     ]
   },
   {
@@ -1531,12 +1522,7 @@
     "added_at": "2026-03-25T22:20:38Z",
     "avgDurationMinutes": 10,
     "ageRange": "8-13",
-    "avg_duration_min": 16,
-    "tags": [
-      "quiz",
-      "culture",
-      "science"
-    ]
+    "avg_duration_min": 16
   },
   {
     "id": "sleep-tight-relax-calming-bedtime-stories-and-meditations",
@@ -1581,12 +1567,7 @@
     "added_at": "2026-03-25T22:20:51Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 11,
-    "tags": [
-      "stories",
-      "nature",
-      "animals"
-    ]
+    "avg_duration_min": 11
   },
   {
     "id": "the-music-podcast-for-kids",
@@ -1618,7 +1599,7 @@
     "avg_duration_min": 13,
     "tags": [
       "stories",
-      "fairy-tales"
+      "languages"
     ]
   },
   {
@@ -1633,7 +1614,8 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8bb6715280925aca0973723aff62c8d4.jpg",
     "language": "it",
     "tags": [
-      "stories"
+      "stories",
+      "fairy-tales"
     ]
   },
   {
@@ -1649,7 +1631,8 @@
     "avg_duration_min": 3,
     "tags": [
       "stories",
-      "emotions"
+      "emotions",
+      "culture"
     ]
   },
   {
@@ -1678,11 +1661,7 @@
     "added_at": "2026-03-25T22:30:25Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 17,
-    "tags": [
-      "stories",
-      "fairy-tales"
-    ]
+    "avg_duration_min": 17
   },
   {
     "id": "maushorspiel-kurz",
@@ -1728,11 +1707,7 @@
     "added_at": "2026-03-27T13:36:09Z",
     "avgDurationMinutes": 7,
     "ageRange": "6-12",
-    "avg_duration_min": 4,
-    "tags": [
-      "geography",
-      "culture"
-    ]
+    "avg_duration_min": 4
   },
   {
     "id": "gute-nacht-mit-der-maus",
@@ -1748,8 +1723,7 @@
     "tags": [
       "stories",
       "humor",
-      "music",
-      "emotions"
+      "music"
     ]
   },
   {
@@ -1766,7 +1740,7 @@
     "tags": [
       "stories",
       "humor",
-      "music"
+      "drama"
     ]
   },
   {
@@ -1798,9 +1772,9 @@
     "ageRange": "5-10",
     "avg_duration_min": 11,
     "tags": [
-      "stories",
       "humor",
-      "animals"
+      "stories",
+      "drama"
     ]
   },
   {
@@ -1863,8 +1837,8 @@
     "avg_duration_min": 9,
     "tags": [
       "emotions",
-      "humor",
-      "drama"
+      "drama",
+      "humor"
     ]
   },
   {
@@ -1880,7 +1854,8 @@
     "avg_duration_min": 11,
     "tags": [
       "music",
-      "stories"
+      "stories",
+      "humor"
     ]
   },
   {
@@ -1896,8 +1871,8 @@
     "avg_duration_min": 8,
     "tags": [
       "stories",
-      "geography",
-      "culture"
+      "culture",
+      "geography"
     ]
   },
   {
@@ -1930,8 +1905,8 @@
     "avg_duration_min": 18,
     "tags": [
       "music",
-      "culture",
-      "interview"
+      "interview",
+      "humor"
     ]
   },
   {
@@ -1963,7 +1938,7 @@
     "ageRange": "8-14",
     "avg_duration_min": 11,
     "tags": [
-      "science",
+      "body",
       "culture",
       "humor"
     ]
@@ -1978,11 +1953,7 @@
     "added_at": "2026-03-31T06:33:47Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 9,
-    "tags": [
-      "stories",
-      "fairy-tales"
-    ]
+    "avg_duration_min": 9
   },
   {
     "id": "habia-una-vez-by-naran-xadul-cuentos-infantiles",
@@ -2012,7 +1983,8 @@
     "tags": [
       "stories",
       "fairy-tales",
-      "humor"
+      "humor",
+      "culture"
     ]
   },
   {
@@ -2045,7 +2017,7 @@
     "avg_duration_min": 5,
     "tags": [
       "stories",
-      "culture"
+      "languages"
     ]
   },
   {
@@ -2061,9 +2033,8 @@
     "avg_duration_min": 14,
     "tags": [
       "stories",
-      "culture",
-      "emotions",
-      "history"
+      "history",
+      "culture"
     ]
   },
   {
@@ -2077,8 +2048,7 @@
     "tags": [
       "stories",
       "history",
-      "culture",
-      "geography"
+      "culture"
     ]
   },
   {
@@ -2111,8 +2081,8 @@
     "avg_duration_min": 15,
     "tags": [
       "space",
-      "humor",
-      "drama"
+      "stories",
+      "humor"
     ]
   },
   {
@@ -2129,7 +2099,8 @@
     "tags": [
       "science",
       "nature",
-      "history"
+      "history",
+      "humor"
     ]
   },
   {
@@ -2163,8 +2134,8 @@
     "avg_duration_min": 15,
     "tags": [
       "science",
-      "experiments",
-      "nature"
+      "nature",
+      "experiments"
     ]
   },
   {
@@ -2207,11 +2178,7 @@
     "rss": "https://www.rte.ie/radio1/podcast/podcast_cereal.xml",
     "artwork": "https://img.rasset.ie/002099d5-3000.jpg",
     "language": "en",
-    "avg_duration_min": 11,
-    "tags": [
-      "drama",
-      "humor"
-    ]
+    "avg_duration_min": 11
   },
   {
     "id": "goodnight-world",
@@ -2227,7 +2194,7 @@
     "tags": [
       "stories",
       "emotions",
-      "nature"
+      "body"
     ]
   },
   {
@@ -2241,7 +2208,7 @@
     "tags": [
       "emotions",
       "humor",
-      "interview"
+      "quiz"
     ]
   },
   {
@@ -2258,7 +2225,7 @@
     "tags": [
       "emotions",
       "interview",
-      "quiz"
+      "languages"
     ]
   },
   {
@@ -2271,7 +2238,8 @@
     "avg_duration_min": 0,
     "tags": [
       "emotions",
-      "humor"
+      "humor",
+      "stories"
     ]
   },
   {
@@ -2284,7 +2252,8 @@
     "avg_duration_min": 0,
     "tags": [
       "stories",
-      "emotions"
+      "emotions",
+      "culture"
     ]
   },
   {
@@ -2297,12 +2266,7 @@
     "added_at": "2026-04-10T08:21:04Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-10",
-    "avg_duration_min": 11,
-    "tags": [
-      "science",
-      "nature",
-      "space"
-    ]
+    "avg_duration_min": 11
   },
   {
     "id": "curious-kids-every-day-a-daily-educational-podcast",
@@ -2316,9 +2280,9 @@
     "ageRange": "5-10",
     "avg_duration_min": 12,
     "tags": [
-      "stories",
       "science",
-      "emotions"
+      "emotions",
+      "humor"
     ]
   },
   {
@@ -2332,6 +2296,7 @@
     "tags": [
       "stories",
       "science",
+      "nature",
       "emotions"
     ]
   },
@@ -2348,7 +2313,8 @@
     "avg_duration_min": 5,
     "tags": [
       "stories",
-      "culture"
+      "religion",
+      "emotions"
     ]
   },
   {
@@ -2361,8 +2327,8 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "culture",
-      "history"
+      "religion",
+      "emotions"
     ]
   },
   {
@@ -2426,7 +2392,8 @@
     "avg_duration_min": 15,
     "tags": [
       "stories",
-      "humor"
+      "humor",
+      "history"
     ]
   },
   {
@@ -2443,7 +2410,8 @@
     "tags": [
       "animals",
       "history",
-      "stories"
+      "stories",
+      "quiz"
     ]
   },
   {
@@ -2460,7 +2428,7 @@
     "tags": [
       "stories",
       "humor",
-      "culture"
+      "emotions"
     ]
   },
   {
@@ -2473,7 +2441,8 @@
     "avg_duration_min": 12,
     "tags": [
       "humor",
-      "culture"
+      "culture",
+      "geography"
     ]
   },
   {
@@ -2489,8 +2458,8 @@
     "avg_duration_min": 18,
     "tags": [
       "stories",
-      "music",
       "history",
+      "science",
       "culture"
     ]
   },
@@ -2504,8 +2473,8 @@
     "avg_duration_min": 24,
     "tags": [
       "stories",
-      "fairy-tales",
-      "emotions"
+      "emotions",
+      "humor"
     ]
   },
   {
@@ -2555,8 +2524,8 @@
     "avg_duration_min": 16,
     "tags": [
       "stories",
-      "emotions",
-      "humor"
+      "drama",
+      "emotions"
     ]
   },
   {
@@ -2571,8 +2540,9 @@
     "ageRange": "3-8",
     "avg_duration_min": 8,
     "tags": [
+      "fairy-tales",
       "stories",
-      "fairy-tales"
+      "emotions"
     ]
   },
   {
@@ -2605,7 +2575,8 @@
     "avg_duration_min": 20,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "languages"
     ]
   },
   {
@@ -2618,8 +2589,8 @@
     "avg_duration_min": 27,
     "tags": [
       "stories",
-      "humor",
-      "drama"
+      "drama",
+      "humor"
     ]
   },
   {
@@ -2635,7 +2606,8 @@
     "avg_duration_min": 25,
     "tags": [
       "stories",
-      "fairy-tales"
+      "drama",
+      "humor"
     ]
   },
   {
@@ -2662,11 +2634,7 @@
     "rss": "https://feeds.br.de/alle-gegen-nico-zockt-um-die-quizkrone/feed.xml",
     "artwork": "https://img.br.de/d3118196-d8c7-4c23-bb26-6cf45baa5c66.jpeg?fm=jpg",
     "language": "de",
-    "avg_duration_min": 31,
-    "tags": [
-      "quiz",
-      "humor"
-    ]
+    "avg_duration_min": 31
   },
   {
     "id": "haschimitenfurst-der-bobcast",
@@ -2681,8 +2649,8 @@
     "avg_duration_min": 61,
     "tags": [
       "stories",
-      "drama",
-      "humor"
+      "humor",
+      "drama"
     ]
   },
   {
@@ -2732,6 +2700,7 @@
     "tags": [
       "stories",
       "fairy-tales",
+      "drama",
       "humor"
     ]
   },
@@ -2748,9 +2717,8 @@
     "avg_duration_min": 15,
     "tags": [
       "quiz",
-      "humor",
-      "science",
-      "animals"
+      "animals",
+      "humor"
     ]
   },
   {
@@ -2763,6 +2731,7 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
+      "drama",
       "humor",
       "emotions"
     ]
@@ -2796,8 +2765,8 @@
     "ageRange": "6-12",
     "avg_duration_min": 23,
     "tags": [
-      "stories",
       "drama",
+      "stories",
       "humor"
     ]
   },
@@ -2813,8 +2782,8 @@
     "ageRange": "8-14",
     "avg_duration_min": 0,
     "tags": [
-      "stories",
       "drama",
+      "stories",
       "humor"
     ]
   },
@@ -2845,7 +2814,8 @@
     "avg_duration_min": 38,
     "tags": [
       "stories",
-      "drama"
+      "drama",
+      "music"
     ]
   },
   {
@@ -2858,8 +2828,8 @@
     "avg_duration_min": 25,
     "tags": [
       "emotions",
-      "culture",
-      "interview"
+      "interview",
+      "culture"
     ]
   },
   {
@@ -2872,8 +2842,9 @@
     "avg_duration_min": 16,
     "tags": [
       "stories",
+      "drama",
       "humor",
-      "emotions"
+      "animals"
     ]
   },
   {
@@ -2888,9 +2859,9 @@
     "ageRange": "8-14",
     "avg_duration_min": 7,
     "tags": [
-      "interview",
-      "geography",
-      "culture"
+      "history",
+      "culture",
+      "geography"
     ]
   },
   {
@@ -2956,7 +2927,6 @@
     "tags": [
       "stories",
       "interview",
-      "culture",
       "emotions"
     ]
   },
@@ -2974,7 +2944,8 @@
     "tags": [
       "emotions",
       "humor",
-      "culture"
+      "interview",
+      "quiz"
     ]
   },
   {
@@ -3005,8 +2976,8 @@
     "ageRange": "7-12",
     "avg_duration_min": 12,
     "tags": [
-      "humor",
       "quiz",
+      "humor",
       "science"
     ]
   },
@@ -3039,8 +3010,8 @@
     "avg_duration_min": 12,
     "tags": [
       "science",
-      "quiz",
-      "experiments"
+      "nature",
+      "quiz"
     ]
   },
   {
@@ -3071,7 +3042,8 @@
     "tags": [
       "stories",
       "animals",
-      "humor"
+      "humor",
+      "geography"
     ]
   },
   {
@@ -3100,7 +3072,8 @@
     "avg_duration_min": 7,
     "tags": [
       "emotions",
-      "interview"
+      "interview",
+      "humor"
     ]
   },
   {
@@ -3129,7 +3102,7 @@
     "avg_duration_min": 12,
     "tags": [
       "stories",
-      "music",
+      "nature",
       "emotions"
     ]
   },
@@ -3145,8 +3118,7 @@
     "tags": [
       "quiz",
       "fables",
-      "humor",
-      "stories"
+      "humor"
     ]
   },
   {
@@ -3161,8 +3133,7 @@
     "tags": [
       "stories",
       "history",
-      "culture",
-      "emotions"
+      "culture"
     ]
   },
   {
@@ -3221,8 +3192,8 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "emotions",
-      "humor"
+      "humor",
+      "emotions"
     ]
   },
   {
@@ -3237,7 +3208,7 @@
     "tags": [
       "stories",
       "body",
-      "history"
+      "geography"
     ]
   },
   {
@@ -3355,8 +3326,7 @@
     "avg_duration_min": 27,
     "tags": [
       "culture",
-      "geography",
-      "stories"
+      "geography"
     ]
   },
   {
@@ -3371,8 +3341,8 @@
     "tags": [
       "stories",
       "history",
-      "nature",
-      "animals"
+      "animals",
+      "geography"
     ]
   },
   {
@@ -3386,8 +3356,8 @@
     "avg_duration_min": 38,
     "tags": [
       "stories",
-      "emotions",
-      "humor"
+      "humor",
+      "emotions"
     ]
   },
   {
@@ -3398,11 +3368,7 @@
     "artwork": "https://static.prsa.pl/images/9905b589-db7d-47ed-9233-a16e41e9d85c.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:41:23Z",
-    "avg_duration_min": 4,
-    "tags": [
-      "languages",
-      "culture"
-    ]
+    "avg_duration_min": 4
   },
   {
     "id": "poradnik-m-odego-odkrywcy",
@@ -3460,8 +3426,8 @@
     "avg_duration_min": 26,
     "tags": [
       "stories",
-      "humor",
-      "nature"
+      "nature",
+      "humor"
     ]
   },
   {
@@ -3472,10 +3438,7 @@
     "artwork": "https://cdn6.polskieradio.pl/cdn/dev/afa73444-87c2-4912-8d41-3ac9ca2715de/1400x1400_Alfabet%20Orkiestry.png",
     "language": "pl",
     "added_at": "2026-07-14T07:43:48Z",
-    "avg_duration_min": 15,
-    "tags": [
-      "music"
-    ]
+    "avg_duration_min": 15
   },
   {
     "id": "bajkowe-smako-yki-misia-michasia",
@@ -3505,7 +3468,7 @@
     "tags": [
       "science",
       "nature",
-      "humor"
+      "geography"
     ]
   },
   {
@@ -3519,7 +3482,8 @@
     "avg_duration_min": 17,
     "tags": [
       "humor",
-      "interview"
+      "interview",
+      "quiz"
     ]
   },
   {
@@ -3549,7 +3513,7 @@
     "tags": [
       "nature",
       "animals",
-      "emotions"
+      "science"
     ]
   },
   {
@@ -3562,7 +3526,6 @@
     "artwork": "https://static.prsa.pl/images/94cbccd2-03a9-4f22-a517-00b5b19cb49b.jpg",
     "language": "pl",
     "tags": [
-      "culture",
       "languages"
     ]
   },
@@ -3576,9 +3539,10 @@
     "added_at": "2026-07-14T07:43:54Z",
     "avg_duration_min": 19,
     "tags": [
-      "nature",
       "animals",
-      "geography"
+      "nature",
+      "geography",
+      "interview"
     ]
   },
   {
@@ -3592,8 +3556,8 @@
     "avg_duration_min": 25,
     "tags": [
       "geography",
-      "culture",
-      "stories"
+      "stories",
+      "culture"
     ]
   },
   {
@@ -3623,7 +3587,8 @@
     "avg_duration_min": 24,
     "tags": [
       "emotions",
-      "culture"
+      "culture",
+      "interview"
     ]
   },
   {
@@ -3637,7 +3602,8 @@
     "avg_duration_min": 15,
     "tags": [
       "nature",
-      "animals",
+      "stories",
+      "culture",
       "humor"
     ]
   },
@@ -3649,11 +3615,7 @@
     "artwork": "https://static.prsa.pl/images/30097ef5-822c-4139-8189-440e9ff18ab0.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:54Z",
-    "avg_duration_min": 20,
-    "tags": [
-      "culture",
-      "interview"
-    ]
+    "avg_duration_min": 20
   },
   {
     "id": "smok-i-mis-ida-do-szko-y",
@@ -3666,8 +3628,8 @@
     "avg_duration_min": 25,
     "tags": [
       "stories",
-      "humor",
-      "culture"
+      "geography",
+      "humor"
     ]
   },
   {
@@ -3680,7 +3642,8 @@
     "avg_duration_min": 29,
     "tags": [
       "culture",
-      "interview"
+      "languages",
+      "quiz"
     ]
   },
   {
@@ -3723,7 +3686,7 @@
     "tags": [
       "stories",
       "animals",
-      "emotions"
+      "humor"
     ]
   },
   {
@@ -3735,9 +3698,9 @@
     "language": "en",
     "avg_duration_min": 31,
     "tags": [
+      "religion",
       "stories",
-      "culture",
-      "emotions"
+      "culture"
     ]
   },
   {
@@ -3750,8 +3713,8 @@
     "added_at": "2026-07-13T10:29:48Z",
     "avg_duration_min": 7,
     "tags": [
-      "fables",
       "stories",
+      "fables",
       "humor"
     ]
   },
@@ -3766,7 +3729,8 @@
     "avg_duration_min": 13,
     "tags": [
       "quiz",
-      "humor"
+      "humor",
+      "interview"
     ]
   },
   {
@@ -3780,8 +3744,8 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "history",
-      "geography"
+      "geography",
+      "history"
     ]
   },
   {
@@ -3810,6 +3774,7 @@
     "avg_duration_min": 12,
     "tags": [
       "science",
+      "stories",
       "experiments"
     ]
   },
@@ -3825,7 +3790,7 @@
     "tags": [
       "science",
       "drama",
-      "animals"
+      "stories"
     ]
   },
   {
@@ -3839,6 +3804,7 @@
     "avg_duration_min": 7,
     "tags": [
       "animals",
+      "history",
       "humor",
       "science"
     ]
@@ -3854,7 +3820,7 @@
     "avg_duration_min": 16,
     "tags": [
       "stories",
-      "drama",
+      "religion",
       "emotions"
     ]
   },
@@ -3866,12 +3832,7 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/emission/16422/2f4a9047-83cf-4472-856f-0eeee92da59c.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:11Z",
-    "avg_duration_min": 11,
-    "tags": [
-      "stories",
-      "geography",
-      "history"
-    ]
+    "avg_duration_min": 11
   },
   {
     "id": "les-aventures-de-tintin-60-s",
@@ -3896,12 +3857,7 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/9bd0b0ef-8f4c-4b10-b7b3-5f492db04ade.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:38:57Z",
-    "avg_duration_min": 9,
-    "tags": [
-      "stories",
-      "drama",
-      "history"
-    ]
+    "avg_duration_min": 9
   },
   {
     "added_at": "2026-07-14T05:39:00Z",
@@ -3914,8 +3870,8 @@
     "language": "fr",
     "tags": [
       "stories",
-      "drama",
-      "history"
+      "science",
+      "space"
     ]
   },
   {
@@ -3929,8 +3885,8 @@
     "language": "fr",
     "tags": [
       "stories",
-      "drama",
-      "history"
+      "history",
+      "geography"
     ]
   },
   {
@@ -3959,9 +3915,9 @@
     "avg_duration_min": 8,
     "tags": [
       "nature",
+      "science",
       "culture",
-      "emotions",
-      "stories"
+      "emotions"
     ]
   },
   {
@@ -3991,7 +3947,7 @@
     "tags": [
       "stories",
       "fairy-tales",
-      "music"
+      "drama"
     ]
   },
   {
@@ -4005,8 +3961,9 @@
     "avg_duration_min": 14,
     "tags": [
       "stories",
-      "culture",
-      "emotions"
+      "fairy-tales",
+      "religion",
+      "culture"
     ]
   },
   {
@@ -4035,7 +3992,8 @@
     "avg_duration_min": 9,
     "tags": [
       "stories",
-      "humor"
+      "humor",
+      "geography"
     ]
   },
   {
@@ -4050,7 +4008,8 @@
     "tags": [
       "stories",
       "humor",
-      "culture"
+      "culture",
+      "music"
     ]
   },
   {
@@ -4064,7 +4023,8 @@
     "avg_duration_min": 9,
     "tags": [
       "emotions",
-      "body"
+      "body",
+      "culture"
     ]
   },
   {
@@ -4075,12 +4035,7 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/42d17e51-795f-447d-9f78-449648f93423/b05a839c-6314-4901-83fd-6dc32071b7a7.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:24Z",
-    "avg_duration_min": 5,
-    "tags": [
-      "stories",
-      "history",
-      "culture"
-    ]
+    "avg_duration_min": 5
   },
   {
     "id": "mitologia",
@@ -4094,7 +4049,8 @@
     "tags": [
       "stories",
       "fairy-tales",
-      "history"
+      "history",
+      "culture"
     ]
   },
   {
@@ -4123,7 +4079,8 @@
     "avg_duration_min": 0,
     "tags": [
       "music",
-      "interview"
+      "interview",
+      "culture"
     ]
   },
   {
@@ -4136,8 +4093,9 @@
     "added_at": "2026-06-16T11:52:11Z",
     "avg_duration_min": 16,
     "tags": [
-      "space",
       "science",
+      "space",
+      "stories",
       "humor"
     ]
   },
@@ -4153,7 +4111,7 @@
     "tags": [
       "science",
       "experiments",
-      "nature"
+      "interview"
     ]
   },
   {
@@ -4183,7 +4141,8 @@
     "tags": [
       "stories",
       "fairy-tales",
-      "animals"
+      "animals",
+      "humor"
     ]
   },
   {
@@ -4198,7 +4157,7 @@
     "tags": [
       "stories",
       "fairy-tales",
-      "fables"
+      "drama"
     ]
   },
   {
@@ -4257,7 +4216,8 @@
     "avg_duration_min": 12,
     "tags": [
       "music",
-      "interview"
+      "emotions",
+      "humor"
     ]
   },
   {
@@ -4315,7 +4275,8 @@
     "avg_duration_min": 6,
     "tags": [
       "stories",
-      "drama"
+      "culture",
+      "emotions"
     ]
   },
   {
@@ -4330,7 +4291,8 @@
     "tags": [
       "science",
       "experiments",
-      "stories"
+      "stories",
+      "nature"
     ]
   },
   {
@@ -4358,9 +4320,9 @@
     "avg_duration_min": 10,
     "tags": [
       "animals",
-      "science",
       "nature",
-      "geography"
+      "geography",
+      "science"
     ]
   },
   {
@@ -4374,8 +4336,8 @@
     "avg_duration_min": 9,
     "tags": [
       "stories",
-      "science",
-      "experiments"
+      "nature",
+      "humor"
     ]
   },
   {
@@ -4404,8 +4366,8 @@
     "avg_duration_min": 6,
     "tags": [
       "stories",
-      "humor",
-      "drama"
+      "drama",
+      "humor"
     ]
   },
   {
@@ -4419,6 +4381,7 @@
     "avg_duration_min": 5,
     "tags": [
       "stories",
+      "emotions",
       "humor"
     ]
   },
@@ -4433,8 +4396,8 @@
     "avg_duration_min": 8,
     "tags": [
       "humor",
-      "science",
-      "drama"
+      "drama",
+      "quiz"
     ]
   },
   {
@@ -4448,7 +4411,7 @@
     "avg_duration_min": 19,
     "tags": [
       "music",
-      "culture",
+      "stories",
       "interview"
     ]
   },
@@ -4463,7 +4426,6 @@
     "avg_duration_min": 12,
     "tags": [
       "stories",
-      "fairy-tales",
       "drama"
     ]
   },
@@ -4478,8 +4440,8 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "culture",
-      "history"
+      "history",
+      "culture"
     ]
   },
   {
@@ -4507,9 +4469,9 @@
     "added_at": "2026-06-16T11:50:22Z",
     "avg_duration_min": 10,
     "tags": [
-      "stories",
-      "culture",
-      "emotions"
+      "religion",
+      "emotions",
+      "culture"
     ]
   },
   {
@@ -4524,7 +4486,7 @@
     "tags": [
       "stories",
       "emotions",
-      "fairy-tales"
+      "drama"
     ]
   },
   {
@@ -4538,7 +4500,8 @@
     "avg_duration_min": 7,
     "tags": [
       "stories",
-      "humor"
+      "humor",
+      "emotions"
     ]
   },
   {
@@ -4565,8 +4528,9 @@
     "added_at": "2026-07-13T10:30:00Z",
     "avg_duration_min": 9,
     "tags": [
+      "stories",
       "fables",
-      "stories"
+      "emotions"
     ]
   },
   {
@@ -4581,6 +4545,7 @@
     "tags": [
       "stories",
       "geography",
+      "culture",
       "music"
     ]
   },
@@ -4669,7 +4634,7 @@
     "avg_duration_min": 10,
     "tags": [
       "stories",
-      "fairy-tales",
+      "drama",
       "emotions"
     ]
   },
@@ -4681,12 +4646,7 @@
     "artwork": "https://assets.pippa.io/shows/60dce106dd59a3ddc63d7e39/show-cover.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:19Z",
-    "avg_duration_min": 9,
-    "tags": [
-      "stories",
-      "culture",
-      "interview"
-    ]
+    "avg_duration_min": 9
   },
   {
     "id": "histoires-pour-enfants-a-ecouter",
@@ -4699,7 +4659,7 @@
     "avg_duration_min": 9,
     "tags": [
       "stories",
-      "fairy-tales",
+      "drama",
       "emotions"
     ]
   },
@@ -4760,7 +4720,7 @@
     "tags": [
       "interview",
       "culture",
-      "humor"
+      "geography"
     ]
   },
   {
@@ -4821,8 +4781,8 @@
     "tags": [
       "quiz",
       "science",
-      "geography",
-      "history"
+      "history",
+      "geography"
     ]
   },
   {
@@ -4837,7 +4797,7 @@
     "tags": [
       "stories",
       "fairy-tales",
-      "culture"
+      "languages"
     ]
   },
   {
@@ -4851,7 +4811,8 @@
     "avg_duration_min": 6,
     "tags": [
       "humor",
-      "quiz"
+      "stories",
+      "music"
     ]
   },
   {
@@ -4864,9 +4825,9 @@
     "added_at": "2026-07-14T07:01:21Z",
     "avg_duration_min": 10,
     "tags": [
-      "body",
-      "humor",
-      "music"
+      "music",
+      "emotions",
+      "body"
     ]
   },
   {
@@ -4880,7 +4841,7 @@
     "avg_duration_min": 3,
     "tags": [
       "music",
-      "languages"
+      "stories"
     ]
   },
   {
@@ -4909,7 +4870,6 @@
     "avg_duration_min": 5,
     "tags": [
       "stories",
-      "drama",
       "emotions"
     ]
   },
@@ -4939,8 +4899,8 @@
     "avg_duration_min": 9,
     "tags": [
       "stories",
-      "fables",
-      "animals"
+      "animals",
+      "culture"
     ]
   },
   {
@@ -4955,7 +4915,7 @@
     "tags": [
       "stories",
       "animals",
-      "emotions",
+      "drama",
       "humor"
     ]
   },
@@ -4967,11 +4927,7 @@
     "artwork": "https://storage.buzzsprout.com/s6uloilvkkfxpepva0j3typ750yz?.jpg",
     "language": "en-gb",
     "added_at": "2026-07-14T07:11:10Z",
-    "avg_duration_min": 25,
-    "tags": [
-      "stories",
-      "fairy-tales"
-    ]
+    "avg_duration_min": 25
   },
   {
     "id": "story-club-kids-learning-stories",
@@ -4999,8 +4955,7 @@
     "avg_duration_min": 11,
     "tags": [
       "stories",
-      "history",
-      "humor"
+      "history"
     ]
   },
   {
@@ -5014,8 +4969,8 @@
     "avg_duration_min": 6,
     "tags": [
       "stories",
-      "culture",
-      "emotions"
+      "humor",
+      "culture"
     ]
   },
   {
@@ -5030,7 +4985,7 @@
     "tags": [
       "science",
       "interview",
-      "emotions"
+      "animals"
     ]
   },
   {
@@ -5044,7 +4999,8 @@
     "avg_duration_min": 3,
     "tags": [
       "stories",
-      "fairy-tales"
+      "fairy-tales",
+      "emotions"
     ]
   }
 ]
