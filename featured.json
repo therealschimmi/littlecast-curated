@@ -4665,5 +4665,15 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "petit-vulgaire",
+    "title": "Petit Vulgaire",
+    "publisher": "Marine baousson",
+    "rss": "https://feeds.acast.com/public/shows/c77a97df-0a1c-4600-921c-c3e87b6486cd",
+    "artwork": "https://assets.pippa.io/shows/61694f8286d7b17b4c20b80c/1756888815005-e5ff25e6-9bf3-4783-8e9b-e88143dde71b.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:45Z",
+    "avg_duration_min": 14
   }
 ]
