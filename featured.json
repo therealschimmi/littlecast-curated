@@ -3144,5 +3144,15 @@
     "language": "en",
     "added_at": "2026-06-16T11:50:22Z",
     "avg_duration_min": 10
+  },
+  {
+    "id": "conte-moi-l-aventure",
+    "title": "Conte-moi l'aventure !",
+    "publisher": "Cherie FM France",
+    "rss": "https://feeds.audiomeans.fr/feed/2634f188-47a0-48e1-b4ae-0ac360ed3ac3.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/4ab56215-8a76-4423-aaea-b29e05259aa1.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:41Z",
+    "avg_duration_min": 17
   }
 ]
