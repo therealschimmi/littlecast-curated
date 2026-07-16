@@ -4777,5 +4777,20 @@
       "culture",
       "geography"
     ]
+  },
+  {
+    "id": "le-royaume-des-contes-histoires-audio-pour-enfants",
+    "title": "Le royaume des contes : histoires audio pour enfants",
+    "publisher": "Ouest-France",
+    "rss": "https://api.octopus.saooti.com/rss/emission/2092.rss",
+    "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/42d17e51-795f-447d-9f78-449648f93423/d75e269c-d67e-479d-ac1b-a078042abedd.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:16Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "culture"
+    ]
   }
 ]
