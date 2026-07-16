@@ -4731,5 +4731,20 @@
       "drama",
       "humor"
     ]
+  },
+  {
+    "id": "voie-lactic-histoires-pour-enfants",
+    "title": "Voie Lactic - histoires pour enfants",
+    "publisher": "nailmatic",
+    "rss": "https://audioblog.arteradio.com/blog/216874/rss",
+    "artwork": "https://back-audioblog.arteradio.com/sites/default/files/pictures/origin_216874_n7cUi.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:21Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "space",
+      "humor"
+    ]
   }
 ]
