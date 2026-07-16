@@ -1612,7 +1612,11 @@
     "added_at": "2026-03-25T22:30:17Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 3
+    "avg_duration_min": 3,
+    "tags": [
+      "stories",
+      "emotions"
+    ]
   },
   {
     "id": "fiabe-per-bambini",
@@ -2035,7 +2039,13 @@
     "rss": "https://media.rss.com/magicosmundos/feed.xml",
     "artwork": "https://media.rss.com/magicosmundos/20250817_080808_d5ca5b104423fdaad789bde4715add5a.jpg",
     "language": "es",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "history",
+      "culture",
+      "geography"
+    ]
   },
   {
     "id": "cuentos-con-moraleja",
@@ -2604,7 +2614,12 @@
     "added_at": "2026-04-11T04:42:27Z",
     "avgDurationMinutes": 30,
     "ageRange": "6-12",
-    "avg_duration_min": 36
+    "avg_duration_min": 36,
+    "tags": [
+      "humor",
+      "quiz",
+      "stories"
+    ]
   },
   {
     "id": "alle-gegen-nico-zockt-um-die-quizkrone",
@@ -3019,7 +3034,12 @@
     "artwork": "https://megaphone.imgix.net/podcasts/83e93926-6826-11ee-8b8f-1bf94dd89d4c/image/c0b9da0749c620a9dcce719b41c57de3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
     "added_at": "2026-06-16T11:52:59Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "geography",
+      "humor"
+    ]
   },
   {
     "id": "kids-ask-dr-friendtastic-friendship-advice-for-kids-k-8",
@@ -3325,7 +3345,11 @@
     "artwork": "https://static.prsa.pl/images/9905b589-db7d-47ed-9233-a16e41e9d85c.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:41:23Z",
-    "avg_duration_min": 4
+    "avg_duration_min": 4,
+    "tags": [
+      "languages",
+      "culture"
+    ]
   },
   {
     "id": "poradnik-m-odego-odkrywcy",
@@ -3746,7 +3770,12 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/134a4e6a93956a453e9326a9436e3b14.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:12:33Z",
-    "avg_duration_min": 16
+    "avg_duration_min": 16,
+    "tags": [
+      "stories",
+      "drama",
+      "emotions"
+    ]
   },
   {
     "id": "tintin-en-orient",
@@ -3922,7 +3951,11 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/28f4f1a3-e2dc-45ea-9528-283c16365623.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:17Z",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   },
   {
     "id": "kiddy-les-meilleurs-podcasts-pour-enfants",
@@ -4025,7 +4058,12 @@
     "artwork": "https://cdn.julephosting.de/podcasts/1347-pur-wissendrin-mit-eric/1347_cover.jpg?v=2",
     "language": "de",
     "added_at": "2026-06-16T11:52:31Z",
-    "avg_duration_min": 20
+    "avg_duration_min": 20,
+    "tags": [
+      "science",
+      "experiments",
+      "nature"
+    ]
   },
   {
     "id": "laluna-traumreisen-einschlafgeschichten-fur-kinder",
