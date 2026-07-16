@@ -3244,5 +3244,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:45Z",
     "avg_duration_min": 7
+  },
+  {
+    "id": "au-pays-des-histoires",
+    "title": "Au pays des histoires",
+    "publisher": "Gwenn Kerdraon",
+    "rss": "https://feeds.podcastics.com/podcastics/podcasts/rss/2134_92671bf46d4a7099cbc02c8805fedaa8.rss",
+    "artwork": "https://medias.podcastics.com/podcastics/podcasts/artwork/au-pays-des-histoires.jpg.382a6b5d408def1e61395c8e2e649aec.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:18Z",
+    "avg_duration_min": 10
   }
 ]
