@@ -4853,5 +4853,20 @@
       "humor",
       "quiz"
     ]
+  },
+  {
+    "id": "la-gym-de-bloom-la-radio-des-enfants",
+    "title": "La Gym de Bloom la radio des enfants",
+    "publisher": "Bloom la radio des enfants",
+    "rss": "https://feeds.audiomeans.fr/feed/1871abd7-9d9d-48f7-9035-0323c4df4dec.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/7a6718b0-a7f2-4ca1-b7c6-fa6f4704f9ae.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:01:21Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "body",
+      "humor",
+      "music"
+    ]
   }
 ]
