@@ -4631,5 +4631,20 @@
       "culture",
       "interview"
     ]
+  },
+  {
+    "id": "histoires-pour-enfants-a-ecouter",
+    "title": "Histoires pour enfants à écouter",
+    "publisher": "DISO",
+    "rss": "https://feeds.acast.com/public/shows/64c2a2a9dc471e0011518132",
+    "artwork": "https://assets.pippa.io/shows/64c2a2a9dc471e0011518132/show-cover.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:42Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
