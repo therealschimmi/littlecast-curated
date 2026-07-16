@@ -6,10 +6,12 @@
     "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 25,
-    "ageRange": "6-10",
-    "avg_duration_min": 21
+    "avg_duration_min": 21,
+    "tags": [
+      "experiments",
+      "nature",
+      "humor"
+    ]
   },
   {
     "id": "ordentlich-durcheinander",
