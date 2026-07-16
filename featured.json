@@ -730,7 +730,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "2-7",
-    "avg_duration_min": 2
+    "avg_duration_min": 2,
+    "tags": [
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "historias-de-embalar",
@@ -1538,7 +1542,11 @@
     "added_at": "2026-03-25T22:20:47Z",
     "avgDurationMinutes": 3,
     "ageRange": "5-12",
-    "avg_duration_min": 1
+    "avg_duration_min": 1,
+    "tags": [
+      "humor",
+      "stories"
+    ]
   },
   {
     "id": "bedtime-explorers",
@@ -3387,7 +3395,12 @@
     "artwork": "https://cdn6.polskieradio.pl/cdn/65e99f0f-2e5b-4353-95a0-945e5a2e2ae5/1400x1400_dinozaury_9_v3.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:47Z",
-    "avg_duration_min": 13
+    "avg_duration_min": 13,
+    "tags": [
+      "animals",
+      "history",
+      "science"
+    ]
   },
   {
     "id": "gdzie-paw-mowi-dzien-dobry",
@@ -3412,7 +3425,12 @@
     "artwork": "https://static.prsa.pl/images/1e573bce-d920-495d-b888-ed257f83cd85.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:43:47Z",
-    "avg_duration_min": 26
+    "avg_duration_min": 26,
+    "tags": [
+      "stories",
+      "humor",
+      "nature"
+    ]
   },
   {
     "id": "alfabet-orkiestry",
@@ -3451,7 +3469,12 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12038402/12038402-1627936041940-5d330c8f1dea9.jpg",
     "language": "pl",
     "added_at": "2026-07-14T07:47:59Z",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "science",
+      "nature",
+      "humor"
+    ]
   },
   {
     "id": "zgrajmy-sie",
@@ -4272,7 +4295,11 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/ecb65d76-d717-44b5-9b9c-e6d7463f7b58.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "drama"
+    ]
   },
   {
     "id": "wild-le-podcast-animalier",
@@ -4397,7 +4424,12 @@
     "artwork": "https://assets.pippa.io/shows/61a7b8c20fef25aa6f8decd9/1734343909284-976cb6cc-afc5-4d55-bf49-549abc53d90b.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:24Z",
-    "avg_duration_min": 11
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "culture",
+      "history"
+    ]
   },
   {
     "id": "curieux-de-sciences",
