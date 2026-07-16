@@ -4897,5 +4897,20 @@
       "stories",
       "drama"
     ]
+  },
+  {
+    "id": "les-petites-histoires-pour-s-endormir",
+    "title": "Les petites histoires pour s'endormir",
+    "publisher": "Les histoires pour enfants",
+    "rss": "https://anchor.fm/s/df96af84/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37411945/37411945-1681998465354-7d4bbf61ea8ef.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:21Z",
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "drama",
+      "emotions"
+    ]
   }
 ]
