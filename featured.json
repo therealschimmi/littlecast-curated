@@ -4762,5 +4762,20 @@
       "culture",
       "humor"
     ]
+  },
+  {
+    "id": "une-histoire-pour-un-soir",
+    "title": "Une histoire pour un soir",
+    "publisher": "Marion M",
+    "rss": "https://anchor.fm/s/ee301eb8/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/39861310/39861310-1702382799840-e28ce49e9aa03.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:16Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "culture",
+      "geography"
+    ]
   }
 ]
