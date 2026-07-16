@@ -3164,5 +3164,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:41Z",
     "avg_duration_min": 7
+  },
+  {
+    "id": "histoires-pour-dormir-de-patricia",
+    "title": "Histoires pour dormir de Patricia",
+    "publisher": "Patricia",
+    "rss": "https://feed.ausha.co/nrdGqtEw9xwD",
+    "artwork": "https://image.ausha.co/2cA4SXmMjwDHUHrvT6TRLFs0zBGQQlltBfVyeX5J_1400x1400.jpeg?t=1777489304",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:40Z",
+    "avg_duration_min": 25
   }
 ]
