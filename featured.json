@@ -50,16 +50,20 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "8-12",
+    "avg_duration_min": 20,
     "id": "abgespaced",
     "title": "Abgespaced – Weltraumschlau in 15 Minuten",
     "publisher": "Stiftung Planetarium Berlin",
     "rss": "https://planetariumberlin.podcaster.de/abgespaced.rss",
     "artwork": "https://planetariumberlin.podcaster.de/abgespaced/logos/1400x1400_SPB_Kinderpodcast_Keyvisual_RZ(1).jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "8-12",
-    "avg_duration_min": 20
+    "tags": [
+      "science",
+      "space"
+    ]
   },
   {
     "id": "taxi-ins-mich",
