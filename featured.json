@@ -3224,5 +3224,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:43Z",
     "avg_duration_min": 4
+  },
+  {
+    "id": "betes-de-science",
+    "title": "Bêtes de science",
+    "publisher": "Futura",
+    "rss": "https://feeds.audiomeans.fr/feed/77ce2d19-11b4-46ce-85b4-078810cb4f4d.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/918cec8a-bc9d-4ae0-bd3d-cb40abedcc62.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:13Z",
+    "avg_duration_min": 8
   }
 ]
