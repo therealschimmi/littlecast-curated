@@ -4342,14 +4342,18 @@
     ]
   },
   {
+    "added_at": "2026-06-16T11:55:23Z",
+    "avg_duration_min": 13,
     "id": "big-baaam-wissen-ohne-filter",
     "title": "Big Bäääm - #Wissen ohne Filter",
     "publisher": "Mitteldeutscher Rundfunk",
     "rss": "https://www.mdr.de/tweens/podcast/bigbaem/big-baem-wissen-ohne-filter-100-podcast.xml",
     "artwork": "https://images.mdr.de/image/fae8ca5d-da06-46dc-8ecd-02a15a75cc89/AAABnScHaM8/AAABnSStX0g/1x1-big/bigbaem-grafik-100.jpg?overlay=77061ae9-fcc1-47c7-a934-8fc60c5f2977&overlayModificationDate=AAABl3iUe8k&width=3000",
     "language": "de",
-    "added_at": "2026-06-16T11:55:23Z",
-    "avg_duration_min": 13
+    "tags": [
+      "science",
+      "nature"
+    ]
   },
   {
     "id": "les-histoires-de-nonno",
