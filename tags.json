@@ -93,5 +93,10 @@
     "id": "languages",
     "en": "Languages",
     "de": "Sprachen"
+  },
+  {
+    "id": "religion",
+    "en": "Religion",
+    "de": "Religion"
   }
 ]
