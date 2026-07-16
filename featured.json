@@ -4792,5 +4792,21 @@
       "fairy-tales",
       "culture"
     ]
+  },
+  {
+    "id": "les-histoires-de-touk-touk",
+    "title": "Les histoires de Touk Touk",
+    "publisher": "Touk Touk",
+    "rss": "https://feeds.acast.com/public/shows/5ec6102aec3e41392d1192a8",
+    "artwork": "https://assets.pippa.io/shows/5ec6102aec3e41392d1192a8/1697360837414-dcfc4c17f43fec6fff3c89f7e0f3618b.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:15Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "geography",
+      "nature",
+      "culture"
+    ]
   }
 ]
