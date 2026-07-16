@@ -4867,14 +4867,17 @@
     ]
   },
   {
+    "added_at": "2026-07-14T06:59:17Z",
+    "avg_duration_min": 6,
     "id": "le-quiz-du-petit-quotidien",
     "title": "Le Quiz du Petit Quotidien",
     "publisher": "PlayBac",
     "rss": "https://feed.ausha.co/oadXQcQww82p",
     "artwork": "https://image.ausha.co/KaIvzqSTiRfeC8GYvwVaQexwMEj70fkZN2n5G5sS_1400x1400.jpeg?t=1586957481",
     "language": "fr",
-    "added_at": "2026-07-14T06:59:17Z",
-    "avg_duration_min": 6
+    "tags": [
+      "quiz"
+    ]
   },
   {
     "id": "conte-et-raconte",
