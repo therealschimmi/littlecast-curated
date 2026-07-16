@@ -3174,5 +3174,15 @@
     "language": "fr",
     "added_at": "2026-07-14T06:58:40Z",
     "avg_duration_min": 25
+  },
+  {
+    "id": "fun-fables-sleepy-time-stories",
+    "title": "Fun Fables - Sleepy Time Stories",
+    "publisher": "Horseplay Production",
+    "rss": "https://feeds.acast.com/public/shows/663063c1f1e606001369979b",
+    "artwork": "https://assets.pippa.io/shows/cover/1714446556734-8a7730505d751606fc5f1f5866edd0e7.jpeg",
+    "language": "en",
+    "added_at": "2026-07-13T10:30:00Z",
+    "avg_duration_min": 9
   }
 ]
