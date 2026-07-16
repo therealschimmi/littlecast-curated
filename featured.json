@@ -4972,5 +4972,20 @@
       "stories",
       "fairy-tales"
     ]
+  },
+  {
+    "id": "story-club-kids-learning-stories",
+    "title": "Story Club Kids - Learning Stories",
+    "publisher": "Michelle Richey",
+    "rss": "https://rss.buzzsprout.com/2226937.rss",
+    "artwork": "https://storage.buzzsprout.com/nnmzcm22awfc319saooxz32hww7r?.jpg",
+    "language": "en-us",
+    "added_at": "2026-07-14T07:11:10Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "emotions",
+      "humor"
+    ]
   }
 ]
