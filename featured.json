@@ -844,7 +844,11 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-10",
-    "avg_duration_min": 1
+    "avg_duration_min": 1,
+    "tags": [
+      "emotions",
+      "culture"
+    ]
   },
   {
     "id": "coisa-de-crianca",
@@ -1322,7 +1326,13 @@
     "added_at": "2026-03-25T22:11:44Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 6
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "animals",
+      "humor",
+      "emotions"
+    ]
   },
   {
     "id": "figarinos-fahrradladen-der-mdr-tweens-horspiel-podcast-fur-kinder",
@@ -1385,7 +1395,11 @@
     "added_at": "2026-03-25T22:12:04Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-12",
-    "avg_duration_min": 14
+    "avg_duration_min": 14,
+    "tags": [
+      "stories",
+      "history"
+    ]
   },
   {
     "id": "betthupferl-gute-nacht-geschichten-fur-kinder",
@@ -4083,7 +4097,12 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ed897e51ad86714bd1050f2da2ca1371.jpg",
     "language": "it",
     "added_at": "2026-07-14T07:50:01Z",
-    "avg_duration_min": 10
+    "avg_duration_min": 10,
+    "tags": [
+      "fairy-tales",
+      "drama",
+      "emotions"
+    ]
   },
   {
     "id": "come-nasce-una-canzone",
@@ -4344,7 +4363,12 @@
     "artwork": "https://static.audiomeans.fr/img/podcast/c971e7db-6c57-4401-9638-75423e2d9c4b.jpg",
     "language": "fr",
     "added_at": "2026-07-14T06:59:14Z",
-    "avg_duration_min": 9
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "science",
+      "experiments"
+    ]
   },
   {
     "id": "abricot-presente",
@@ -4674,6 +4698,11 @@
     "artwork": "https://assets.pippa.io/shows/61694f8286d7b17b4c20b80c/1756888815005-e5ff25e6-9bf3-4783-8e9b-e88143dde71b.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:45Z",
-    "avg_duration_min": 14
+    "avg_duration_min": 14,
+    "tags": [
+      "science",
+      "humor",
+      "drama"
+    ]
   }
 ]
