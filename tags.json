@@ -1,20 +1,97 @@
 [
-  { "id": "stories",     "en": "Stories",     "de": "Geschichten" },
-  { "id": "fairy-tales", "en": "Fairy Tales",  "de": "Märchen" },
-  { "id": "fables",      "en": "Fables",       "de": "Fabeln" },
-  { "id": "drama",       "en": "Drama",        "de": "Hörspiel" },
-  { "id": "science",     "en": "Science",      "de": "Wissenschaft" },
-  { "id": "nature",      "en": "Nature",       "de": "Natur" },
-  { "id": "animals",     "en": "Animals",      "de": "Tiere" },
-  { "id": "space",       "en": "Space",        "de": "Weltall" },
-  { "id": "body",        "en": "Body",         "de": "Körper" },
-  { "id": "geography",   "en": "Geography",    "de": "Geografie" },
-  { "id": "history",     "en": "History",      "de": "Geschichte" },
-  { "id": "culture",     "en": "Culture",      "de": "Kultur" },
-  { "id": "emotions",    "en": "Emotions",     "de": "Gefühle" },
-  { "id": "humor",       "en": "Humor",        "de": "Humor" },
-  { "id": "quiz",        "en": "Quiz",         "de": "Quiz" },
-  { "id": "experiments", "en": "Experiments",  "de": "Experimente" },
-  { "id": "music",       "en": "Music",        "de": "Musik" },
-  { "id": "interview",   "en": "Interview",    "de": "Interview" }
+  {
+    "id": "stories",
+    "en": "Stories",
+    "de": "Geschichten"
+  },
+  {
+    "id": "fairy-tales",
+    "en": "Fairy Tales",
+    "de": "Märchen"
+  },
+  {
+    "id": "fables",
+    "en": "Fables",
+    "de": "Fabeln"
+  },
+  {
+    "id": "drama",
+    "en": "Drama",
+    "de": "Hörspiel"
+  },
+  {
+    "id": "science",
+    "en": "Science",
+    "de": "Wissenschaft"
+  },
+  {
+    "id": "nature",
+    "en": "Nature",
+    "de": "Natur"
+  },
+  {
+    "id": "animals",
+    "en": "Animals",
+    "de": "Tiere"
+  },
+  {
+    "id": "space",
+    "en": "Space",
+    "de": "Weltall"
+  },
+  {
+    "id": "body",
+    "en": "Body",
+    "de": "Körper"
+  },
+  {
+    "id": "geography",
+    "en": "Geography",
+    "de": "Geografie"
+  },
+  {
+    "id": "history",
+    "en": "History",
+    "de": "Geschichte"
+  },
+  {
+    "id": "culture",
+    "en": "Culture",
+    "de": "Kultur"
+  },
+  {
+    "id": "emotions",
+    "en": "Emotions",
+    "de": "Gefühle"
+  },
+  {
+    "id": "humor",
+    "en": "Humor",
+    "de": "Humor"
+  },
+  {
+    "id": "quiz",
+    "en": "Quiz",
+    "de": "Quiz"
+  },
+  {
+    "id": "experiments",
+    "en": "Experiments",
+    "de": "Experimente"
+  },
+  {
+    "id": "music",
+    "en": "Music",
+    "de": "Musik"
+  },
+  {
+    "id": "interview",
+    "en": "Interview",
+    "de": "Interview"
+  },
+  {
+    "id": "languages",
+    "en": "Languages",
+    "de": "Sprachen"
+  }
 ]
