@@ -5177,5 +5177,21 @@
       "animals",
       "emotions"
     ]
+  },
+  {
+    "id": "otter-space",
+    "title": "Otter Space",
+    "publisher": "Evolver Creative",
+    "rss": "https://rss.art19.com/otter-space",
+    "artwork": "https://content.production.cdn.art19.com/images/d4/e9/8b/d3/d4e98bd3-83cb-4bec-bbd4-56bce64155c1/60cf24c504b294c13a8bb64fa62723d1352ac1486281f29fce482fdf60a85e63d468f886badb363085ba4b1a766c3aaa9075f4993c47306b0327036d9aa77591.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:17:20Z",
+    "avg_duration_min": 14,
+    "tags": [
+      "humor",
+      "space",
+      "animals",
+      "stories"
+    ]
   }
 ]
