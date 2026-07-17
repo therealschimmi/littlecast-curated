@@ -5132,5 +5132,20 @@
       "animals",
       "quiz"
     ]
+  },
+  {
+    "id": "kinder-podcast-freitextkatze-geschichten-und-horspiele-fur-kinder",
+    "title": "Kinder-Podcast Freitextkatze - Geschichten und Hörspiele für Kinder",
+    "publisher": "Kinder-Podcast Freitextkatze - Kerstin Kelb",
+    "rss": "https://podcast02257e.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sIxjmvnv7Ol6Nk-gmcT_vwjLDWS1NvQDwcf1uRVMPaVc=/https://main.podigee-cdn.net/uploads/u2547/21d60425-ee33-4c9b-a690-53d2a17af682.jpg",
+    "language": "de-DE",
+    "added_at": "2026-07-16T17:08:55Z",
+    "avg_duration_min": 16,
+    "tags": [
+      "stories",
+      "drama",
+      "humor"
+    ]
   }
 ]
