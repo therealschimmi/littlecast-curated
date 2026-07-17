@@ -5193,5 +5193,19 @@
       "animals",
       "stories"
     ]
+  },
+  {
+    "id": "the-road-to-oz",
+    "title": "The Road to Oz",
+    "publisher": "L. Frank Baum",
+    "rss": "https://www.spreaker.com/show/5699937/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5c72dbe274137ad5144875baf9acc43d.jpg",
+    "language": "en",
+    "added_at": "2026-07-17T14:10:10Z",
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   }
 ]
