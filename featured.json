@@ -5116,5 +5116,21 @@
       "stories",
       "emotions"
     ]
+  },
+  {
+    "id": "yoto-daily",
+    "title": "Yoto Daily",
+    "publisher": "Yoto",
+    "rss": "https://feeds.acast.com/public/shows/62cebd180ce17d0012d3347b",
+    "artwork": "https://assets.pippa.io/shows/62cebd180ce17d0012d3347b/1750844315512-85e0bb77-efe2-46f0-9e70-dd997c957f10.jpeg",
+    "language": "en",
+    "added_at": "2026-07-15T17:49:08Z",
+    "avg_duration_min": 13,
+    "tags": [
+      "humor",
+      "languages",
+      "animals",
+      "quiz"
+    ]
   }
 ]
