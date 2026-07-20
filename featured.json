@@ -5312,5 +5312,20 @@
       "stories",
       "humor"
     ]
+  },
+  {
+    "id": "azafata-en-atacama",
+    "title": "Azafata en Atacama",
+    "publisher": "Studio Ochenta",
+    "rss": "https://feeds.acast.com/public/shows/6247187b34cde30013ef0560",
+    "artwork": "https://assets.pippa.io/shows/6247187b34cde30013ef0560/1648843941753-f502fb6f0ec1e3461239e8bb0ab4b0cf.jpeg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:34Z",
+    "avg_duration_min": 4,
+    "tags": [
+      "stories",
+      "drama",
+      "languages"
+    ]
   }
 ]
