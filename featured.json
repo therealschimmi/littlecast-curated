@@ -5267,5 +5267,20 @@
       "humor",
       "drama"
     ]
+  },
+  {
+    "id": "el-podcast-de-pit-y-flu",
+    "title": "El podcast de Pit y Flu",
+    "publisher": "El Corte Inglés",
+    "rss": "https://www.spreaker.com/show/4823686/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b3a86f25af6efddae7bb97054f086e10.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:26Z",
+    "avg_duration_min": 20,
+    "tags": [
+      "humor",
+      "stories",
+      "drama"
+    ]
   }
 ]
