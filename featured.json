@@ -5237,5 +5237,20 @@
       "culture",
       "interview"
     ]
+  },
+  {
+    "id": "leocuentos",
+    "title": "LEOcuentos",
+    "publisher": "Josė David Pérez",
+    "rss": "https://leocuentos.es/feed/podcast/default-podcast/",
+    "artwork": "https://leocuentos.es/wp-content/uploads/2019/12/Leo-Cuentos.001-1.jpeg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:47Z",
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "humor"
+    ]
   }
 ]
