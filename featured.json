@@ -5282,5 +5282,20 @@
       "stories",
       "drama"
     ]
+  },
+  {
+    "id": "contemos-historias",
+    "title": "Contemos Historias",
+    "publisher": "Lunfa",
+    "rss": "https://www.lunfafm.com/contemos-historias/feed/",
+    "artwork": "https://www.lunfafm.com/wp-content/uploads/2018/09/contemos_historias_logo.png",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:33Z",
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "science",
+      "interview"
+    ]
   }
 ]
