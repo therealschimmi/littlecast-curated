@@ -540,7 +540,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-12",
-    "avg_duration_min": 26,
+    "avg_duration_min": 25,
     "tags": [
       "science",
       "humor",
@@ -624,7 +624,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-10",
-    "avg_duration_min": 8,
+    "avg_duration_min": 9,
     "tags": [
       "stories",
       "fairy-tales",
@@ -792,7 +792,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 11,
+    "avg_duration_min": 12,
     "tags": [
       "stories",
       "fairy-tales",
@@ -1569,7 +1569,7 @@
     "added_at": "2026-03-25T22:20:43Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 33,
+    "avg_duration_min": 36,
     "tags": [
       "stories",
       "music",
@@ -2204,7 +2204,7 @@
     "added_at": "2026-04-07T16:31:30Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-8",
-    "avg_duration_min": 14,
+    "avg_duration_min": 16,
     "tags": [
       "stories",
       "drama"
@@ -2685,7 +2685,7 @@
     "added_at": "2026-04-11T04:42:27Z",
     "avgDurationMinutes": 30,
     "ageRange": "6-12",
-    "avg_duration_min": 36,
+    "avg_duration_min": 35,
     "tags": [
       "quiz",
       "humor",
@@ -2733,7 +2733,7 @@
     "added_at": "2026-04-11T04:45:04Z",
     "avgDurationMinutes": 20,
     "ageRange": "8-14",
-    "avg_duration_min": 34,
+    "avg_duration_min": 33,
     "tags": [
       "humor",
       "interview"
@@ -3059,7 +3059,7 @@
     "added_at": "2026-06-11T17:48:41Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 35,
+    "avg_duration_min": 34,
     "tags": [
       "humor",
       "interview"
@@ -3123,7 +3123,7 @@
     "artwork": "https://megaphone.imgix.net/podcasts/83e93926-6826-11ee-8b8f-1bf94dd89d4c/image/c0b9da0749c620a9dcce719b41c57de3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "de",
     "added_at": "2026-06-16T11:52:59Z",
-    "avg_duration_min": 12,
+    "avg_duration_min": 13,
     "tags": [
       "stories",
       "geography",
@@ -5125,7 +5125,7 @@
     "artwork": "https://assets.pippa.io/shows/62cebd180ce17d0012d3347b/1750844315512-85e0bb77-efe2-46f0-9e70-dd997c957f10.jpeg",
     "language": "en",
     "added_at": "2026-07-15T17:49:08Z",
-    "avg_duration_min": 13,
+    "avg_duration_min": 14,
     "tags": [
       "humor",
       "languages",
