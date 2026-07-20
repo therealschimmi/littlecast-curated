@@ -5252,5 +5252,20 @@
       "fairy-tales",
       "humor"
     ]
+  },
+  {
+    "id": "cuentasticos",
+    "title": "Cuentásticos",
+    "publisher": "Cuentásticos Podcast",
+    "rss": "https://anchor.fm/s/49dad538/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12290782/12290782-1668861932697-eafff3d7f388c.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:47Z",
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "humor",
+      "drama"
+    ]
   }
 ]
