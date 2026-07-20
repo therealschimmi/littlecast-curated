@@ -5297,5 +5297,20 @@
       "science",
       "interview"
     ]
+  },
+  {
+    "id": "la-lupa-sonica",
+    "title": "La Lupa Sónica",
+    "publisher": "La Lupa",
+    "rss": "https://www.spreaker.com/show/4879844/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b4ddc27f0d101e294a0d3136dd9279fe.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:33Z",
+    "avg_duration_min": 18,
+    "tags": [
+      "science",
+      "stories",
+      "humor"
+    ]
   }
 ]
