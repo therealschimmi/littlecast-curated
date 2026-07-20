@@ -5207,5 +5207,20 @@
       "stories",
       "fairy-tales"
     ]
+  },
+  {
+    "id": "raconte-moi-une-betise",
+    "title": "Raconte-moi une bêtise",
+    "publisher": "Initial Studio",
+    "rss": "https://feeds.audiomeans.fr/feed/b57de204-ac3f-491c-82d0-01d68e330f45.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/b54dc441-277b-483d-bd94-2022f8c9924b.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:44Z",
+    "avg_duration_min": 5,
+    "tags": [
+      "humor",
+      "stories",
+      "emotions"
+    ]
   }
 ]
