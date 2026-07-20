@@ -5222,5 +5222,20 @@
       "stories",
       "emotions"
     ]
+  },
+  {
+    "id": "mija-podcast-spanish",
+    "title": "Mija Podcast (Spanish)",
+    "publisher": "Studio Ochenta",
+    "rss": "https://feeds.acast.com/public/shows/58c510ed-92ac-4acd-b659-d79dec0360e3",
+    "artwork": "https://assets.pippa.io/shows/60dce107dd59a3ddc63d7e3a/show-cover.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:46Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "culture",
+      "interview"
+    ]
   }
 ]
