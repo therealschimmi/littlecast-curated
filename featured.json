@@ -5327,5 +5327,20 @@
       "drama",
       "languages"
     ]
+  },
+  {
+    "id": "histoires-du-soir-au-dodo",
+    "title": "Histoires du soir : au dodo !",
+    "publisher": "Engle",
+    "rss": "https://feeds.audiomeans.fr/feed/7816db93-e068-4354-9166-979434bc6630.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/edecf338-3d6c-44c9-9987-ec17c6c1715d.png",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:42Z",
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
