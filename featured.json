@@ -2345,7 +2345,7 @@
     "added_at": "2026-04-10T08:21:07Z",
     "avgDurationMinutes": 10,
     "ageRange": "5-10",
-    "avg_duration_min": 12,
+    "avg_duration_min": 13,
     "tags": [
       "science",
       "nature",
@@ -2360,7 +2360,7 @@
     "rss": "https://feeds.libsyn.com/576495/rss",
     "artwork": "https://static.libsyn.com/p/assets/e/e/5/1/ee51ad557de2f0d516c3140a3186d450/CuriousKidsEveryDay_FinalLogo.jpg",
     "language": "en",
-    "avg_duration_min": 12,
+    "avg_duration_min": 13,
     "tags": [
       "science",
       "emotions",
@@ -2456,7 +2456,7 @@
     "added_at": "2026-04-10T08:26:19Z",
     "avgDurationMinutes": 15,
     "ageRange": "8-14",
-    "avg_duration_min": 15,
+    "avg_duration_min": 16,
     "tags": [
       "stories",
       "humor",
@@ -3059,7 +3059,7 @@
     "added_at": "2026-06-11T17:48:41Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 34,
+    "avg_duration_min": 33,
     "tags": [
       "humor",
       "interview"
@@ -5381,6 +5381,12 @@
     "artwork": "https://image.simplecastcdn.com/images/470d87e5-83b4-4f88-a28d-ea12b3b2600c/c9592816-80f7-43c5-bcf1-45461a6f7cca/3000x3000/wwsdn-logo-final.jpg?aid=rss_feed",
     "language": "en",
     "added_at": "2026-07-14T07:13:59Z",
-    "avg_duration_min": 14
+    "avg_duration_min": 14,
+    "tags": [
+      "history",
+      "drama",
+      "music",
+      "stories"
+    ]
   }
 ]
