@@ -5477,5 +5477,20 @@
       "fairy-tales",
       "humor"
     ]
+  },
+  {
+    "id": "pequenos-radio-lectores",
+    "title": "Pequeños Radio Lectores",
+    "publisher": "Paola H Llamas ",
+    "rss": "https://www.ivoox.com/pequenos-radio-lectores_fg_f11042016_filtro_1.xml",
+    "artwork": "https://static-1.ivoox.com/canales/2/8/5/8/9121643898582_XXL.jpg?ts=1643898610",
+    "language": "es-ES",
+    "added_at": "2026-07-14T07:18:26Z",
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "interview",
+      "emotions"
+    ]
   }
 ]
