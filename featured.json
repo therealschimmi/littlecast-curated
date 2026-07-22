@@ -5447,5 +5447,20 @@
       "stories",
       "fairy-tales"
     ]
+  },
+  {
+    "id": "hada-de-fresa",
+    "title": "Hada de Fresa",
+    "publisher": "HADA DE FRESA",
+    "rss": "https://www.spreaker.com/show/4160901/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/560bce62144cc9479f2f968788dfbe69.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:24Z",
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "interview",
+      "culture"
+    ]
   }
 ]
