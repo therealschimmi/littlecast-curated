@@ -5342,5 +5342,21 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "mythologie-mes-histoires",
+    "title": "MYTHOLOGIE - Mes histoires",
+    "publisher": "Studio Kodomo",
+    "rss": "https://feeds.360.audion.fm/Iq7dNLGL5p9yIbNCN0Xh1",
+    "artwork": "https://artworks.360.audion.fm/33440d92-d938-4d63-b98c-b52f999a705e.jpg?width=3000&height=3000",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:14Z",
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "history",
+      "culture"
+    ]
   }
 ]
