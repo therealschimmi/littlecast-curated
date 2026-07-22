@@ -5538,5 +5538,20 @@
       "culture",
       "history"
     ]
+  },
+  {
+    "id": "pequehistorias",
+    "title": "Pequehistorias",
+    "publisher": "Mumablue",
+    "rss": "https://anchor.fm/s/10ee9d34c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45351723/d553724b8869fed8.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:31Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "fables"
+    ]
   }
 ]
