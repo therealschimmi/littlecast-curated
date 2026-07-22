@@ -5358,5 +5358,19 @@
       "history",
       "culture"
     ]
+  },
+  {
+    "id": "histoires-pour-enfants-la-voie-des-livres",
+    "title": "Histoires pour enfants - La voie des livres",
+    "publisher": "Gwenn Lebreton",
+    "rss": "http://rss.castbox.fm/everest/b9a98438aab84dfda98f529a1fc17ab0.xml",
+    "artwork": "https://s3.castbox.fm/02/95/0b/d932af44a286c6c2f6747778be.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:19Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   }
 ]
