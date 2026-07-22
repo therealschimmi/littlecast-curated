@@ -5388,5 +5388,20 @@
       "music",
       "stories"
     ]
+  },
+  {
+    "id": "el-vuelo-de-la-cometa-colectivo-de-cuentos-waldorf-para-el-alma",
+    "title": "El vuelo de la cometa - Colectivo de cuentos Waldorf para el Alma",
+    "publisher": "Lifeways America Latina",
+    "rss": "https://anchor.fm/s/9a17fcc4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25752633/25752633-1654625600576-1939c6406ff0d.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:14Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
