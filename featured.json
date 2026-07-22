@@ -5492,5 +5492,20 @@
       "interview",
       "emotions"
     ]
+  },
+  {
+    "id": "la-biblia-para-ninos",
+    "title": "La Biblia para niños",
+    "publisher": "Radio Luz a las Naciones",
+    "rss": "https://feeds.ivoox.com/feed_fg_f1638665_filtro_1.xml",
+    "artwork": "https://static-1.ivoox.com/canales/6/9/3/7/6031543047396_XXL.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:28Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "religion",
+      "stories",
+      "culture"
+    ]
   }
 ]
