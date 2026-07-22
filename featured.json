@@ -5462,5 +5462,20 @@
       "interview",
       "culture"
     ]
+  },
+  {
+    "id": "cuentos-del-derecho-y-del-reves",
+    "title": "CUENTOS DEL DERECHO Y DEL REVÉS",
+    "publisher": "Julián Moreno Montes",
+    "rss": "https://anchor.fm/s/633cc9c8/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16549282/16549282-1690323535925-5d806787dad62.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:27Z",
+    "avg_duration_min": 45,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "humor"
+    ]
   }
 ]
