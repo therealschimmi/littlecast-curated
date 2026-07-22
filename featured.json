@@ -5522,5 +5522,21 @@
       "languages",
       "culture"
     ]
+  },
+  {
+    "id": "habia-una-vez-un-cuento-un-mito-y-una-leyenda",
+    "title": "Había una vez...Un cuento, un mito y una leyenda",
+    "publisher": "Juan David Betancur Fernandez",
+    "rss": "https://rss.buzzsprout.com/471847.rss",
+    "artwork": "https://storage.buzzsprout.com/zjy6njk9wh7hhtpotakd7tcwaqn4?.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:25Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "culture",
+      "history"
+    ]
   }
 ]
