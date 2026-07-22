@@ -5433,5 +5433,19 @@
       "stories",
       "languages"
     ]
+  },
+  {
+    "id": "club-del-cuento",
+    "title": "Club del Cuento.",
+    "publisher": "Club del Cuento",
+    "rss": "https://www.spreaker.com/show/5583357/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8534e1106d1b7c1ec35927303f40c482.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:17:50Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   }
 ]
