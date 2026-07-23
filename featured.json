@@ -6,7 +6,7 @@
     "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "avg_duration_min": 21,
+    "avg_duration_min": 20,
     "tags": [
       "science",
       "experiments",
@@ -93,7 +93,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "6-12",
-    "avg_duration_min": 23,
+    "avg_duration_min": 22,
     "tags": [
       "experiments",
       "humor",
@@ -1264,7 +1264,7 @@
     "added_at": "2026-03-25T22:00:52Z",
     "avgDurationMinutes": 15,
     "ageRange": "5-12",
-    "avg_duration_min": 15,
+    "avg_duration_min": 14,
     "tags": [
       "stories",
       "religion",
@@ -1382,7 +1382,7 @@
     "added_at": "2026-03-25T22:11:54Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-12",
-    "avg_duration_min": 37,
+    "avg_duration_min": 38,
     "tags": [
       "stories",
       "drama",
@@ -1502,7 +1502,7 @@
     "added_at": "2026-03-25T22:20:16Z",
     "avgDurationMinutes": 10,
     "ageRange": "7-12",
-    "avg_duration_min": 6,
+    "avg_duration_min": 7,
     "tags": [
       "quiz",
       "humor"
@@ -2204,7 +2204,7 @@
     "added_at": "2026-04-07T16:31:30Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-8",
-    "avg_duration_min": 16,
+    "avg_duration_min": 14,
     "tags": [
       "stories",
       "drama"
@@ -3897,7 +3897,7 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/134a4e6a93956a453e9326a9436e3b14.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:12:33Z",
-    "avg_duration_min": 16,
+    "avg_duration_min": 15,
     "tags": [
       "religion",
       "stories",
@@ -5202,7 +5202,7 @@
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5c72dbe274137ad5144875baf9acc43d.jpg",
     "language": "en",
     "added_at": "2026-07-17T14:10:10Z",
-    "avg_duration_min": 11,
+    "avg_duration_min": 20,
     "tags": [
       "stories",
       "fairy-tales"
