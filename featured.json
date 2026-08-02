@@ -6289,5 +6289,20 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "hirnguezli-der-schweizer-wissenspodcast-fur-kinder",
+    "title": "Hirnguezli – Der Schweizer Wissenspodcast für Kinder",
+    "publisher": "",
+    "rss": "https://media.rss.com/hirnguezli-podcast/feed.xml",
+    "artwork": "https://media.rss.com/hirnguezli-podcast/podcast_cover_20260717_070720_aa315e57621cfd8a34725111372b5340.png",
+    "language": "de-ch",
+    "avg_duration_min": 22,
+    "tags": [
+      "science",
+      "nature",
+      "humor",
+      "quiz"
+    ]
   }
 ]
