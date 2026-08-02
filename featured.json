@@ -6674,5 +6674,23 @@
       "science",
       "nature"
     ]
+  },
+  {
+    "id": "snoop-and-sniffy-dog-detective-stories-for-kids",
+    "title": "Snoop and Sniffy: Dog Detective Stories for Kids",
+    "publisher": "GoKidGo: Great Stories for Kids",
+    "rss": "https://feeds.megaphone.fm/SBP2630961872",
+    "artwork": "https://megaphone.imgix.net/podcasts/b95b664c-4cd8-11ee-9ee1-9fc33e7b4745/image/61989909c89299c0ba948ab3d05985fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-07-14T07:15:09Z",
+    "episodes": 177,
+    "latest_episode_at": "2026-06-23T20:06:31Z",
+    "avg_duration_min": 20,
+    "tags": [
+      "stories",
+      "humor",
+      "animals",
+      "drama"
+    ]
   }
 ]
