@@ -6656,5 +6656,23 @@
       "music",
       "culture"
     ]
+  },
+  {
+    "id": "news-time",
+    "title": "News Time",
+    "publisher": "ABC Australia",
+    "rss": "https://www.abc.net.au/feeds/9989710/podcast.xml",
+    "artwork": "",
+    "language": "en",
+    "added_at": "2026-07-14T07:16:12Z",
+    "episodes": 250,
+    "latest_episode_at": "2026-07-30T19:16:47Z",
+    "avg_duration_min": 12,
+    "tags": [
+      "animals",
+      "space",
+      "science",
+      "nature"
+    ]
   }
 ]
