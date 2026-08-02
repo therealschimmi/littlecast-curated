@@ -6363,5 +6363,19 @@
       "quiz",
       "humor"
     ]
+  },
+  {
+    "id": "ok-let-s-learn",
+    "title": "OK Let’s Learn",
+    "publisher": "",
+    "rss": "https://rss.buzzsprout.com/2513132.rss",
+    "artwork": "https://storage.buzzsprout.com/0c22qnjs7l5vaskeeqsj4nd3ub8j?.jpg",
+    "language": "en",
+    "avg_duration_min": 23,
+    "tags": [
+      "stories",
+      "quiz",
+      "interview"
+    ]
   }
 ]
