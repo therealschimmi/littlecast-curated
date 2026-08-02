@@ -5680,5 +5680,19 @@
       "emotions",
       "quiz"
     ]
+  },
+  {
+    "id": "ab-ins-bett-die-tagliche-gute-nacht-geschichte",
+    "title": "Ab ins Bett - Die tägliche Gute-Nacht-Geschichte",
+    "publisher": "",
+    "rss": "https://abinsbett.podcaster.de/die-taegliche-gute-nacht-geschichte.rss",
+    "artwork": "https://files.pdcstrcdn.de/a/evc95t/i/850659/f/1bcc6148-ef59-4016-bb24-c167f89b98ad(1).jpg",
+    "language": "de",
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
