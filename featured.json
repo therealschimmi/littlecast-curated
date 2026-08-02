@@ -6154,5 +6154,21 @@
       "music",
       "religion"
     ]
+  },
+  {
+    "id": "truthdiggers",
+    "title": "Truthdiggers",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/2b1a0adb-9931-4090-8e4d-ae8300aff4c1/6e97ffe4-fbb3-479d-b9c7-ae8300b170b0/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/289ceca7-bef3-48af-9f74-a4ba0095cab1/2b1a0adb-9931-4090-8e4d-ae8300aff4c1/image.jpg?t=1650969963&size=Large",
+    "language": "en-GB",
+    "added_at": "2026-07-14T07:13:55Z",
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "drama",
+      "humor",
+      "interview"
+    ]
   }
 ]
