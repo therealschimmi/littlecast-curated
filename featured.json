@@ -5709,5 +5709,19 @@
       "animals",
       "experiments"
     ]
+  },
+  {
+    "id": "opa-rob-vertelt",
+    "title": "Opa Rob vertelt",
+    "publisher": "",
+    "rss": "https://feed.podbean.com/oparob/feed.xml",
+    "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/11199609/abc.jpg",
+    "language": "nl",
+    "avg_duration_min": 14,
+    "tags": [
+      "stories",
+      "drama",
+      "humor"
+    ]
   }
 ]
