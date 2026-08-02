@@ -6555,5 +6555,22 @@
       "stories",
       "humor"
     ]
+  },
+  {
+    "id": "professor-theo-s-mystery-lab",
+    "title": "Professor Theo's Mystery Lab",
+    "publisher": "Jonathan Joy",
+    "rss": "https://anchor.fm/s/6e6ff2c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1058019/1058019-1537741723760-c89283340e82a.jpg",
+    "language": "en",
+    "added_at": "2026-07-14T07:17:18Z",
+    "episodes": 220,
+    "latest_episode_at": "2026-03-21T01:11:42Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "science",
+      "humor"
+    ]
   }
 ]
