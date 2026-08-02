@@ -6009,5 +6009,19 @@
       "emotions",
       "nature"
     ]
+  },
+  {
+    "id": "science-s-not-boring",
+    "title": "Science's Not Boring",
+    "publisher": "",
+    "rss": "https://rss.buzzsprout.com/2624612.rss",
+    "artwork": "https://storage.buzzsprout.com/adtmo2c88vuma2emikivmz578vku?.jpg",
+    "language": "en",
+    "avg_duration_min": 13,
+    "tags": [
+      "science",
+      "experiments",
+      "body"
+    ]
   }
 ]
