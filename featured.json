@@ -5625,5 +5625,20 @@
       "stories",
       "emotions"
     ]
+  },
+  {
+    "id": "south-african-folk-tales",
+    "title": "South African Folk-Tales",
+    "publisher": "",
+    "rss": "https://www.spreaker.com/show/6112790/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/978be846ec43809a52de8c2c0102357a.jpg",
+    "language": "en",
+    "avg_duration_min": 144,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "culture",
+      "geography"
+    ]
   }
 ]
