@@ -6739,5 +6739,21 @@
       "stories",
       "culture"
     ]
+  },
+  {
+    "id": "circle-round",
+    "title": "Circle Round",
+    "publisher": "WBUR",
+    "rss": "https://rss.wbur.org/circleround/podcast",
+    "artwork": "https://media.wbur.org/wp/2017/06/Circle-Round_3000x3000_Summer.jpg",
+    "language": "en",
+    "added_at": "2026-07-14T07:13:59Z",
+    "avg_duration_min": 22,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "culture",
+      "emotions"
+    ]
   }
 ]
