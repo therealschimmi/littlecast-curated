@@ -6037,5 +6037,19 @@
       "stories",
       "drama"
     ]
+  },
+  {
+    "id": "be-loud-radio",
+    "title": "Be Loud Radio",
+    "publisher": "",
+    "rss": "https://feeds.transistor.fm/the-be-loud-radio-hour",
+    "artwork": "https://img.transistorcdn.com/UDyFaAsro_o04SujDj6PuxaySs_MgOo4Md5hXLBc5nI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzQwMDM5LzE2OTQ0/MDAxMzQtYXJ0d29y/ay5qcGc.jpg",
+    "language": "en",
+    "avg_duration_min": 26,
+    "tags": [
+      "emotions",
+      "humor",
+      "interview"
+    ]
   }
 ]
