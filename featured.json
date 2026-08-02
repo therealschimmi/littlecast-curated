@@ -5841,5 +5841,20 @@
       "geography",
       "culture"
     ]
+  },
+  {
+    "id": "how-d-that-happen",
+    "title": "How'd That Happen?",
+    "publisher": "",
+    "rss": "https://feeds.transistor.fm/news-nugs",
+    "artwork": "https://img.transistorcdn.com/Uv2HiN-FsLVguUmwg4-DyiOfFmyt47WfLcdl4zicJRg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NjQx/MGZhZjVkYTUzODBk/OGI0OWFjYTRkYjlk/ZjVlOS5wbmc.jpg",
+    "language": "en",
+    "avg_duration_min": 8,
+    "tags": [
+      "science",
+      "history",
+      "culture",
+      "geography"
+    ]
   }
 ]
