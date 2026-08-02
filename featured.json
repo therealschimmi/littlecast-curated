@@ -6709,5 +6709,20 @@
       "history",
       "science"
     ]
+  },
+  {
+    "id": "fun-kids-science-quest",
+    "title": "Fun Kids Science Quest",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/14b69fe4-635d-4253-bccf-aa710001b221/ed19a8b4-abae-4e93-af4b-aa710001b234/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/14b69fe4-635d-4253-bccf-aa710001b221/ed19a8b4-abae-4e93-af4b-aa710001b234/image.jpg?t=1769789086&size=Large",
+    "language": "en",
+    "added_at": "2026-07-14T07:16:06Z",
+    "avg_duration_min": 20,
+    "tags": [
+      "science",
+      "space",
+      "history"
+    ]
   }
 ]
