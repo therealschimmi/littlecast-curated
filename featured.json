@@ -6275,5 +6275,19 @@
       "nature",
       "emotions"
     ]
+  },
+  {
+    "id": "tilibou-histoires-du-soir-pour-enfants",
+    "title": "Tilibou : histoires du soir pour enfants",
+    "publisher": "",
+    "rss": "https://feed.ausha.co/qdv0lCd3RZ5J",
+    "artwork": "https://image.ausha.co/c9mv9OFqnXaSZfnNgksFshmgcVGGeHipr3SjaiHd_1400x1400.jpeg?t=1783673203",
+    "language": "fr",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
