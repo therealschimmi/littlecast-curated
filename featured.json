@@ -6462,5 +6462,20 @@
       "music",
       "emotions"
     ]
+  },
+  {
+    "id": "earth-rangers",
+    "title": "Earth Rangers",
+    "publisher": "GZM Shows",
+    "rss": "https://rss.art19.com/gzm-earth-rangers",
+    "artwork": "https://content.production.cdn.art19.com/images/0a/7a/74/b6/0a7a74b6-450c-4a35-aa02-e4fd6e254290/15ac534758139c7f06dc3f48fbf055e6905403d9bb8b51a590e28d0c7304f0ee5ce938be48890f9cf7508f47e2a2e674447f7f8d6f90671a6f756e3a2799049e.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:15:06Z",
+    "avg_duration_min": 15,
+    "tags": [
+      "animals",
+      "nature",
+      "science"
+    ]
   }
 ]
