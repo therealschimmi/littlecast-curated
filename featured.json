@@ -6246,5 +6246,20 @@
       "nature",
       "geography"
     ]
+  },
+  {
+    "id": "page-flippers-take-on-the-world",
+    "title": "Page Flippers Take on the World",
+    "publisher": "Brooklyn Public Library",
+    "rss": "https://pageflippers.feeds.bklynlibrary.org",
+    "artwork": "https://f.prxu.org/1413/images/18906e5e-9c21-4733-aa14-718682af18f1/PAGE_FLIPPERS_ART.png",
+    "language": "en",
+    "added_at": "2026-07-14T07:13:20Z",
+    "avg_duration_min": 11,
+    "tags": [
+      "stories",
+      "interview",
+      "humor"
+    ]
   }
 ]
