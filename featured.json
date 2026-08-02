@@ -6605,5 +6605,22 @@
       "fairy-tales",
       "humor"
     ]
+  },
+  {
+    "id": "ririro-com-fr-histoires-0-6-ans",
+    "title": "Ririro.com/fr - Histoires (0-6 Ans)",
+    "publisher": "Ririro",
+    "rss": "https://www.spreaker.com/show/6574364/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a77548c180f5b576b074750d3ad14f91.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:20:15Z",
+    "episodes": 61,
+    "latest_episode_at": "2026-08-02T09:12:36Z",
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "animals"
+    ]
   }
 ]
