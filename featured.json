@@ -5911,5 +5911,19 @@
       "emotions",
       "humor"
     ]
+  },
+  {
+    "id": "krumel-geschichten-von-mdr-sachsen",
+    "title": "Krümel-Geschichten von MDR SACHSEN",
+    "publisher": "",
+    "rss": "https://www.mdr.de/sachsenradio/podcast/kruemel/audiogalerie-kruemel-mdr-100.xml",
+    "artwork": "https://images.mdr.de/image/1b618bed-abd5-431f-b796-39dd3c480572/AAABnS8b_Og/AAABnSStX0g/1x1-big/kruemel-podcast-cover-audiothek-mdr-100.jpg?overlay=77061ae9-fcc1-47c7-a934-8fc60c5f2977&overlayModificationDate=AAABl3iUe8k&width=3000",
+    "language": "de",
+    "avg_duration_min": 14,
+    "tags": [
+      "stories",
+      "humor",
+      "culture"
+    ]
   }
 ]
