@@ -5598,5 +5598,19 @@
       "humor",
       "geography"
     ]
+  },
+  {
+    "id": "biblische-geschichten-erzahlt",
+    "title": "Biblische Geschichten erzählt",
+    "publisher": "",
+    "rss": "https://anchor.fm/s/72062b34/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/19030069/19030069-1637054514379-b60d32a10900a.jpg",
+    "language": "de",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "religion",
+      "culture"
+    ]
   }
 ]
