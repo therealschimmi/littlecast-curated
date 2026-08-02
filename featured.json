@@ -5966,5 +5966,20 @@
       "stories",
       "emotions"
     ]
+  },
+  {
+    "id": "radio-tata-racconti-per-bambini",
+    "title": "Radio Tata - Racconti per bambini",
+    "publisher": "Radio K55",
+    "rss": "https://www.spreaker.com/show/5951213/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c2e6cfab41a94fd36b91b1b47c529223.jpg",
+    "language": "it",
+    "added_at": "2026-08-02T11:58:45Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "culture"
+    ]
   }
 ]
