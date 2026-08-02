@@ -5795,5 +5795,20 @@
       "stories",
       "fairy-tales"
     ]
+  },
+  {
+    "id": "curiosidades-de-la-historia-national-geographic",
+    "title": "Curiosidades de la Historia National Geographic",
+    "publisher": "National Geographic España",
+    "rss": "https://feeds.ivoox.com/feed_fg_f1715166_filtro_1.xml",
+    "artwork": "https://static-1.ivoox.com/canales/0/8/1/7/0817681be6bcdfd27f7636897f82ac92_XXL.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:18:33Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "history",
+      "stories",
+      "geography"
+    ]
   }
 ]
