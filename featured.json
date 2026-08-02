@@ -6419,5 +6419,19 @@
       "culture",
       "languages"
     ]
+  },
+  {
+    "id": "chill-hor-mit-liv-pur",
+    "title": "CHILL&HÖR mit Liv Pur",
+    "publisher": "Liv Pur",
+    "rss": "https://anchor.fm/s/109da7ab4/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44502805/44502805-1774204328473-842ee8dbdeb6d.jpg",
+    "language": "de",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "culture",
+      "geography"
+    ]
   }
 ]
