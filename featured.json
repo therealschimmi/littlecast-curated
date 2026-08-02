@@ -6433,5 +6433,19 @@
       "culture",
       "geography"
     ]
+  },
+  {
+    "id": "pokemon-stories",
+    "title": "Pokémon Stories",
+    "publisher": "BedtimeStoriesKD",
+    "rss": "https://www.spreaker.com/show/6399498/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fa5a15af39496ebc28b942e3c30435d2.jpg",
+    "language": "en",
+    "avg_duration_min": 6,
+    "tags": [
+      "stories",
+      "animals",
+      "humor"
+    ]
   }
 ]
