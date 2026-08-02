@@ -5981,5 +5981,20 @@
       "fairy-tales",
       "culture"
     ]
+  },
+  {
+    "id": "le-favole-della-buonanotte-di-stargatto",
+    "title": "Le favole della Buonanotte di Stargatto",
+    "publisher": "Buonanotte Bambini",
+    "rss": "https://www.spreaker.com/show/1432788/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3a5b11adb6fc905a3f78814a99e373c.jpg",
+    "language": "it",
+    "added_at": "2026-08-02T11:59:02Z",
+    "avg_duration_min": 4,
+    "tags": [
+      "fairy-tales",
+      "stories",
+      "emotions"
+    ]
   }
 ]
