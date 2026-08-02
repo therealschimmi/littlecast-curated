@@ -5939,5 +5939,19 @@
       "fairy-tales",
       "languages"
     ]
+  },
+  {
+    "id": "storie-per-bambini-il-podcast-di-racconti-per-bimbi-dai-2-ai-5-anni",
+    "title": "Storie per bambini – il podcast di racconti per bimbi dai 2 ai 5 anni",
+    "publisher": "",
+    "rss": "https://www.spreaker.com/show/6562293/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/26132da75f6a00561cc235c3e8771a34.jpg",
+    "language": "it",
+    "avg_duration_min": 12,
+    "tags": [
+      "stories",
+      "emotions",
+      "humor"
+    ]
   }
 ]
