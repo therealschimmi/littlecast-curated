@@ -624,7 +624,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-10",
-    "avg_duration_min": 9,
+    "avg_duration_min": 8,
     "tags": [
       "stories",
       "fairy-tales",
@@ -6662,7 +6662,7 @@
     "title": "News Time",
     "publisher": "ABC Australia",
     "rss": "https://www.abc.net.au/feeds/9989710/podcast.xml",
-    "artwork": "",
+    "artwork": "https://www.abc.net.au/radio/images/programs-2026/ABCKidsNewsTime_3000x3000.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:16:12Z",
     "episodes": 250,
