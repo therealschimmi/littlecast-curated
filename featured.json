@@ -5737,5 +5737,20 @@
       "humor",
       "culture"
     ]
+  },
+  {
+    "id": "mille-et-une-histoires",
+    "title": "Mille et une histoires",
+    "publisher": "Unique Heritage Media",
+    "rss": "https://feeds.acast.com/public/shows/19334001-b713-4e78-b490-9a7028c0f412",
+    "artwork": "https://assets.pippa.io/shows/61a7b8480fef25e1808decd8/1696434344781-3b7e56891c1dc32f71fc028a4f5c08c6.jpeg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:14Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "music"
+    ]
   }
 ]
