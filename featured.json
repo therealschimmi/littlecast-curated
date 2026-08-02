@@ -6185,5 +6185,20 @@
       "music",
       "interview"
     ]
+  },
+  {
+    "id": "judge-bex",
+    "title": "Judge Bex",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/c63b7539-aa48-4ee3-958d-b3b4010fb088/1e22e617-2eae-43b8-9770-b3b4010fb4ef/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/289ceca7-bef3-48af-9f74-a4ba0095cab1/c63b7539-aa48-4ee3-958d-b3b4010fb088/image.jpg?t=1765816161&size=Large",
+    "language": "en",
+    "added_at": "2026-07-14T07:13:56Z",
+    "avg_duration_min": 21,
+    "tags": [
+      "humor",
+      "emotions",
+      "drama"
+    ]
   }
 ]
