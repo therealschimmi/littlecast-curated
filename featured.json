@@ -6639,5 +6639,23 @@
       "science",
       "nature"
     ]
+  },
+  {
+    "id": "flip-and-mozi",
+    "title": "Flip and Mozi",
+    "publisher": "Tinkercast",
+    "rss": "https://rss.art19.com/guide-to-how-to-be-an-earthling-",
+    "artwork": "https://content.production.cdn.art19.com/images/b4/6a/7d/fc/b46a7dfc-15e1-4453-925f-ced6ae9fe7bc/9873e0a1ac92001c95ba4e57fc563ccbd7f322e3da2db981e274774363a0de64add8c491c3e561c9f52f6e09025d9319375d83269be75c99804bca3ef87ec5ed.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:15:10Z",
+    "episodes": 98,
+    "latest_episode_at": "2026-07-31T11:45:44Z",
+    "avg_duration_min": 15,
+    "tags": [
+      "animals",
+      "humor",
+      "music",
+      "culture"
+    ]
   }
 ]
