@@ -6078,5 +6078,20 @@
       "drama",
       "humor"
     ]
+  },
+  {
+    "id": "buonanotte-a-tutti-i-bambini",
+    "title": "Buonanotte a tutti i bambini.",
+    "publisher": "PAOLO MASCHERPA",
+    "rss": "https://www.spreaker.com/show/6927705/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c451cdd355eaf7af449ef9ba607857b0.jpg",
+    "language": "it",
+    "added_at": "2026-08-02T12:08:28Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "humor",
+      "drama"
+    ]
   }
 ]
