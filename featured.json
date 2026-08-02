@@ -5723,5 +5723,19 @@
       "drama",
       "humor"
     ]
+  },
+  {
+    "id": "trivia-para-todos",
+    "title": "Trivia Para Todos",
+    "publisher": "",
+    "rss": "https://rss.buzzsprout.com/2567713.rss",
+    "artwork": "https://storage.buzzsprout.com/zvllsplf962ie8hmj4ky4qik5c5u?.jpg",
+    "language": "es",
+    "avg_duration_min": 21,
+    "tags": [
+      "quiz",
+      "humor",
+      "culture"
+    ]
   }
 ]
