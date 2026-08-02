@@ -6447,5 +6447,20 @@
       "animals",
       "humor"
     ]
+  },
+  {
+    "id": "my-little-pony-the-podcast",
+    "title": "My Little Pony: The Podcast",
+    "publisher": "My Little Pony / Entertainment One",
+    "rss": "https://feeds.acast.com/public/shows/631a4b60e45ca00012f75581",
+    "artwork": "https://assets.pippa.io/shows/cover/1662667598153-1e3e19bd7105954953bab6b6eb8ba2f4.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:11:13Z",
+    "avg_duration_min": 13,
+    "tags": [
+      "stories",
+      "music",
+      "emotions"
+    ]
   }
 ]
