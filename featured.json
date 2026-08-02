@@ -5781,5 +5781,19 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "ririro-com-es-cuentos-0-6-anos",
+    "title": "Ririro.com/es - Cuentos (0-6 Años)",
+    "publisher": "Ririro",
+    "rss": "https://www.spreaker.com/show/6566545/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f947534e0ea81fcd345afa4afbe68f35.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:20:07Z",
+    "avg_duration_min": 23,
+    "tags": [
+      "stories",
+      "fairy-tales"
+    ]
   }
 ]
