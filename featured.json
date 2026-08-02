@@ -6692,5 +6692,22 @@
       "animals",
       "drama"
     ]
+  },
+  {
+    "id": "unspookable",
+    "title": "Unspookable",
+    "publisher": "Soundsington Media",
+    "rss": "https://feeds.megaphone.fm/ARML9653488668",
+    "artwork": "https://megaphone.imgix.net/podcasts/ebbf41d4-0684-11ee-a3f0-23cde64557da/image/4673552f8c024bd69b00b96256701a07.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-07-14T07:16:11Z",
+    "episodes": 104,
+    "latest_episode_at": "2026-06-11T20:44:50Z",
+    "avg_duration_min": 22,
+    "tags": [
+      "stories",
+      "history",
+      "science"
+    ]
   }
 ]
