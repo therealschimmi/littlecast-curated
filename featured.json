@@ -6588,5 +6588,22 @@
       "history",
       "science"
     ]
+  },
+  {
+    "id": "podcasts-pour-enfants-les-meilleures-histoires-pour-enfants",
+    "title": "Podcasts pour enfants : les meilleures histoires pour enfants",
+    "publisher": "Acast France",
+    "rss": "https://feeds.acast.com/public/shows/668671bcdb17e73b0bacae8b",
+    "artwork": "https://assets.pippa.io/shows/668671bcdb17e73b0bacae8b/cover-758a5e18-5d1d-4baf-924d-4d1110da591a.png",
+    "language": "fr",
+    "added_at": "2026-07-14T07:18:23Z",
+    "episodes": 100,
+    "latest_episode_at": "2026-08-02T12:15:41Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "humor"
+    ]
   }
 ]
