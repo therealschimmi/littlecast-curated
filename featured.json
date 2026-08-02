@@ -5568,5 +5568,20 @@
       "culture",
       "interview"
     ]
+  },
+  {
+    "id": "der-quotenschwabe-liest-eddie-erdmaus",
+    "title": "Der Quotenschwabe liest \"Eddie Erdmaus\"",
+    "publisher": "Markus Bayer",
+    "rss": "https://der-quotenschwabe-liest.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sjVDwcUuDdTC8Cg-0V0j5DR3p-1Q7poJ1qxJeKJEHn_Y=/https://main.podigee-cdn.net/uploads/u76668/743ac39e-2889-4267-8b51-2a7cb499f119.jpg",
+    "language": "de",
+    "added_at": "2026-08-02T11:05:40Z",
+    "avg_duration_min": 24,
+    "tags": [
+      "stories",
+      "animals",
+      "emotions"
+    ]
   }
 ]
