@@ -6506,5 +6506,20 @@
       "humor",
       "quiz"
     ]
+  },
+  {
+    "id": "mystery-recipe",
+    "title": "Mystery Recipe",
+    "publisher": "America's Test Kitchen Kids",
+    "rss": "https://rss.art19.com/mystery-recipe",
+    "artwork": "https://content.production.cdn.art19.com/images/64/7c/48/09/647c4809-7433-45ad-87c5-df85eb7d4e0e/71a62445c4dd2718092b9ab6b9c8670df7fec66d538f6f134b2e2446768de0f5eb3495e180a60b278b0fbc851dcf18509cfe3d75f8b3a2f911097f75d6d6e8e5.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:11:16Z",
+    "avg_duration_min": 28,
+    "tags": [
+      "science",
+      "humor",
+      "experiments"
+    ]
   }
 ]
