@@ -5766,5 +5766,20 @@
       "stories",
       "humor"
     ]
+  },
+  {
+    "id": "ririro-com-es-cuentos-6-10-anos",
+    "title": "Ririro.com/es - Cuentos (6-10 Años)",
+    "publisher": "Ririro",
+    "rss": "https://www.spreaker.com/show/6574346/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a77548c180f5b576b074750d3ad14f91.jpg",
+    "language": "es",
+    "added_at": "2026-07-14T07:20:06Z",
+    "avg_duration_min": 33,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
