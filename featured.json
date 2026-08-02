@@ -6923,5 +6923,20 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "kinderpodcast-audio-1-podcast-voor-kinderen",
+    "title": "Kinderpodcast AUDIO 1 - Podcast voor kinderen",
+    "publisher": "audio1.nl - podcast voor kinderen",
+    "rss": "https://anchor.fm/s/1f5c6330/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/5161484/5161484-1638738954494-a6df7970f4aed.jpg",
+    "language": "nl",
+    "added_at": "2026-08-02T20:56:27Z",
+    "avg_duration_min": 22,
+    "tags": [
+      "humor",
+      "quiz",
+      "music"
+    ]
   }
 ]
