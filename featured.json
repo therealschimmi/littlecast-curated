@@ -6622,5 +6622,22 @@
       "fairy-tales",
       "animals"
     ]
+  },
+  {
+    "id": "kidico-l-encyclopedie-sonore-pour-les-enfants",
+    "title": "KIDICO : l'encyclopédie sonore pour les enfants",
+    "publisher": "Studio Kodomo",
+    "rss": "https://feeds.360.audion.fm/HkJKt6FXryJHx5DFovmR9",
+    "artwork": "https://artworks.360.audion.fm/e3240c58-eb12-4327-a579-fe6ba4f1579e.jpg?width=3000&height=3000",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:13Z",
+    "episodes": 115,
+    "latest_episode_at": "2026-08-02T08:42:36Z",
+    "avg_duration_min": 9,
+    "tags": [
+      "quiz",
+      "science",
+      "nature"
+    ]
   }
 ]
