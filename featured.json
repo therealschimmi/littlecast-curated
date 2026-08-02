@@ -5694,5 +5694,20 @@
       "fairy-tales",
       "emotions"
     ]
+  },
+  {
+    "id": "eko-ranek-radio-katowice",
+    "title": "Eko-Ranek | Radio Katowice",
+    "publisher": "",
+    "rss": "https://www.spreaker.com/show/5408116/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4ff2af91be457d29704e5eefa7d4e74b.jpg",
+    "language": "pl",
+    "avg_duration_min": 22,
+    "tags": [
+      "science",
+      "nature",
+      "animals",
+      "experiments"
+    ]
   }
 ]
