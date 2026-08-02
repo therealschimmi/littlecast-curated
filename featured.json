@@ -5825,5 +5825,21 @@
       "humor",
       "emotions"
     ]
+  },
+  {
+    "id": "big-world-little-ears",
+    "title": "Big World, Little Ears",
+    "publisher": "",
+    "rss": "https://anchor.fm/s/1129f2dac/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45973891/45973891-1778907554431-69db865164b59.jpg",
+    "language": "en",
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "science",
+      "nature",
+      "geography",
+      "culture"
+    ]
   }
 ]
