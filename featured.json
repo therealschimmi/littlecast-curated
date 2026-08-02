@@ -5996,5 +5996,18 @@
       "stories",
       "emotions"
     ]
+  },
+  {
+    "id": "white-noise-meditation-for-kids",
+    "title": "White Noise Meditation for Kids",
+    "publisher": "",
+    "rss": "https://feeds.megaphone.fm/whitenoisemeditationforkids",
+    "artwork": "https://megaphone.imgix.net/podcasts/f1522574-8f89-11ee-85ad-eb777e227022/image/d458a963a65df09dc810f4c5e7251823.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "avg_duration_min": 72,
+    "tags": [
+      "emotions",
+      "nature"
+    ]
   }
 ]
