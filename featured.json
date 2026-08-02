@@ -5870,5 +5870,18 @@
       "quiz",
       "history"
     ]
+  },
+  {
+    "id": "science-kidsnewsflash",
+    "title": "Science KidsNewsFlash",
+    "publisher": "",
+    "rss": "https://feeds.transistor.fm/sciencenewsflash",
+    "artwork": "https://img.transistorcdn.com/z7PQh1s87t63t1kyadLDHwwkCF51SIagO7SdMr97oBY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mYjI4/OWFhYTU0NWQ3NmFi/ZTdmNjI1ZDk4NmQ4/MzYxZC5wbmc.jpg",
+    "language": "en",
+    "avg_duration_min": 8,
+    "tags": [
+      "science",
+      "quiz"
+    ]
   }
 ]
