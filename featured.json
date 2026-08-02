@@ -6201,19 +6201,19 @@
     ]
   },
   {
+    "added_at": "2026-07-14T07:13:55Z",
+    "avg_duration_min": 9,
     "id": "badger-and-the-blitz",
     "title": "Badger and the Blitz",
     "publisher": "Fun Kids",
     "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/379877eb-4219-4e39-a987-afdb00bbacde/b7025dc5-5e78-4ea2-8c1c-afdb00bd8d80/podcast.rss",
     "artwork": "https://www.omnycontent.com/d/programs/289ceca7-bef3-48af-9f74-a4ba0095cab1/379877eb-4219-4e39-a987-afdb00bbacde/image.jpg?t=1680791412&size=Large",
-    "language": "en-GB",
-    "added_at": "2026-07-14T07:13:55Z",
-    "avg_duration_min": 9,
+    "language": "en",
     "tags": [
       "stories",
+      "animals",
       "history",
-      "emotions",
-      "animals"
+      "emotions"
     ]
   },
   {
