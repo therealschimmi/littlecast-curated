@@ -5856,5 +5856,19 @@
       "culture",
       "geography"
     ]
+  },
+  {
+    "id": "kids-learning-lab-science-history-and-technology-for-kids-and-family",
+    "title": "Kids Learning Lab - Science, History, and Technology for Kids and Family",
+    "publisher": "",
+    "rss": "https://anchor.fm/s/d1b8e6fc/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/35085559/35085559-1784590522505-c5b8cb757d319.jpg",
+    "language": "en",
+    "avg_duration_min": 9,
+    "tags": [
+      "science",
+      "quiz",
+      "history"
+    ]
   }
 ]
