@@ -6833,5 +6833,20 @@
       "interview",
       "culture"
     ]
+  },
+  {
+    "id": "wie-tickt-die-welt-der-kinderpodcast-club-der-bucherpiraten",
+    "title": "Wie tickt die Welt? Der Kinderpodcast-Club der Bücherpiraten",
+    "publisher": "Bücherpiraten e. V. Der Kinderpodcast-Club",
+    "rss": "https://wie-tickt-die-welt.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,skisSzI7wK9htX74TVeG7VjlaF6TNyMx9peqRwCzhPQg=/https://main.podigee-cdn.net/uploads/u27550/d08e9ca5-ce66-46ea-b75c-278d5626b965.jpg",
+    "language": "de",
+    "added_at": "2026-08-02T17:03:03Z",
+    "avg_duration_min": 33,
+    "tags": [
+      "interview",
+      "science",
+      "culture"
+    ]
   }
 ]
