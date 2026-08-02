@@ -6391,5 +6391,19 @@
       "religion",
       "culture"
     ]
+  },
+  {
+    "id": "storylark-histoires-du-soir",
+    "title": "StoryLark Histoires du Soir",
+    "publisher": "StoryLark",
+    "rss": "https://storylark-api-production.up.railway.app/api/podcast/histoires-du-soir/feed.xml",
+    "artwork": "https://zzcboazwztwixajrqvnv.supabase.co/storage/v1/object/public/podcast/covers/histoires-du-soir.png",
+    "language": "fr",
+    "avg_duration_min": 9,
+    "tags": [
+      "stories",
+      "music",
+      "emotions"
+    ]
   }
 ]
