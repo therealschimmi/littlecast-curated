@@ -6,7 +6,7 @@
     "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "avg_duration_min": 20,
+    "avg_duration_min": 21,
     "tags": [
       "science",
       "experiments",
@@ -268,7 +268,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 28,
+    "avg_duration_min": 27,
     "tags": [
       "stories",
       "humor",
@@ -419,7 +419,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "4-10",
-    "avg_duration_min": 18,
+    "avg_duration_min": 19,
     "tags": [
       "stories",
       "fairy-tales",
@@ -465,7 +465,7 @@
     "title": "Brains On!",
     "publisher": "Brains On Universe",
     "rss": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/20172af1-ae6b-4b68-90d7-b375010d4361/podcast.rss",
-    "artwork": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/image.jpg?t=1760463026&size=Large",
+    "artwork": "https://megaphone.imgix.net/podcasts/b89ea504-34f0-11f1-b10d-d70de597c917/image/27093a56c1f801fc77ebfde31c2f19f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 30,
@@ -522,7 +522,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 25,
     "ageRange": "5-12",
-    "avg_duration_min": 27,
+    "avg_duration_min": 28,
     "tags": [
       "science",
       "nature",
@@ -540,7 +540,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-12",
-    "avg_duration_min": 24,
+    "avg_duration_min": 22,
     "tags": [
       "science",
       "humor",
@@ -792,7 +792,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 12,
+    "avg_duration_min": 11,
     "tags": [
       "stories",
       "fairy-tales",
@@ -1110,7 +1110,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 12,
     "ageRange": "3-8",
-    "avg_duration_min": 8,
+    "avg_duration_min": 9,
     "tags": [
       "stories",
       "fairy-tales",
@@ -1314,7 +1314,7 @@
     "added_at": "2026-03-25T22:01:04Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 22,
+    "avg_duration_min": 20,
     "tags": [
       "stories",
       "emotions"
@@ -1450,7 +1450,7 @@
     "added_at": "2026-03-25T22:12:12Z",
     "avgDurationMinutes": 15,
     "ageRange": "4-8",
-    "avg_duration_min": 36,
+    "avg_duration_min": 39,
     "tags": [
       "stories",
       "drama",
@@ -1502,7 +1502,7 @@
     "added_at": "2026-03-25T22:20:16Z",
     "avgDurationMinutes": 10,
     "ageRange": "7-12",
-    "avg_duration_min": 7,
+    "avg_duration_min": 9,
     "tags": [
       "quiz",
       "humor"
@@ -1518,7 +1518,7 @@
     "added_at": "2026-03-25T22:20:26Z",
     "avgDurationMinutes": 25,
     "ageRange": "5-10",
-    "avg_duration_min": 23,
+    "avg_duration_min": 22,
     "tags": [
       "stories",
       "emotions",
@@ -1569,7 +1569,7 @@
     "added_at": "2026-03-25T22:20:43Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 36,
+    "avg_duration_min": 37,
     "tags": [
       "stories",
       "music",
@@ -1767,7 +1767,7 @@
     "added_at": "2026-03-27T15:51:05Z",
     "avgDurationMinutes": 12,
     "ageRange": "3-8",
-    "avg_duration_min": 22,
+    "avg_duration_min": 21,
     "tags": [
       "stories",
       "humor",
@@ -2051,7 +2051,7 @@
     "added_at": "2026-03-31T06:33:58Z",
     "avgDurationMinutes": 15,
     "ageRange": "3-8",
-    "avg_duration_min": 8,
+    "avg_duration_min": 7,
     "tags": [
       "stories",
       "fairy-tales",
@@ -2204,7 +2204,7 @@
     "added_at": "2026-04-07T16:31:30Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-8",
-    "avg_duration_min": 14,
+    "avg_duration_min": 16,
     "tags": [
       "stories",
       "drama"
@@ -2220,7 +2220,7 @@
     "added_at": "2026-04-07T16:31:46Z",
     "avgDurationMinutes": 10,
     "ageRange": "2-6",
-    "avg_duration_min": 12,
+    "avg_duration_min": 11,
     "tags": [
       "stories",
       "fairy-tales",
@@ -2521,7 +2521,7 @@
     "added_at": "2026-04-10T08:26:26Z",
     "avgDurationMinutes": 20,
     "ageRange": "4-8",
-    "avg_duration_min": 18,
+    "avg_duration_min": 17,
     "tags": [
       "stories",
       "history",
@@ -2685,7 +2685,7 @@
     "added_at": "2026-04-11T04:42:27Z",
     "avgDurationMinutes": 30,
     "ageRange": "6-12",
-    "avg_duration_min": 35,
+    "avg_duration_min": 36,
     "tags": [
       "quiz",
       "humor",
@@ -2699,7 +2699,7 @@
     "rss": "https://feeds.br.de/alle-gegen-nico-zockt-um-die-quizkrone/feed.xml",
     "artwork": "https://img.br.de/d3118196-d8c7-4c23-bb26-6cf45baa5c66.jpeg?fm=jpg",
     "language": "de",
-    "avg_duration_min": 31,
+    "avg_duration_min": 30,
     "tags": [
       "quiz",
       "humor",
@@ -3042,7 +3042,7 @@
     "added_at": "2026-06-11T17:41:44Z",
     "avgDurationMinutes": 20,
     "ageRange": "7-12",
-    "avg_duration_min": 12,
+    "avg_duration_min": 13,
     "tags": [
       "humor",
       "quiz",
@@ -3059,7 +3059,7 @@
     "added_at": "2026-06-11T17:48:41Z",
     "avgDurationMinutes": 25,
     "ageRange": "8-14",
-    "avg_duration_min": 33,
+    "avg_duration_min": 34,
     "tags": [
       "humor",
       "interview"
@@ -3227,7 +3227,7 @@
     "artwork": "https://images.podigee-cdn.net/0x,skFlBZNJ2ajuOLQ3FVpxbpgQ4P62Y4IsCPCyO_Qybd0c=/https://main.podigee-cdn.net/uploads/u8209/129711d7-8350-4293-aa3a-befcbc673446.jpg",
     "language": "de",
     "added_at": "2026-06-16T11:59:10Z",
-    "avg_duration_min": 22,
+    "avg_duration_min": 21,
     "tags": [
       "geography",
       "nature",
@@ -3912,7 +3912,7 @@
     "artwork": "https://storage.gra.cloud.ovh.net/v1/AUTH_1db17c9a9c714ce39f508d240f11d920/octopus-bucket/cd5258ba-ddf2-4d85-8e1c-29c5456567dd/emission/16422/2f4a9047-83cf-4472-856f-0eeee92da59c.jpg",
     "language": "fr",
     "added_at": "2026-07-14T05:39:11Z",
-    "avg_duration_min": 11,
+    "avg_duration_min": 10,
     "tags": [
       "stories",
       "geography",
@@ -3986,7 +3986,7 @@
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/36339576/1d12852d83886fe0.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:44Z",
-    "avg_duration_min": 17,
+    "avg_duration_min": 18,
     "tags": [
       "stories",
       "fairy-tales",
@@ -4215,7 +4215,7 @@
     "artwork": "https://cdn.audiorella.com/podcasts/1786-laluna-traumreisen-zum-einschlafen/1786_cover.jpg?v=3",
     "language": "de",
     "added_at": "2026-06-16T11:58:47Z",
-    "avg_duration_min": 19,
+    "avg_duration_min": 20,
     "tags": [
       "stories",
       "fairy-tales",
@@ -4261,7 +4261,7 @@
     "artwork": "https://img.br.de/7b9a26a1-86b1-4155-a8e9-ed3ad6229d55.jpeg?fm=jpg",
     "language": "de",
     "added_at": "2026-07-14T18:23:45Z",
-    "avg_duration_min": 28,
+    "avg_duration_min": 29,
     "tags": [
       "music",
       "quiz",
@@ -4606,7 +4606,7 @@
     "artwork": "https://image.ausha.co/2cA4SXmMjwDHUHrvT6TRLFs0zBGQQlltBfVyeX5J_1400x1400.jpeg?t=1777489304",
     "language": "fr",
     "added_at": "2026-07-14T06:58:40Z",
-    "avg_duration_min": 25,
+    "avg_duration_min": 24,
     "tags": [
       "stories",
       "emotions"
@@ -4768,7 +4768,7 @@
     "artwork": "https://assets.pippa.io/shows/61694f8286d7b17b4c20b80c/1756888815005-e5ff25e6-9bf3-4783-8e9b-e88143dde71b.jpeg",
     "language": "fr",
     "added_at": "2026-07-14T06:58:45Z",
-    "avg_duration_min": 14,
+    "avg_duration_min": 13,
     "tags": [
       "science",
       "humor",
@@ -5006,7 +5006,7 @@
     "artwork": "https://megaphone.imgix.net/podcasts/7b555f42-2e26-11f1-825c-a798598d0a3a/image/d2bef5d948c5f644dc34359c379ab5f9.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en-us",
     "added_at": "2026-07-14T07:11:11Z",
-    "avg_duration_min": 21,
+    "avg_duration_min": 20,
     "tags": [
       "stories",
       "drama",
