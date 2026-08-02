@@ -6051,5 +6051,18 @@
       "humor",
       "interview"
     ]
+  },
+  {
+    "id": "football-bedtime-stories",
+    "title": "Football Bedtime Stories",
+    "publisher": "",
+    "rss": "https://feeds.captivate.fm/football-bedtime-stories/",
+    "artwork": "https://artwork.captivate.fm/f0698168-fbdc-45c8-9adf-aa84fda0b678/1734563388856-688a6e3a-5912-4bb8-8dcd-d342d1d5a242.jpeg",
+    "language": "en",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   }
 ]
