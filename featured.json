@@ -6755,5 +6755,22 @@
       "culture",
       "emotions"
     ]
+  },
+  {
+    "id": "brains-on-science-podcast-for-kids",
+    "title": "Brains On! Science podcast for kids",
+    "publisher": "Brains On Universe",
+    "rss": "https://feeds.megaphone.fm/LEME2532531912",
+    "artwork": "https://megaphone.imgix.net/podcasts/b89ea504-34f0-11f1-b10d-d70de597c917/image/27093a56c1f801fc77ebfde31c2f19f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-07-14T07:16:04Z",
+    "episodes": 420,
+    "latest_episode_at": "2026-07-28T16:56:29Z",
+    "avg_duration_min": 29,
+    "tags": [
+      "science",
+      "animals",
+      "humor"
+    ]
   }
 ]
