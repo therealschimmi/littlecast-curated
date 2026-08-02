@@ -5666,5 +5666,19 @@
       "languages",
       "culture"
     ]
+  },
+  {
+    "id": "krach-mit-kopfchen",
+    "title": "Krach mit Köpfchen",
+    "publisher": "",
+    "rss": "https://krach-mit-koepfchen.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sLcsKhe_9AMhscdAc3_1gtkF1V7k4v_tkUvpSidvR-bE=/https://main.podigee-cdn.net/uploads/u80225/1a7053a8-ccba-458d-824a-a1aef49b729b.png",
+    "language": "de",
+    "avg_duration_min": 46,
+    "tags": [
+      "humor",
+      "emotions",
+      "quiz"
+    ]
   }
 ]
