@@ -6880,5 +6880,19 @@
       "music",
       "culture"
     ]
+  },
+  {
+    "id": "kids-bible-stories-adventures",
+    "title": "Kids Bible Stories & Adventures",
+    "publisher": "Kids Bible Stories & Adventures",
+    "rss": "https://media.rss.com/kids-bible-stories-adventures/feed.xml",
+    "artwork": "https://media.rss.com/kids-bible-stories-adventures/podcast_cover_20260706_010733_c6b50a16c0b36f5b3efbc93a54a36a53.png",
+    "language": "en",
+    "avg_duration_min": 2,
+    "tags": [
+      "stories",
+      "religion",
+      "history"
+    ]
   }
 ]
