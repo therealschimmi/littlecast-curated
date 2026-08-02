@@ -5897,5 +5897,19 @@
       "fairy-tales",
       "fables"
     ]
+  },
+  {
+    "id": "radio-ohrenspitz",
+    "title": "RADIO OHRENSPITZ",
+    "publisher": "",
+    "rss": "https://anchor.fm/s/10a764584/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44604905/44604905-1760789076696-84956881545d1.jpg",
+    "language": "de",
+    "avg_duration_min": 20,
+    "tags": [
+      "stories",
+      "emotions",
+      "humor"
+    ]
   }
 ]
