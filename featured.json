@@ -6724,5 +6724,20 @@
       "space",
       "history"
     ]
+  },
+  {
+    "id": "history-quest-history-for-kids",
+    "title": "History Quest: History for Kids",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/946cf9a9-9cfa-4ad4-aa4c-a4f500faaf6c/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/946cf9a9-9cfa-4ad4-aa4c-a4f500faaf6c/image.jpg?t=1766408954&size=Large",
+    "language": "en",
+    "added_at": "2026-07-14T07:16:08Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "history",
+      "stories",
+      "culture"
+    ]
   }
 ]
