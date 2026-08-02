@@ -5752,5 +5752,19 @@
       "fairy-tales",
       "music"
     ]
+  },
+  {
+    "id": "histoires-pour-enfants-de-la-famille-m",
+    "title": "Histoires pour enfants de la famille M.",
+    "publisher": "lesHistoiresDeLaFamilleM",
+    "rss": "https://anchor.fm/s/4259eaec/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11031891/11031891-1610959864275-39a7ac3b2635c.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T06:59:19Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   }
 ]
