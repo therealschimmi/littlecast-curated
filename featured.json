@@ -5553,5 +5553,20 @@
       "fairy-tales",
       "fables"
     ]
+  },
+  {
+    "id": "in-80-kinderfragen-um-die-welt",
+    "title": "In 80 Kinderfragen um die Welt",
+    "publisher": "Ohrka e.V.",
+    "rss": "https://anchor.fm/s/45a6d048/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/11585602/11585602-1685691725557-4217e4364bc02.jpg",
+    "language": "de",
+    "added_at": "2026-08-02T09:20:00Z",
+    "avg_duration_min": 16,
+    "tags": [
+      "geography",
+      "culture",
+      "interview"
+    ]
   }
 ]
