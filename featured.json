@@ -6123,5 +6123,20 @@
       "music",
       "humor"
     ]
+  },
+  {
+    "id": "5-minute-mysteries-with-kiddy-casey",
+    "title": "5 Minute Mysteries with Kiddy Casey",
+    "publisher": "ABF Creative",
+    "rss": "https://feeds.megaphone.fm/ABFC8050533441",
+    "artwork": "https://megaphone.imgix.net/podcasts/9b42652e-3ad2-11ee-95bf-6ffc6bdffb40/image/5MM_Cover_Art_Final__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-07-14T07:12:34Z",
+    "avg_duration_min": 5,
+    "tags": [
+      "stories",
+      "science",
+      "history"
+    ]
   }
 ]
