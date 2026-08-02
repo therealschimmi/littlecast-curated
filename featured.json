@@ -6349,5 +6349,19 @@
       "drama",
       "humor"
     ]
+  },
+  {
+    "id": "trivia-for-kids",
+    "title": "Trivia for Kids",
+    "publisher": "KRCreative",
+    "rss": "https://feeds.libsyn.com/529502/rss",
+    "artwork": "https://static.libsyn.com/p/assets/b/8/d/6/b8d6ac96af777ab316c3140a3186d450/TFK_logo2-20250530-cvqkjz2b3k.jpg",
+    "language": "en",
+    "added_at": "2026-07-14T07:11:14Z",
+    "avg_duration_min": 46,
+    "tags": [
+      "quiz",
+      "humor"
+    ]
   }
 ]
