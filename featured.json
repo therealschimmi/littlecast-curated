@@ -6405,5 +6405,19 @@
       "music",
       "emotions"
     ]
+  },
+  {
+    "id": "hitat-du-jour",
+    "title": "Hitat du jour",
+    "publisher": "Rav Yehuda Israelievitch",
+    "rss": "https://feeds.captivate.fm/hitat-du-jour/",
+    "artwork": "https://artwork.captivate.fm/1dfa4c6b-736c-4468-ba84-55a61fb549c3/yZ9GE7T-3zUknHT-h3XjMg75.jpg",
+    "language": "fr",
+    "avg_duration_min": 10,
+    "tags": [
+      "religion",
+      "culture",
+      "languages"
+    ]
   }
 ]
