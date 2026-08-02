@@ -6170,5 +6170,20 @@
       "humor",
       "interview"
     ]
+  },
+  {
+    "id": "sean-and-robot-s-comedy-circuit",
+    "title": "Sean and Robot's Comedy Circuit",
+    "publisher": "Fun Kids",
+    "rss": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/5ea58688-98f4-4774-9f06-a4f500e6d198/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/5ea58688-98f4-4774-9f06-a4f500e6d198/image.jpg?t=1593094957&size=Large",
+    "language": "en",
+    "added_at": "2026-07-14T07:13:55Z",
+    "avg_duration_min": 18,
+    "tags": [
+      "humor",
+      "music",
+      "interview"
+    ]
   }
 ]
