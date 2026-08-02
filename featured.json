@@ -6803,5 +6803,20 @@
       "stories",
       "music"
     ]
+  },
+  {
+    "id": "we-the-children-kids-talk-climate-solutions",
+    "title": "We The Children - Kids Talk Climate Solutions",
+    "publisher": "We The Children - Kids Talk Climate Solutions",
+    "rss": "https://feeds.acast.com/public/shows/62631be6be850a0012b7fdcb",
+    "artwork": "https://assets.pippa.io/shows/62631be6be850a0012b7fdcb/1727722636059-3b683560-2d00-462e-82bb-e5db07298374.jpeg",
+    "language": "en",
+    "added_at": "2026-08-02T16:59:31Z",
+    "avg_duration_min": 29,
+    "tags": [
+      "nature",
+      "science",
+      "interview"
+    ]
   }
 ]
