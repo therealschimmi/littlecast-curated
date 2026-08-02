@@ -5000,14 +5000,14 @@
     ]
   },
   {
+    "added_at": "2026-07-14T07:11:10Z",
+    "avg_duration_min": 25,
     "id": "the-story-forest",
     "title": "The Story Forest",
     "publisher": "Anna Roberts",
     "rss": "https://rss.buzzsprout.com/969160.rss",
     "artwork": "https://storage.buzzsprout.com/s6uloilvkkfxpepva0j3typ750yz?.jpg",
-    "language": "en-gb",
-    "added_at": "2026-07-14T07:11:10Z",
-    "avg_duration_min": 25,
+    "language": "en",
     "tags": [
       "stories",
       "fairy-tales"
