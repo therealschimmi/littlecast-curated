@@ -6491,5 +6491,20 @@
       "stories",
       "humor"
     ]
+  },
+  {
+    "id": "wewow",
+    "title": "WeWow",
+    "publisher": "Tinkercast",
+    "rss": "https://rss.art19.com/camp-wewow",
+    "artwork": "https://content.production.cdn.art19.com/images/67/5a/94/d8/675a94d8-87a9-439d-abfc-3f071d9548a0/61a703b4abcf3f2891a5a2dc424bcf6a28f87513c08fc9607f161d46528cc5ad2794942dd3d3be936df5f62b3d410b2700113820087387e126b97d6ea9360335.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:11:16Z",
+    "avg_duration_min": 22,
+    "tags": [
+      "science",
+      "humor",
+      "quiz"
+    ]
   }
 ]
