@@ -6572,5 +6572,21 @@
       "science",
       "humor"
     ]
+  },
+  {
+    "id": "the-genius-generation",
+    "title": "The Genius Generation",
+    "publisher": "Seeker and TRAX from PRX",
+    "rss": "https://thegeniusgeneration.feeds.seeker.com",
+    "artwork": "https://f.prxu.org/336/images/95cad725-d655-4ea8-b465-d9f36c32edca/PODCAST_GG_ARTWORK.png",
+    "language": "en",
+    "added_at": "2026-07-14T07:14:38Z",
+    "latest_episode_at": "2026-03-13T22:05:44Z",
+    "avg_duration_min": 12,
+    "tags": [
+      "interview",
+      "history",
+      "science"
+    ]
   }
 ]
