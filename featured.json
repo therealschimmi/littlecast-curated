@@ -6477,5 +6477,19 @@
       "nature",
       "science"
     ]
+  },
+  {
+    "id": "bottle-ship-adventures",
+    "title": "Bottle Ship Adventures",
+    "publisher": "with our friends The Jifflings",
+    "rss": "https://feeds.acast.com/public/shows/632ad43224d86e001290a57a",
+    "artwork": "https://assets.pippa.io/shows/632ad43224d86e001290a57a/1681804651451-2b2a7efcd393b98f5b03be0a1569cea9.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:15:06Z",
+    "avg_duration_min": 15,
+    "tags": [
+      "stories",
+      "humor"
+    ]
   }
 ]
