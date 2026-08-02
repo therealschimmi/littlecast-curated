@@ -5925,5 +5925,19 @@
       "humor",
       "culture"
     ]
+  },
+  {
+    "id": "histoires-du-soir-histoires-pour-enfants",
+    "title": "Histoires du soir｜Histoires pour enfants",
+    "publisher": "",
+    "rss": "https://www.spreaker.com/show/7160263/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/77ed9443dd4fdefa3216b87faae29b9b.jpg",
+    "language": "fr",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "languages"
+    ]
   }
 ]
