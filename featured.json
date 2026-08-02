@@ -5654,5 +5654,17 @@
       "humor",
       "drama"
     ]
+  },
+  {
+    "id": "domino-deutsch-franzosische-kindernachrichten",
+    "title": "Domino: Deutsch-Französische Kindernachrichten",
+    "publisher": "",
+    "rss": "https://sr-mediathek.de/pcast/feeds/SR1_DFK_P/feed.xml",
+    "artwork": "https://sr-mediathek.de/img/sendungen/SR1_DFK_P~_v-sr_Square_1400.jpg?bf992a939d1f62251cc48b23afb0543e",
+    "language": "de",
+    "tags": [
+      "languages",
+      "culture"
+    ]
   }
 ]
