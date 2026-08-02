@@ -6304,5 +6304,21 @@
       "humor",
       "quiz"
     ]
+  },
+  {
+    "id": "5-for-5-trivia",
+    "title": "5 for 5 Trivia",
+    "publisher": "Pinna",
+    "rss": "https://feeds.megaphone.fm/5for5trivia",
+    "artwork": "https://megaphone.imgix.net/podcasts/497f8292-a139-11eb-9b6b-6b2e9e47bd13/image/17d4372ab4378262423335dcf8549257.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "language": "en",
+    "added_at": "2026-07-14T07:14:31Z",
+    "avg_duration_min": 5,
+    "tags": [
+      "quiz",
+      "humor",
+      "animals",
+      "space"
+    ]
   }
 ]
