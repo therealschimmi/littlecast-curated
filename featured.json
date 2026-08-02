@@ -6093,5 +6093,20 @@
       "humor",
       "drama"
     ]
+  },
+  {
+    "id": "brushy-fun-facts-for-kids",
+    "title": "Brushy: Fun Facts For Kids",
+    "publisher": "Podspot",
+    "rss": "https://feeds.acast.com/public/shows/62303b1c32263700120111cb",
+    "artwork": "https://assets.pippa.io/shows/62303b1c32263700120111cb/1665026942831-6ccfb4344acd6973cfa0b4b34d0145b9.jpeg",
+    "language": "en",
+    "added_at": "2026-07-14T07:11:13Z",
+    "avg_duration_min": 3,
+    "tags": [
+      "humor",
+      "quiz",
+      "animals"
+    ]
   }
 ]
