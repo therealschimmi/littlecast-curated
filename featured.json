@@ -6261,5 +6261,19 @@
       "interview",
       "humor"
     ]
+  },
+  {
+    "id": "les-voyages-de-petit-nuage",
+    "title": "Les voyages de Petit Nuage",
+    "publisher": "",
+    "rss": "https://feeds.acast.com/public/shows/69f9a65ad9139f13fbe0083c",
+    "artwork": "https://assets.pippa.io/shows/69f9a65ad9139f13fbe0083c/show-cover.jpg",
+    "language": "fr",
+    "avg_duration_min": 25,
+    "tags": [
+      "stories",
+      "nature",
+      "emotions"
+    ]
   }
 ]
