@@ -6377,5 +6377,19 @@
       "quiz",
       "interview"
     ]
+  },
+  {
+    "id": "philosophy-s-not-boring",
+    "title": "Philosophy's Not Boring",
+    "publisher": "",
+    "rss": "https://rss.buzzsprout.com/2631947.rss",
+    "artwork": "https://storage.buzzsprout.com/c7xyvtp0djg9fncttqpdgpxrnjbw?.jpg",
+    "language": "en",
+    "avg_duration_min": 12,
+    "tags": [
+      "emotions",
+      "religion",
+      "culture"
+    ]
   }
 ]
