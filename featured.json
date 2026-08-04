@@ -7007,5 +7007,19 @@
       "drama",
       "humor"
     ]
+  },
+  {
+    "id": "historias-do-joaozinho",
+    "title": "Histórias do Joãozinho",
+    "publisher": "João Domingos da Silva Hartmann",
+    "rss": "https://www.spreaker.com/show/6322251/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7eac7c50440a20c04d8e2326a029fb12.jpg",
+    "language": "pt",
+    "avg_duration_min": 18,
+    "tags": [
+      "stories",
+      "emotions",
+      "humor"
+    ]
   }
 ]
