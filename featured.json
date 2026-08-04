@@ -6985,5 +6985,19 @@
       "music",
       "emotions"
     ]
+  },
+  {
+    "id": "rfm-aqui-ha-gato",
+    "title": "RFM - Aqui há gato",
+    "publisher": "RFM",
+    "rss": "https://www.omnycontent.com/d/playlist/58028bcf-e01f-4274-aca7-ad3300f67928/ba543774-846f-4c54-8a32-b42f00b90d8f/93964a26-1187-4c72-8487-b42f00b91231/podcast.rss",
+    "artwork": "https://www.omnycontent.com/d/programs/58028bcf-e01f-4274-aca7-ad3300f67928/ba543774-846f-4c54-8a32-b42f00b90d8f/image.jpg?t=1777017953&size=Large",
+    "language": "pt",
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "animals",
+      "culture"
+    ]
   }
 ]
