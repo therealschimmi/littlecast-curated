@@ -6971,5 +6971,19 @@
       "interview",
       "culture"
     ]
+  },
+  {
+    "id": "kuchnia-dzwiekow-swiat-i-dzwieki",
+    "title": "Kuchnia Dźwięków - świat i dźwięki",
+    "publisher": "Piotrek Duszyński",
+    "rss": "https://anchor.fm/s/10f2c9a9c/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45395487/45395487-1778695846317-e2d95270e2bca.jpg",
+    "language": "pl",
+    "avg_duration_min": 14,
+    "tags": [
+      "nature",
+      "music",
+      "emotions"
+    ]
   }
 ]
