@@ -6979,5 +6979,19 @@
       "culture",
       "geography"
     ]
+  },
+  {
+    "id": "bajkoteka-najlepsze-audiobajki",
+    "title": "Bajkoteka - Najlepsze Audiobajki",
+    "publisher": "Bajkoteka",
+    "rss": "https://www.spreaker.com/show/6120876/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/58edd7c64ff89ef2825495b20c9f0d36.jpg",
+    "language": "pl",
+    "avg_duration_min": 17,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "emotions"
+    ]
   }
 ]
