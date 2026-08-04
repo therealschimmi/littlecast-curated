@@ -6938,5 +6938,19 @@
       "quiz",
       "music"
     ]
+  },
+  {
+    "id": "radio-teddy-das-interview",
+    "title": "Radio TEDDY - Das Interview",
+    "publisher": "Radio TEDDY",
+    "rss": "https://radioteddy-interview.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,s168YMznVzctk1jvCR_VzUf4p-qVTFU5NthNENM2Ns5o=/https://main.podigee-cdn.net/uploads/u9013/5ea9f036-bbb7-43aa-9151-f88c1e64744a.jpg",
+    "language": "de",
+    "avg_duration_min": 1,
+    "tags": [
+      "interview",
+      "culture",
+      "humor"
+    ]
   }
 ]
