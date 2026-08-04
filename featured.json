@@ -6957,5 +6957,19 @@
       "emotions",
       "humor"
     ]
+  },
+  {
+    "id": "srf-kids-reporter-in",
+    "title": "SRF Kids Reporter:in",
+    "publisher": "Schweizer Radio und Fernsehen (SRF)",
+    "rss": "http://www.srf.ch/feed/podcast/sd/27fbe150-ade2-4bbe-84ab-a4d745f8e492.xml",
+    "artwork": "https://download-media.srf.ch/world/image/audio/2023/04/508b6d91328549bd8a76e2c04fcf3106.png",
+    "language": "de",
+    "avg_duration_min": 15,
+    "tags": [
+      "geography",
+      "interview",
+      "culture"
+    ]
   }
 ]
