@@ -6952,5 +6952,19 @@
       "culture",
       "humor"
     ]
+  },
+  {
+    "id": "neuroklar-kids",
+    "title": "Neuroklar Kids",
+    "publisher": "Neuroklar",
+    "rss": "https://8nlwrr.podcaster.de/neuroklar-kids.rss",
+    "artwork": "https://files.pdcstrcdn.de/c/8nlwrr/i/1671468/f/Fuchs2.png",
+    "language": "de",
+    "avg_duration_min": 7,
+    "tags": [
+      "science",
+      "emotions",
+      "body"
+    ]
   }
 ]
