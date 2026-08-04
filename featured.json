@@ -1187,23 +1187,6 @@
     ]
   },
   {
-    "id": "praca-przyrodnika",
-    "title": "Praca przyrodnika",
-    "publisher": "Katarzyna Kozyra-Zyskowska",
-    "rss": "https://www.spreaker.com/show/5068265/episodes/feed",
-    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a30b28793cb972176daf2e85bbacd207.jpg",
-    "language": "pl",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 20,
-    "ageRange": "8-14",
-    "avg_duration_min": 45,
-    "tags": [
-      "science",
-      "nature",
-      "animals"
-    ]
-  },
-  {
     "id": "bajkowy-podcast",
     "title": "Bajkowy podcast",
     "publisher": "Wojciech Strózik",
