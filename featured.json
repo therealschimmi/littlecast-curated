@@ -6999,5 +6999,14 @@
       "animals",
       "culture"
     ]
+  },
+  {
+    "id": "kidcast-daily",
+    "title": "Kidcast Daily",
+    "publisher": "PlayPulse Media",
+    "rss": "https://anchor.fm/s/104f66260/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43682232/43682232-1773117704885-f2d348148a38.jpg",
+    "language": "en",
+    "avg_duration_min": 12
   }
 ]
