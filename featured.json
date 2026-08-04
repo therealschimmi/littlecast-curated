@@ -6966,5 +6966,18 @@
       "emotions",
       "body"
     ]
+  },
+  {
+    "id": "der-radio-teddy-nachrichtenpodcast-des-tages",
+    "title": "Der Radio TEDDY-Nachrichtenpodcast des Tages",
+    "publisher": "Radio TEDDY",
+    "rss": "https://rt-nachrichten-des-tages.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sRsdrf4XU9PI-ex1k2w6UfRdF4nsJAz0JqiKECfWv0Ww=/https://main.podigee-cdn.net/uploads/u9013/a9410ee4-4bfe-43ab-b940-f880581a25a0.jpg",
+    "language": "de",
+    "avg_duration_min": 3,
+    "tags": [
+      "culture",
+      "geography"
+    ]
   }
 ]
