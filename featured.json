@@ -1502,7 +1502,7 @@
     "added_at": "2026-03-25T22:20:16Z",
     "avgDurationMinutes": 10,
     "ageRange": "7-12",
-    "avg_duration_min": 9,
+    "avg_duration_min": 10,
     "tags": [
       "quiz",
       "humor"
@@ -1518,7 +1518,7 @@
     "added_at": "2026-03-25T22:20:26Z",
     "avgDurationMinutes": 25,
     "ageRange": "5-10",
-    "avg_duration_min": 22,
+    "avg_duration_min": 23,
     "tags": [
       "stories",
       "emotions",
@@ -2220,7 +2220,7 @@
     "added_at": "2026-04-07T16:31:46Z",
     "avgDurationMinutes": 10,
     "ageRange": "2-6",
-    "avg_duration_min": 11,
+    "avg_duration_min": 12,
     "tags": [
       "stories",
       "fairy-tales",
@@ -2345,7 +2345,7 @@
     "added_at": "2026-04-10T08:21:07Z",
     "avgDurationMinutes": 10,
     "ageRange": "5-10",
-    "avg_duration_min": 13,
+    "avg_duration_min": 14,
     "tags": [
       "science",
       "nature",
@@ -2360,7 +2360,7 @@
     "rss": "https://feeds.libsyn.com/576495/rss",
     "artwork": "https://static.libsyn.com/p/assets/e/e/5/1/ee51ad557de2f0d516c3140a3186d450/CuriousKidsEveryDay_FinalLogo.jpg",
     "language": "en",
-    "avg_duration_min": 13,
+    "avg_duration_min": 14,
     "tags": [
       "science",
       "emotions",
@@ -4985,7 +4985,7 @@
   },
   {
     "added_at": "2026-07-14T07:11:11Z",
-    "avg_duration_min": 20,
+    "avg_duration_min": 19,
     "id": "kitten-clucky",
     "title": "Kitten & Clucky",
     "publisher": "Amy Daniels",
@@ -5618,7 +5618,7 @@
     "rss": "https://www.spreaker.com/show/6112790/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/978be846ec43809a52de8c2c0102357a.jpg",
     "language": "en",
-    "avg_duration_min": 144,
+    "avg_duration_min": 149,
     "tags": [
       "stories",
       "fairy-tales",
@@ -6412,7 +6412,7 @@
     "rss": "https://feeds.captivate.fm/hitat-du-jour/",
     "artwork": "https://artwork.captivate.fm/1dfa4c6b-736c-4468-ba84-55a61fb549c3/yZ9GE7T-3zUknHT-h3XjMg75.jpg",
     "language": "fr",
-    "avg_duration_min": 10,
+    "avg_duration_min": 11,
     "tags": [
       "religion",
       "culture",
@@ -6902,7 +6902,7 @@
     "rss": "https://philosophy4kids.com/feed/rewind/",
     "artwork": "https://philosophy4kids.com/wp-content/uploads/2025/08/podcast-cover-letsrewind.jpg",
     "language": "en",
-    "avg_duration_min": 17,
+    "avg_duration_min": 16,
     "tags": [
       "history",
       "stories",
