@@ -139,20 +139,21 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "6-12",
+    "avg_duration_min": 4,
     "id": "weisst-dus-schon",
     "title": "Weißt du's schon? - Das Quiz für Kids",
     "publisher": "Christian Conradi",
     "rss": "https://weisstdusschon.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,smVupfyh1E-WIMuLYra_m41O5slD-YuZxdE4eRBMXjqg=/https://main.podigee-cdn.net/uploads/u45107/1eac144d-8c1d-4a30-b2b0-dbfe4c6140e1.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "6-12",
-    "avg_duration_min": 4,
     "tags": [
-      "quiz",
+      "recommended",
+      "science",
       "humor",
-      "science"
+      "quiz"
     ]
   },
   {
