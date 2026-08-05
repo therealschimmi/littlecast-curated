@@ -7120,5 +7120,20 @@
       "nature",
       "animals"
     ]
+  },
+  {
+    "id": "belette-et-ernest",
+    "title": "Belette et Ernest",
+    "publisher": "Création Collective",
+    "rss": "https://feeds.acast.com/public/shows/66d9847129a27e31671c0cab",
+    "artwork": "https://assets.pippa.io/shows/cover/1725530101221-9fcdd229-0562-48a3-a83e-467441d47b5e.jpeg",
+    "language": "fr",
+    "added_at": "2026-08-05T19:00:08Z",
+    "avg_duration_min": 7,
+    "tags": [
+      "stories",
+      "animals",
+      "nature"
+    ]
   }
 ]
