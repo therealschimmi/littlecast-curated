@@ -176,20 +176,21 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 25,
+    "ageRange": "6-10",
+    "avg_duration_min": 12,
     "id": "anna-und-die-wilden-tiere",
     "title": "Anna und die wilden Tiere",
     "publisher": "Bayerischer Rundfunk",
     "rss": "https://feeds.br.de/anna-und-die-wilden-tiere/feed.xml",
     "artwork": "https://img.br.de/a6ab1d29-858e-42a7-aa0c-4c1a63caeb6a.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 25,
-    "ageRange": "6-10",
-    "avg_duration_min": 12,
     "tags": [
-      "animals",
+      "recommended",
+      "stories",
       "nature",
-      "stories"
+      "animals"
     ]
   },
   {
