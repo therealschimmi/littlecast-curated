@@ -1,17 +1,18 @@
 [
   {
+    "avg_duration_min": 21,
     "id": "checker-tobi",
     "title": "Checker Tobi",
     "publisher": "Bayerischer Rundfunk",
     "rss": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
     "artwork": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800",
     "language": "de",
-    "avg_duration_min": 21,
     "tags": [
+      "recommended",
       "science",
-      "experiments",
+      "nature",
       "humor",
-      "nature"
+      "experiments"
     ]
   },
   {
