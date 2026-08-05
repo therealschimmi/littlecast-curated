@@ -6806,18 +6806,19 @@
     ]
   },
   {
+    "added_at": "2026-08-02T17:03:51Z",
+    "avg_duration_min": 18,
     "id": "spurnasen-true-crime-fur-kids",
     "title": "Spürnasen - True Crime für Kids",
     "publisher": "Karl und Anna",
     "rss": "https://anchor.fm/s/10b7dd564/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44777633/44777633-1769090526074-2dfb662476776.jpg",
     "language": "de",
-    "added_at": "2026-08-02T17:03:51Z",
-    "avg_duration_min": 18,
     "tags": [
+      "awarded",
       "stories",
-      "quiz",
-      "drama"
+      "drama",
+      "quiz"
     ]
   },
   {
