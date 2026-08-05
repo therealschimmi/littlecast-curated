@@ -7083,5 +7083,22 @@
       "animals",
       "nature"
     ]
+  },
+  {
+    "id": "merci-remi",
+    "title": "Merci Rémi !",
+    "publisher": "Billy the cast",
+    "rss": "https://feeds.audiomeans.fr/feed/82dbcac7-54e7-4bf1-9e49-5f17812befbd.xml",
+    "artwork": "https://static.audiomeans.fr/img/podcast/38589588-60b1-4057-a494-fdf14c81081f.jpg",
+    "language": "fr",
+    "added_at": "2026-07-14T07:18:12Z",
+    "episodes": 295,
+    "latest_episode_at": "2026-07-29T08:42:42Z",
+    "score": 8,
+    "avg_duration_min": 4,
+    "tags": [
+      "humor",
+      "emotions"
+    ]
   }
 ]
