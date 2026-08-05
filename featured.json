@@ -104,20 +104,21 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "6-12",
+    "avg_duration_min": 13,
     "id": "kinder-wollens-wissen",
     "title": "Kinder wollen's wissen",
     "publisher": "Haus der Wissenschaft Braunschweig",
     "rss": "https://kinder-wollens-wissen.podigee.io/feed/mp3",
     "artwork": "https://images.podigee-cdn.net/0x,sbjgIk8pzWv2znohEbaoXTURlO0hchp5Ep-gNLeTdYhk=/https://main.podigee-cdn.net/uploads/u36141/ff243dbc-e614-4cca-a578-f29d123969fb.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 20,
-    "ageRange": "6-12",
-    "avg_duration_min": 13,
     "tags": [
+      "recommended",
       "science",
-      "interview",
-      "quiz"
+      "quiz",
+      "interview"
     ]
   },
   {
