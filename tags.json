@@ -1,5 +1,15 @@
 [
   {
+    "id": "recommended",
+    "en": "Recommended",
+    "de": "Empfehlungen"
+  },
+  {
+    "id": "awarded",
+    "en": "Awarded",
+    "de": "Preisgekrönt"
+  },
+  {
     "id": "stories",
     "en": "Stories",
     "de": "Geschichten"
