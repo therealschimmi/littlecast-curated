@@ -7022,18 +7022,19 @@
     "avg_duration_min": 12
   },
   {
+    "added_at": "2026-08-05T18:21:24Z",
+    "avg_duration_min": 26,
     "id": "million-bazillion",
     "title": "Million Bazillion",
     "publisher": "Marketplace",
     "rss": "https://feeds.publicradio.org/public_feeds/million-bazillion",
     "artwork": "https://img.apmcdn.org/c5cbbe983392bc709dff63ee6a08147299f8b0f7/square/ca2988-20260224-on-a-teal-background-white-text-reads-marketplace-million-bazillion-we-help-dollars-make-more-sense-1400.jpg",
     "language": "en",
-    "added_at": "2026-08-05T18:21:24Z",
-    "avg_duration_min": 26,
     "tags": [
+      "awarded",
+      "humor",
       "quiz",
-      "interview",
-      "humor"
+      "interview"
     ]
   }
 ]
