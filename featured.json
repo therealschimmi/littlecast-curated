@@ -579,17 +579,18 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 10,
+    "ageRange": "3-8",
+    "avg_duration_min": 10,
     "id": "une-histoire-et-oli",
     "title": "Une Histoire Et… Oli",
     "publisher": "France Inter",
     "rss": "http://radiofrance-podcast.net/podcast09/podcast_d555ed4e-dbe5-4908-912e-b3169f9ceede.xml",
     "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2023/03/185450b9-904b-4cf2-b3b9-f7a8b065ea47/1400x1400_sc_rf_omm_0000038202_ite.jpg",
     "language": "fr",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 10,
-    "ageRange": "3-8",
-    "avg_duration_min": 10,
     "tags": [
+      "recommended",
       "stories",
       "fairy-tales",
       "drama"
