@@ -384,19 +384,20 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8",
+    "avg_duration_min": 4,
     "id": "charm-words",
     "title": "Charm Words",
     "publisher": "ABF Creative",
     "rss": "https://feeds.megaphone.fm/charmwords",
     "artwork": "https://megaphone.imgix.net/podcasts/371ec132-1f0a-11f0-916a-5fd9b9d2dcfd/image/f6845b3377d11b829f04f6686df4b624.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "4-8",
-    "avg_duration_min": 4,
     "tags": [
-      "emotions",
-      "culture"
+      "recommended",
+      "culture",
+      "emotions"
     ]
   },
   {
