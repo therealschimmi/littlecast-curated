@@ -7100,5 +7100,23 @@
       "humor",
       "emotions"
     ]
+  },
+  {
+    "id": "bestioles",
+    "title": "Bestioles",
+    "publisher": "France Inter",
+    "rss": "https://radiofrance-podcast.net/podcast09/podcast_a80ecbd5-df3d-4c9d-bee7-4e3d9efc1974.xml",
+    "artwork": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/12/c7b61f65-164a-4ec8-b0dd-74a887acf3bc/1400x1400_sc_carre-bestioles-novembre.jpg?1783922137824",
+    "language": "fr",
+    "added_at": "2026-07-14T06:58:44Z",
+    "episodes": 121,
+    "latest_episode_at": "2026-06-19T22:23:39Z",
+    "score": 8,
+    "avg_duration_min": 11,
+    "tags": [
+      "animals",
+      "stories",
+      "nature"
+    ]
   }
 ]
