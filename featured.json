@@ -1118,7 +1118,7 @@
     "added_at": "2026-03-24T00:00:00Z",
     "avgDurationMinutes": 12,
     "ageRange": "3-8",
-    "avg_duration_min": 9,
+    "avg_duration_min": 8,
     "tags": [
       "stories",
       "fairy-tales",
@@ -1373,7 +1373,7 @@
     "added_at": "2026-03-25T22:11:54Z",
     "avgDurationMinutes": 30,
     "ageRange": "5-12",
-    "avg_duration_min": 38,
+    "avg_duration_min": 40,
     "tags": [
       "stories",
       "drama",
@@ -2431,7 +2431,7 @@
     "added_at": "2026-04-10T08:26:19Z",
     "avgDurationMinutes": 15,
     "ageRange": "8-14",
-    "avg_duration_min": 16,
+    "avg_duration_min": 15,
     "tags": [
       "stories",
       "humor",
@@ -2899,7 +2899,7 @@
     "added_at": "2026-04-11T05:58:12Z",
     "avgDurationMinutes": 8,
     "ageRange": "8-14",
-    "avg_duration_min": 7,
+    "avg_duration_min": 8,
     "tags": [
       "geography",
       "history",
@@ -5550,7 +5550,7 @@
     "rss": "https://feed.ausha.co/z4LelClgE9Nm",
     "artwork": "https://image.ausha.co/btiaahiniYeohtsumAOESyVz3jLKcR1CYPC47Hm8_1400x1400.jpeg?t=1783673270",
     "language": "pt",
-    "avg_duration_min": 10,
+    "avg_duration_min": 11,
     "tags": [
       "stories",
       "emotions"
@@ -5563,7 +5563,7 @@
     "rss": "https://www.spreaker.com/show/6112790/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/978be846ec43809a52de8c2c0102357a.jpg",
     "language": "en",
-    "avg_duration_min": 149,
+    "avg_duration_min": 162,
     "tags": [
       "stories",
       "fairy-tales",
@@ -5647,7 +5647,7 @@
     "rss": "https://feed.podbean.com/oparob/feed.xml",
     "artwork": "https://pbcdn1.podbean.com/imglogo/image-logo/11199609/abc.jpg",
     "language": "nl",
-    "avg_duration_min": 14,
+    "avg_duration_min": 13,
     "tags": [
       "stories",
       "drama",
@@ -5891,7 +5891,7 @@
     "rss": "https://feed.ausha.co/4MjWau2eEXmL",
     "artwork": "https://image.ausha.co/flo9Lg3G6fCVPeg6clF13KjRhoWIlj9cFrn9qhaq_1400x1400.jpeg?t=1783673279",
     "language": "it",
-    "avg_duration_min": 12,
+    "avg_duration_min": 11,
     "tags": [
       "stories",
       "emotions"
@@ -5949,7 +5949,7 @@
     "rss": "https://feeds.megaphone.fm/whitenoisemeditationforkids",
     "artwork": "https://megaphone.imgix.net/podcasts/f1522574-8f89-11ee-85ad-eb777e227022/image/d458a963a65df09dc810f4c5e7251823.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "avg_duration_min": 72,
+    "avg_duration_min": 71,
     "tags": [
       "emotions",
       "nature"
@@ -5962,7 +5962,7 @@
     "rss": "https://rss.buzzsprout.com/2624612.rss",
     "artwork": "https://storage.buzzsprout.com/adtmo2c88vuma2emikivmz578vku?.jpg",
     "language": "en",
-    "avg_duration_min": 13,
+    "avg_duration_min": 12,
     "tags": [
       "science",
       "experiments",
@@ -6062,7 +6062,7 @@
     "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n7v2d5.jpg",
     "language": "en",
     "added_at": "2026-07-14T07:12:27Z",
-    "avg_duration_min": 8,
+    "avg_duration_min": 7,
     "tags": [
       "stories",
       "music",
@@ -6213,7 +6213,7 @@
     "rss": "https://feeds.acast.com/public/shows/69f9a65ad9139f13fbe0083c",
     "artwork": "https://assets.pippa.io/shows/69f9a65ad9139f13fbe0083c/show-cover.jpg",
     "language": "fr",
-    "avg_duration_min": 25,
+    "avg_duration_min": 24,
     "tags": [
       "stories",
       "nature",
@@ -6287,7 +6287,7 @@
     "rss": "https://anchor.fm/s/10ee4bd58/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45348390/45348390-1771419964503-0edc2701479fc.jpg",
     "language": "en",
-    "avg_duration_min": 9,
+    "avg_duration_min": 8,
     "tags": [
       "stories",
       "drama",
@@ -6836,7 +6836,7 @@
     "rss": "https://media.rss.com/kids-bible-stories-adventures/feed.xml",
     "artwork": "https://media.rss.com/kids-bible-stories-adventures/podcast_cover_20260706_010733_c6b50a16c0b36f5b3efbc93a54a36a53.png",
     "language": "en",
-    "avg_duration_min": 2,
+    "avg_duration_min": 3,
     "tags": [
       "stories",
       "religion",
@@ -6935,7 +6935,7 @@
     "rss": "https://www.spreaker.com/show/6120876/episodes/feed",
     "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/58edd7c64ff89ef2825495b20c9f0d36.jpg",
     "language": "pl",
-    "avg_duration_min": 17,
+    "avg_duration_min": 18,
     "tags": [
       "stories",
       "fairy-tales",
@@ -7019,7 +7019,12 @@
     "rss": "https://anchor.fm/s/104f66260/podcast/rss",
     "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43682232/43682232-1773117704885-f2d348148a38.jpg",
     "language": "en",
-    "avg_duration_min": 12
+    "avg_duration_min": 12,
+    "tags": [
+      "science",
+      "humor",
+      "quiz"
+    ]
   },
   {
     "added_at": "2026-08-05T18:21:24Z",
