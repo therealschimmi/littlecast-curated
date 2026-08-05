@@ -260,20 +260,21 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 15,
+    "ageRange": "4-8",
+    "avg_duration_min": 27,
     "id": "super-great-kids-stories",
     "title": "Super Great Kids' Stories",
     "publisher": "Wardour Studios",
     "rss": "https://feeds.megaphone.fm/super-great-kids-stories",
     "artwork": "https://megaphone.imgix.net/podcasts/1b733bb6-a532-11ec-844f-233e5c8f3533/image/show-cover.jpg",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 15,
-    "ageRange": "4-8",
-    "avg_duration_min": 27,
     "tags": [
+      "recommended",
       "stories",
-      "humor",
-      "emotions"
+      "emotions",
+      "humor"
     ]
   },
   {
