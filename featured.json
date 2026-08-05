@@ -7044,19 +7044,20 @@
     ]
   },
   {
+    "added_at": "2026-08-05T18:25:25Z",
+    "avg_duration_min": 12,
     "id": "how-we-explore",
     "title": "How We Explore",
     "publisher": "National Geographic",
     "rss": "https://feeds.megaphone.fm/ESP1840110822",
     "artwork": "https://megaphone.imgix.net/podcasts/c980bb4e-cbba-11ec-98f3-97d54806c918/image/ed7043c38f2a5e04566ff8972308eb8e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-08-05T18:25:25Z",
-    "avg_duration_min": 12,
     "tags": [
-      "geography",
+      "recommended",
       "science",
-      "interview",
-      "history"
+      "geography",
+      "history",
+      "interview"
     ]
   }
 ]
