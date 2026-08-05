@@ -313,20 +313,21 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "5-10",
+    "avg_duration_min": 16,
     "id": "culture-kids",
     "title": "Culture Kids",
     "publisher": "Culture Kids Productions",
     "rss": "https://feeds.megaphone.fm/ARML8941299326",
     "artwork": "https://megaphone.imgix.net/podcasts/23550d2c-0685-11ee-be68-03a4dfbd38a9/image/c8d26ee2f293c0045998fc0f5dd4979a.png",
     "language": "en",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 20,
-    "ageRange": "5-10",
-    "avg_duration_min": 16,
     "tags": [
+      "awarded",
       "stories",
-      "culture",
-      "geography"
+      "geography",
+      "culture"
     ]
   },
   {
