@@ -2991,20 +2991,21 @@
     ]
   },
   {
+    "added_at": "2026-06-11T17:41:28Z",
+    "avgDurationMinutes": 20,
+    "ageRange": "7-14",
+    "avg_duration_min": 21,
     "id": "rebel-girls-dream-on",
     "title": "Rebel Girls: Dream On",
     "publisher": "Rebel Girls",
     "rss": "https://feeds.megaphone.fm/RGS9185485759",
     "artwork": "https://megaphone.imgix.net/podcasts/7e7a113e-8304-11ed-8d05-431bf106f43b/image/Rebel_Girls_Dream_On.jpg?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "added_at": "2026-06-11T17:41:28Z",
-    "avgDurationMinutes": 20,
-    "ageRange": "7-14",
-    "avg_duration_min": 21,
     "tags": [
+      "awarded",
       "stories",
-      "emotions",
-      "culture"
+      "culture",
+      "emotions"
     ]
   },
   {
