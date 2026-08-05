@@ -332,17 +332,18 @@
     ]
   },
   {
+    "avg_duration_min": 6,
     "id": "moment-of-um",
     "title": "Moment Of Um",
     "publisher": "Brains On Universe",
     "rss": "https://feeds.megaphone.fm/LEME8451485215",
     "artwork": "https://megaphone.imgix.net/podcasts/2b251540-2920-11f1-9ee6-936ffce68034/image/7a019fcac2b0edecad6ac9eca04ffcb0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "language": "en",
-    "avg_duration_min": 6,
     "tags": [
-      "quiz",
+      "recommended",
       "science",
-      "humor"
+      "humor",
+      "quiz"
     ]
   },
   {
