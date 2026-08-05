@@ -153,17 +153,18 @@
     ]
   },
   {
+    "added_at": "2026-03-24T00:00:00Z",
+    "avgDurationMinutes": 45,
+    "ageRange": "6-12",
+    "avg_duration_min": 19,
     "id": "kakadu",
     "title": "Kakadu",
     "publisher": "Deutschlandfunk Kultur",
     "rss": "https://www.kakadu.de/kakadu-104.xml",
     "artwork": "https://bilder.deutschlandfunk.de/FI/LE/_8/69/FILE_869f7ed9b25625bceb9bfe2d15fe6f96/kakadu-podcast-100-1920x1920.jpg",
     "language": "de",
-    "added_at": "2026-03-24T00:00:00Z",
-    "avgDurationMinutes": 45,
-    "ageRange": "6-12",
-    "avg_duration_min": 19,
     "tags": [
+      "awarded",
       "stories",
       "science",
       "nature",
