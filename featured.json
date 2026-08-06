@@ -7154,5 +7154,19 @@
       "history",
       "emotions"
     ]
+  },
+  {
+    "id": "radio-teddy-nachgefragt",
+    "title": "Radio TEDDY Nachgefragt",
+    "publisher": "Radio TEDDY",
+    "rss": "https://radioteddy-nachgefragt.podigee.io/feed/mp3",
+    "artwork": "https://images.podigee-cdn.net/0x,sdBdBDS9s_qt_Edppt3HS0oSEn7rTjA8gasiqttSbW78=/https://main.podigee-cdn.net/uploads/u9013/7c4955fa-e68e-4ab3-9e0f-15cab1dbb9cd.jpeg",
+    "language": "de",
+    "avg_duration_min": 1,
+    "tags": [
+      "quiz",
+      "science",
+      "humor"
+    ]
   }
 ]
