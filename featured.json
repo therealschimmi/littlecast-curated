@@ -7168,5 +7168,20 @@
       "science",
       "humor"
     ]
+  },
+  {
+    "id": "samson-marie-de-podcast",
+    "title": "Samson & Marie: de podcast",
+    "publisher": "Ketnet Junior",
+    "rss": "https://podcasts.vrt.be/v1/program-68209220-b2a8-4d0e-8925-f86d22299a7c",
+    "artwork": "https://images.vrt.be/podcast_max_overlay/2022/12/14/69ca7afd-7bc3-11ed-b07d-02b7b76bf47f.jpg?v=1753509304887",
+    "language": "nl-be",
+    "added_at": "2026-08-07T21:51:33Z",
+    "avg_duration_min": 10,
+    "tags": [
+      "stories",
+      "humor",
+      "geography"
+    ]
   }
 ]
