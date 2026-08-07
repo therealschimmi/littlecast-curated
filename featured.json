@@ -7183,5 +7183,21 @@
       "humor",
       "geography"
     ]
+  },
+  {
+    "id": "loulou-en-lou-de-podcast-voor-kinderen",
+    "title": "Loulou en Lou, de podcast voor kinderen!",
+    "publisher": "Loulou en Lou, de podcast voor kinderen!",
+    "rss": "https://anchor.fm/s/e6f916e0/podcast/rss",
+    "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38650840/38650840-1691404115173-cca2cf36aca2a.jpg",
+    "language": "nl",
+    "added_at": "2026-08-07T21:51:34Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "stories",
+      "fairy-tales",
+      "music",
+      "emotions"
+    ]
   }
 ]
