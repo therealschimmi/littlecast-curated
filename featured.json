@@ -7214,5 +7214,19 @@
       "animals",
       "geography"
     ]
+  },
+  {
+    "id": "het-concertgebouw-voor-kinderen",
+    "title": "Het Concertgebouw voor kinderen",
+    "publisher": "Het Concertgebouw voor kinderen",
+    "rss": "https://feeds.soundcloud.com/users/soundcloud:users:980909974/sounds.rss",
+    "artwork": "https://i1.sndcdn.com/avatars-B86rK5UAUdFosbK7-Br1N5Q-original.jpg",
+    "language": "nl",
+    "added_at": "2026-08-07T21:58:12Z",
+    "avg_duration_min": 8,
+    "tags": [
+      "music",
+      "interview"
+    ]
   }
 ]
