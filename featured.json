@@ -7199,5 +7199,20 @@
       "music",
       "emotions"
     ]
+  },
+  {
+    "id": "expeditie-oceaan",
+    "title": "Expeditie Oceaan",
+    "publisher": "Freek Vonk",
+    "rss": "https://www.spreaker.com/show/5500897/episodes/feed",
+    "artwork": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/016dd3249466459130d0ff8ed6b1dabf.jpg",
+    "language": "nl",
+    "added_at": "2026-08-07T21:58:11Z",
+    "avg_duration_min": 6,
+    "tags": [
+      "nature",
+      "animals",
+      "geography"
+    ]
   }
 ]
